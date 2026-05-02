@@ -1,0 +1,251 @@
+폴더 PATH의 목록입니다.
+볼륨 일련 번호는 5C1D-1C5C입니다.
+C:\PROGRAM FILES (X86)\STEAM\STEAMAPPS\COMMON\GMODEARCHIVESPLUS_XENOSAGA
+│  UnityCrashHandler64.exe
+│  UnityPlayer.dll
+│  Xenosaga_pied_piper.exe
+│  
+├─D3D12
+│      D3D12Core.dll
+│      
+├─MonoBleedingEdge
+│  ├─EmbedRuntime
+│  │      mono-2.0-bdwgc.dll
+│  │      MonoPosixHelper.dll
+│  │      
+│  └─etc
+│      └─mono
+│          │  browscap.ini
+│          │  config
+│          │  
+│          ├─2.0
+│          │  │  DefaultWsdlHelpGenerator.aspx
+│          │  │  machine.config
+│          │  │  settings.map
+│          │  │  web.config
+│          │  │  
+│          │  └─Browsers
+│          │          Compat.browser
+│          │          
+│          ├─4.0
+│          │  │  DefaultWsdlHelpGenerator.aspx
+│          │  │  machine.config
+│          │  │  settings.map
+│          │  │  web.config
+│          │  │  
+│          │  └─Browsers
+│          │          Compat.browser
+│          │          
+│          ├─4.5
+│          │  │  DefaultWsdlHelpGenerator.aspx
+│          │  │  machine.config
+│          │  │  settings.map
+│          │  │  web.config
+│          │  │  
+│          │  └─Browsers
+│          │          Compat.browser
+│          │          
+│          └─mconfig
+│                  config.xml
+│                  
+├─save
+│      savedata01
+│      steam_autocloud.vdf
+│      
+└─Xenosaga_pied_piper_Data
+    │  app.info
+    │  boot.config
+    │  globalgamemanagers
+    │  globalgamemanagers.assets
+    │  level0
+    │  resources.assets
+    │  resources.assets.resS
+    │  RuntimeInitializeOnLoads.json
+    │  ScriptingAssemblies.json
+    │  sharedassets0.assets
+    │  sharedassets0.assets.resS
+    │  sharedassets0.resource
+    │  
+    ├─Managed
+    │      Assembly-CSharp-firstpass.dll
+    │      Assembly-CSharp.dll
+    │      com.rlabrecque.steamworks.net.dll
+    │      I18N.CJK.dll
+    │      I18N.dll
+    │      Mono.Security.dll
+    │      mscorlib.dll
+    │      netstandard.dll
+    │      SimpleAnimationComponent.dll
+    │      System.ComponentModel.Composition.dll
+    │      System.Configuration.dll
+    │      System.Core.dll
+    │      System.Data.DataSetExtensions.dll
+    │      System.Data.dll
+    │      System.dll
+    │      System.Drawing.dll
+    │      System.EnterpriseServices.dll
+    │      System.IO.Compression.dll
+    │      System.IO.Compression.FileSystem.dll
+    │      System.IO.Hashing.dll
+    │      System.Memory.dll
+    │      System.Net.Http.dll
+    │      System.Numerics.dll
+    │      System.Runtime.CompilerServices.Unsafe.dll
+    │      System.Runtime.dll
+    │      System.Runtime.Serialization.dll
+    │      System.Security.dll
+    │      System.ServiceModel.Internals.dll
+    │      System.Transactions.dll
+    │      System.Xml.dll
+    │      System.Xml.Linq.dll
+    │      UniTask.Addressables.dll
+    │      UniTask.dll
+    │      UniTask.DOTween.dll
+    │      UniTask.Linq.dll
+    │      UniTask.TextMeshPro.dll
+    │      Unity.Addressables.dll
+    │      Unity.AI.Navigation.dll
+    │      Unity.Burst.dll
+    │      Unity.Burst.Unsafe.dll
+    │      Unity.Collections.dll
+    │      Unity.Collections.LowLevel.ILSupport.dll
+    │      Unity.Mathematics.dll
+    │      Unity.Multiplayer.Center.Common.dll
+    │      Unity.Profiling.Core.dll
+    │      Unity.Recorder.Base.dll
+    │      Unity.Recorder.dll
+    │      Unity.ResourceManager.dll
+    │      Unity.ScriptableBuildPipeline.dll
+    │      Unity.TextMeshPro.dll
+    │      Unity.Timeline.dll
+    │      UnityEngine.AccessibilityModule.dll
+    │      UnityEngine.AIModule.dll
+    │      UnityEngine.AMDModule.dll
+    │      UnityEngine.AndroidJNIModule.dll
+    │      UnityEngine.AnimationModule.dll
+    │      UnityEngine.ARModule.dll
+    │      UnityEngine.AssetBundleModule.dll
+    │      UnityEngine.AudioModule.dll
+    │      UnityEngine.ClothModule.dll
+    │      UnityEngine.ClusterInputModule.dll
+    │      UnityEngine.ClusterRendererModule.dll
+    │      UnityEngine.ContentLoadModule.dll
+    │      UnityEngine.CoreModule.dll
+    │      UnityEngine.CrashReportingModule.dll
+    │      UnityEngine.DirectorModule.dll
+    │      UnityEngine.dll
+    │      UnityEngine.DSPGraphModule.dll
+    │      UnityEngine.GameCenterModule.dll
+    │      UnityEngine.GIModule.dll
+    │      UnityEngine.GraphicsStateCollectionSerializerModule.dll
+    │      UnityEngine.GridModule.dll
+    │      UnityEngine.HierarchyCoreModule.dll
+    │      UnityEngine.HotReloadModule.dll
+    │      UnityEngine.ImageConversionModule.dll
+    │      UnityEngine.IMGUIModule.dll
+    │      UnityEngine.InputForUIModule.dll
+    │      UnityEngine.InputLegacyModule.dll
+    │      UnityEngine.InputModule.dll
+    │      UnityEngine.JSONSerializeModule.dll
+    │      UnityEngine.LocalizationModule.dll
+    │      UnityEngine.MarshallingModule.dll
+    │      UnityEngine.MultiplayerModule.dll
+    │      UnityEngine.NVIDIAModule.dll
+    │      UnityEngine.ParticleSystemModule.dll
+    │      UnityEngine.PerformanceReportingModule.dll
+    │      UnityEngine.Physics2DModule.dll
+    │      UnityEngine.PhysicsModule.dll
+    │      UnityEngine.PropertiesModule.dll
+    │      UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+    │      UnityEngine.ScreenCaptureModule.dll
+    │      UnityEngine.ShaderVariantAnalyticsModule.dll
+    │      UnityEngine.SharedInternalsModule.dll
+    │      UnityEngine.SpriteMaskModule.dll
+    │      UnityEngine.SpriteShapeModule.dll
+    │      UnityEngine.StreamingModule.dll
+    │      UnityEngine.SubstanceModule.dll
+    │      UnityEngine.SubsystemsModule.dll
+    │      UnityEngine.TerrainModule.dll
+    │      UnityEngine.TerrainPhysicsModule.dll
+    │      UnityEngine.TextCoreFontEngineModule.dll
+    │      UnityEngine.TextCoreTextEngineModule.dll
+    │      UnityEngine.TextRenderingModule.dll
+    │      UnityEngine.TilemapModule.dll
+    │      UnityEngine.TLSModule.dll
+    │      UnityEngine.UI.dll
+    │      UnityEngine.UIElementsModule.dll
+    │      UnityEngine.UIModule.dll
+    │      UnityEngine.UmbraModule.dll
+    │      UnityEngine.UnityAnalyticsCommonModule.dll
+    │      UnityEngine.UnityAnalyticsModule.dll
+    │      UnityEngine.UnityConnectModule.dll
+    │      UnityEngine.UnityCurlModule.dll
+    │      UnityEngine.UnityTestProtocolModule.dll
+    │      UnityEngine.UnityWebRequestAssetBundleModule.dll
+    │      UnityEngine.UnityWebRequestAudioModule.dll
+    │      UnityEngine.UnityWebRequestModule.dll
+    │      UnityEngine.UnityWebRequestTextureModule.dll
+    │      UnityEngine.UnityWebRequestWWWModule.dll
+    │      UnityEngine.VehiclesModule.dll
+    │      UnityEngine.VFXModule.dll
+    │      UnityEngine.VideoModule.dll
+    │      UnityEngine.VirtualTexturingModule.dll
+    │      UnityEngine.VRModule.dll
+    │      UnityEngine.WindModule.dll
+    │      UnityEngine.XRModule.dll
+    │      
+    ├─Plugins
+    │  │  no_plugins_were_generated.txt
+    │  │  Steamworks.NET.txt
+    │  │  
+    │  └─x86_64
+    │          steam_api64.dll
+    │          
+    ├─Resources
+    │      unity default resources
+    │      unity_builtin_extra
+    │      
+    └─StreamingAssets
+        └─aa
+            │  catalog.bin
+            │  catalog.hash
+            │  settings.json
+            │  
+            ├─AddressablesLink
+            │      link.xml
+            │      
+            └─StandaloneWindows64
+                    achiveui-characterinput_assets_all_7cb81a8b3e28d094d68ecb364d4b5a11.bundle
+                    achiveui-common_assets_all_2bf2d83d1e52f3f6107ccc71dc53aea7.bundle
+                    achiveui-font_assets_all_05a456489c03e97b882dfe9ffc1291f0.bundle
+                    achiveui-game_assets_all_a0947903c20d8ccde705d2cd0ac2ad06.bundle
+                    achiveui-guide_assets_all_bb93d33cea1ea1de8b47b6a27bd20818.bundle
+                    achiveui-ranking_assets_all_3bb7a9b716b02860cc082cd26b560aa0.bundle
+                    achiveui-splash_assets_all_f56e2fde5824fa227a939093d7230bb3.bundle
+                    achiveui-title_assets_all_f0c5401fcb7f0d787b09389edc9189dd.bundle
+                    achiveui_assets_all_18efe090550ed488f0f98f43bf397d66.bundle
+                    ca74757fa81f00250d5c8dcdb9587b12.bundle
+                    data_assets_all_aa46b5304ea45513b3cef285083a229e.bundle
+                    e264298e1f1089e580935c35fc6d124c.bundle
+                    file_assets_all_aaa3385ba5ba8c4b94a5be3e41463df9.bundle
+                    font_assets_all_06016770435369903a158c5976a7ac43.bundle
+                    image-battle_assets_all_9f964e2115fdfc9cad276304c559d3f7.bundle
+                    image-map_assets_all_4a1d25149ff213109396754f59e87926.bundle
+                    image-system_assets_all_d73989a671be481a30813ea76770b1e8.bundle
+                    image_assets_all_7fa34f3d0c3f152e63e0f622cb86970f.bundle
+                    prefab-applibase.prefab_assets_all_9793051b1f4420319993452a88fbd156.bundle
+                    prefab-characterinput.prefab_assets_all_1a2e4590eae1eb254c0f600b20fb740d.bundle
+                    prefab-debugmenu.prefab_assets_all_ac601521203112011583ca738d2b3659.bundle
+                    prefab-dialogcommon.prefab_assets_all_a00fb7a26f38f581445639d2dad001ce.bundle
+                    prefab-gameui.prefab_assets_all_2978c04a59c94c572c7072726b4e5cbd.bundle
+                    prefab-howtoplay.prefab_assets_all_309af1f1856877b4a0be499bbd9e1aae.bundle
+                    prefab-ranking.prefab_assets_all_88512aa0407625faba3c688147a536c3.bundle
+                    prefab-setting.prefab_assets_all_830b04fdc91bfdf17819c29b540463bc.bundle
+                    prefab-splash.prefab_assets_all_5b43a112c6161cc3bad19bd058ea743a.bundle
+                    prefab-stgraphics3d.prefab_assets_all_36fe4306440b47b3a3230b9cbe969c0c.bundle
+                    prefab-title.prefab_assets_all_31b8a6316a7bf454f8d6ef4c5e1791cd.bundle
+                    prefab-window.prefab_assets_all_21020f24ff688ed33cff4e54d4ddca2c.bundle
+                    scratchpad_assets_all_6ceb21979e6a1c2be8c7712395e34c32.bundle
+                    sound_assets_all_18bb95644087cdd0412454726fc7c863.bundle
+                    vibration_assets_all_1474b8772c3403d7e89860d4deeb7c20.bundle
+                    

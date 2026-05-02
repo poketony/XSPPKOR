@@ -1,0 +1,476 @@
+{
+  "bundle_path": "C:\\Users\\JO\\XSPPKOR\\StreamingAssets\\aa\\StandaloneWindows64\\achiveui-guide_assets_all_bb93d33cea1ea1de8b47b6a27bd20818.bundle.dec",
+  "header": {
+    "sig": "UnityFS",
+    "fmt_ver": 8,
+    "unity_ver": "5.x.x",
+    "gen_ver": "6000.0.60f1",
+    "flags": 576,
+    "comp_bi_sz": 873,
+    "uncomp_bi_sz": 873
+  },
+  "bi_start": 64,
+  "data_start": 937,
+  "original_tail": "ffff00ffffff00",
+  "dirs": [
+    {
+      "offset": 0,
+      "size": 123404,
+      "status": 4,
+      "name": "CAB-77e7cb9f606f833056d91f4d48db5e1e"
+    },
+    {
+      "offset": 123404,
+      "size": 9404160,
+      "status": 0,
+      "name": "CAB-77e7cb9f606f833056d91f4d48db5e1e.resS"
+    }
+  ],
+  "blocks_original": [
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 90380,
+      "comp": 90380,
+      "flags": 0
+    }
+  ],
+  "assets": {
+    "CAB-77e7cb9f606f833056d91f4d48db5e1e": {
+      "howtoplay_keyguide_steam_02": {
+        "type": "Texture2D",
+        "file": "howtoplay_keyguide_steam_02.png",
+        "path_id": -8853585860057222658,
+        "width": 930,
+        "height": 632,
+        "format_id": 4,
+        "format_name": "RGBA32",
+        "complete_image_size": 2351040,
+        "stream_offset": 0,
+        "stream_size": 2351040,
+        "stream_path": "archive:/CAB-77e7cb9f606f833056d91f4d48db5e1e/CAB-77e7cb9f606f833056d91f4d48db5e1e.resS",
+        "png_hash": "b1011708100b2d10030ae7c05ab611c1"
+      },
+      "howtoplay_keyguide_steam_03__sprite": {
+        "type": "Sprite",
+        "file": "howtoplay_keyguide_steam_03.sprite.json",
+        "path_id": -8446075516209738735
+      },
+      "howtoplay_keyguide_steam_00": {
+        "type": "Texture2D",
+        "file": "howtoplay_keyguide_steam_00.png",
+        "path_id": -2700179567546350557,
+        "width": 930,
+        "height": 632,
+        "format_id": 4,
+        "format_name": "RGBA32",
+        "complete_image_size": 2351040,
+        "stream_offset": 2351040,
+        "stream_size": 2351040,
+        "stream_path": "archive:/CAB-77e7cb9f606f833056d91f4d48db5e1e/CAB-77e7cb9f606f833056d91f4d48db5e1e.resS",
+        "png_hash": "ac6e723726b3e38d747e37cbcea7aab4"
+      },
+      "howtoplay_keyguide_steam_01": {
+        "type": "Texture2D",
+        "file": "howtoplay_keyguide_steam_01.png",
+        "path_id": -1557085265129323367,
+        "width": 930,
+        "height": 632,
+        "format_id": 4,
+        "format_name": "RGBA32",
+        "complete_image_size": 2351040,
+        "stream_offset": 4702080,
+        "stream_size": 2351040,
+        "stream_path": "archive:/CAB-77e7cb9f606f833056d91f4d48db5e1e/CAB-77e7cb9f606f833056d91f4d48db5e1e.resS",
+        "png_hash": "54e52d7f2b0d6800f8b2418a183c69ff"
+      },
+      "howtoplay_keyguide_steam_02__sprite": {
+        "type": "Sprite",
+        "file": "howtoplay_keyguide_steam_02.sprite.json",
+        "path_id": -1477160433311141378
+      },
+      "howtoplay_keyguide_steam_01__sprite": {
+        "type": "Sprite",
+        "file": "howtoplay_keyguide_steam_01.sprite.json",
+        "path_id": 1468530162627953817
+      },
+      "howtoplay_keyguide_steam_00__sprite": {
+        "type": "Sprite",
+        "file": "howtoplay_keyguide_steam_00.sprite.json",
+        "path_id": 7051771794387551267
+      },
+      "howtoplay_keyguide_steam_03": {
+        "type": "Texture2D",
+        "file": "howtoplay_keyguide_steam_03.png",
+        "path_id": 8509738231634250769,
+        "width": 930,
+        "height": 632,
+        "format_id": 4,
+        "format_name": "RGBA32",
+        "complete_image_size": 2351040,
+        "stream_offset": 7053120,
+        "stream_size": 2351040,
+        "stream_path": "archive:/CAB-77e7cb9f606f833056d91f4d48db5e1e/CAB-77e7cb9f606f833056d91f4d48db5e1e.resS",
+        "png_hash": "fbec4d22f5e727950cb999d335b4f16b"
+      }
+    }
+  }
+}

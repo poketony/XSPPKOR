@@ -1,0 +1,518 @@
+{
+  "bundle_path": "C:\\Users\\JO\\XSPPKOR\\StreamingAssets\\aa\\StandaloneWindows64\\achiveui-title_assets_all_f0c5401fcb7f0d787b09389edc9189dd.bundle.dec",
+  "header": {
+    "sig": "UnityFS",
+    "fmt_ver": 8,
+    "unity_ver": "5.x.x",
+    "gen_ver": "6000.0.60f1",
+    "flags": 576,
+    "comp_bi_sz": 653,
+    "uncomp_bi_sz": 653
+  },
+  "bi_start": 64,
+  "data_start": 717,
+  "original_tail": "aaaaaa",
+  "dirs": [
+    {
+      "offset": 0,
+      "size": 150364,
+      "status": 4,
+      "name": "CAB-cec93d9cac751802eb6287fc05eb6cb3"
+    },
+    {
+      "offset": 150364,
+      "size": 6458112,
+      "status": 0,
+      "name": "CAB-cec93d9cac751802eb6287fc05eb6cb3.resS"
+    }
+  ],
+  "blocks_original": [
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 131072,
+      "comp": 131072,
+      "flags": 0
+    },
+    {
+      "uncomp": 54876,
+      "comp": 54876,
+      "flags": 0
+    }
+  ],
+  "assets": {
+    "CAB-cec93d9cac751802eb6287fc05eb6cb3": {
+      "title_bg_deco_00__sprite": {
+        "type": "Sprite",
+        "file": "title_bg_deco_00.sprite.json",
+        "path_id": -8744513778791105881
+      },
+      "title_window_phone_plus_00__sprite": {
+        "type": "Sprite",
+        "file": "title_window_phone_plus_00.sprite.json",
+        "path_id": -8480456709271011233
+      },
+      "title_bg_deco_03": {
+        "type": "Texture2D",
+        "file": "title_bg_deco_03.png",
+        "path_id": -6695320931144898791,
+        "width": 1060,
+        "height": 70,
+        "format_id": 4,
+        "format_name": "RGBA32",
+        "complete_image_size": 296800,
+        "stream_offset": 0,
+        "stream_size": 296800,
+        "stream_path": "archive:/CAB-cec93d9cac751802eb6287fc05eb6cb3/CAB-cec93d9cac751802eb6287fc05eb6cb3.resS",
+        "png_hash": "54ee6526bf980258865897364d50bc30"
+      },
+      "title_logo_archives_plus_00_en__sprite": {
+        "type": "Sprite",
+        "file": "title_logo_archives_plus_00_en.sprite.json",
+        "path_id": -6181778193743524966
+      },
+      "title_bg_00__sprite": {
+        "type": "Sprite",
+        "file": "title_bg_00.sprite.json",
+        "path_id": -5534283859865805748
+      },
+      "titleimage": {
+        "type": "Texture2D",
+        "file": "titleimage.png",
+        "path_id": -4837501988522184372,
+        "width": 354,
+        "height": 354,
+        "format_id": 3,
+        "format_name": "RGB24",
+        "complete_image_size": 375948,
+        "stream_offset": 296800,
+        "stream_size": 375948,
+        "stream_path": "archive:/CAB-cec93d9cac751802eb6287fc05eb6cb3/CAB-cec93d9cac751802eb6287fc05eb6cb3.resS",
+        "png_hash": "ee7427532afd41a5eb04b19348610d3d"
+      },
+      "title_frame_logo_00": {
+        "type": "Texture2D",
+        "file": "title_frame_logo_00.png",
+        "path_id": -3986533029884532282,
+        "width": 1280,
+        "height": 96,
+        "format_id": 12,
+        "format_name": "DXT5",
+        "complete_image_size": 122880,
+        "stream_offset": 672752,
+        "stream_size": 122880,
+        "stream_path": "archive:/CAB-cec93d9cac751802eb6287fc05eb6cb3/CAB-cec93d9cac751802eb6287fc05eb6cb3.resS",
+        "png_hash": "cf9f8a3e903118d97e5b2112e7d77c99"
+      },
+      "title_logo_archives_plus_00": {
+        "type": "Texture2D",
+        "file": "title_logo_archives_plus_00.png",
+        "path_id": -3894638574395360730,
+        "width": 394,
+        "height": 44,
+        "format_id": 4,
+        "format_name": "RGBA32",
+        "complete_image_size": 69344,
+        "stream_offset": 795632,
+        "stream_size": 69344,
+        "stream_path": "archive:/CAB-cec93d9cac751802eb6287fc05eb6cb3/CAB-cec93d9cac751802eb6287fc05eb6cb3.resS",
+        "png_hash": "30e1a2433491970617e1dbb59c3e3e0c"
+      },
+      "title_window_phone_shade_00": {
+        "type": "Texture2D",
+        "file": "title_window_phone_shade_00.png",
+        "path_id": -3802374586586350395,
+        "width": 470,
+        "height": 626,
+        "format_id": 4,
+        "format_name": "RGBA32",
+        "complete_image_size": 1176880,
+        "stream_offset": 864976,
+        "stream_size": 1176880,
+        "stream_path": "archive:/CAB-cec93d9cac751802eb6287fc05eb6cb3/CAB-cec93d9cac751802eb6287fc05eb6cb3.resS",
+        "png_hash": "b0158f9af10fc4f72f3622ea569a9d57"
+      },
+      "title_window_phone_shade_00__sprite": {
+        "type": "Sprite",
+        "file": "title_window_phone_shade_00.sprite.json",
+        "path_id": -3761251403820679995
+      },
+      "title_logo_archives_plus_00__sprite": {
+        "type": "Sprite",
+        "file": "title_logo_archives_plus_00.sprite.json",
+        "path_id": -3134482678297757146
+      },
+      "title_bg_00": {
+        "type": "Texture2D",
+        "file": "title_bg_00.png",
+        "path_id": -1263131325548241844,
+        "width": 1280,
+        "height": 720,
+        "format_id": 3,
+        "format_name": "RGB24",
+        "complete_image_size": 2764800,
+        "stream_offset": 2041856,
+        "stream_size": 2764800,
+        "stream_path": "archive:/CAB-cec93d9cac751802eb6287fc05eb6cb3/CAB-cec93d9cac751802eb6287fc05eb6cb3.resS",
+        "png_hash": "bb51f7c5f915b734abc0b7dba30f4cdc"
+      },
+      "titleimage__sprite": {
+        "type": "Sprite",
+        "file": "titleimage.sprite.json",
+        "path_id": -896201707453501108
+      },
+      "title_window_phone_00": {
+        "type": "Texture2D",
+        "file": "title_window_phone_00.png",
+        "path_id": -754123456954603876,
+        "width": 440,
+        "height": 604,
+        "format_id": 12,
+        "format_name": "DXT5",
+        "complete_image_size": 265760,
+        "stream_offset": 4806656,
+        "stream_size": 265760,
+        "stream_path": "archive:/CAB-cec93d9cac751802eb6287fc05eb6cb3/CAB-cec93d9cac751802eb6287fc05eb6cb3.resS",
+        "png_hash": "bd313a79c1e82bd3f7882e450df98ee6"
+      },
+      "title_bg_deco_03__sprite": {
+        "type": "Sprite",
+        "file": "title_bg_deco_03.sprite.json",
+        "path_id": -556484806377937127
+      },
+      "title_logo_archives_00": {
+        "type": "Texture2D",
+        "file": "title_logo_archives_00.png",
+        "path_id": 449806767431671328,
+        "width": 370,
+        "height": 44,
+        "format_id": 4,
+        "format_name": "RGBA32",
+        "complete_image_size": 65120,
+        "stream_offset": 5072416,
+        "stream_size": 65120,
+        "stream_path": "archive:/CAB-cec93d9cac751802eb6287fc05eb6cb3/CAB-cec93d9cac751802eb6287fc05eb6cb3.resS",
+        "png_hash": "bd654279434ef8e3f85bdb630927111f"
+      },
+      "title_bg_deco_00": {
+        "type": "Texture2D",
+        "file": "title_bg_deco_00.png",
+        "path_id": 745291801537395367,
+        "width": 1280,
+        "height": 190,
+        "format_id": 4,
+        "format_name": "RGBA32",
+        "complete_image_size": 972800,
+        "stream_offset": 5137536,
+        "stream_size": 972800,
+        "stream_path": "archive:/CAB-cec93d9cac751802eb6287fc05eb6cb3/CAB-cec93d9cac751802eb6287fc05eb6cb3.resS",
+        "png_hash": "8c9e47acc4ad61c55c8d2f29d2e7185c"
+      },
+      "title_logo_archives_00_en__sprite": {
+        "type": "Sprite",
+        "file": "title_logo_archives_00_en.sprite.json",
+        "path_id": 1403800950105311122
+      },
+      "title_logo_archives_plus_00_en": {
+        "type": "Texture2D",
+        "file": "title_logo_archives_plus_00_en.png",
+        "path_id": 2700802030093945754,
+        "width": 378,
+        "height": 44,
+        "format_id": 4,
+        "format_name": "RGBA32",
+        "complete_image_size": 66528,
+        "stream_offset": 6110336,
+        "stream_size": 66528,
+        "stream_path": "archive:/CAB-cec93d9cac751802eb6287fc05eb6cb3/CAB-cec93d9cac751802eb6287fc05eb6cb3.resS",
+        "png_hash": "c86203302927f3b17d1bf7b4e016b7d1"
+      },
+      "title_window_phone_plus_00": {
+        "type": "Texture2D",
+        "file": "title_window_phone_plus_00.png",
+        "path_id": 5193221279138037855,
+        "width": 440,
+        "height": 604,
+        "format_id": 12,
+        "format_name": "DXT5",
+        "complete_image_size": 265760,
+        "stream_offset": 6176864,
+        "stream_size": 265760,
+        "stream_path": "archive:/CAB-cec93d9cac751802eb6287fc05eb6cb3/CAB-cec93d9cac751802eb6287fc05eb6cb3.resS",
+        "png_hash": "1cd4a7ede7e6bf491550e6b979c7bf5d"
+      },
+      "title_logo_archives_00__sprite": {
+        "type": "Sprite",
+        "file": "title_logo_archives_00.sprite.json",
+        "path_id": 6559667421934509600
+      },
+      "title_frame_logo_00__sprite": {
+        "type": "Sprite",
+        "file": "title_frame_logo_00.sprite.json",
+        "path_id": 7292338865964444102
+      },
+      "title_window_phone_00__sprite": {
+        "type": "Sprite",
+        "file": "title_window_phone_00.sprite.json",
+        "path_id": 7791692893669385884
+      },
+      "title_logo_archives_00_en": {
+        "type": "Texture2D",
+        "file": "title_logo_archives_00_en.png",
+        "path_id": 8608545188253927314,
+        "width": 352,
+        "height": 44,
+        "format_id": 12,
+        "format_name": "DXT5",
+        "complete_image_size": 15488,
+        "stream_offset": 6442624,
+        "stream_size": 15488,
+        "stream_path": "archive:/CAB-cec93d9cac751802eb6287fc05eb6cb3/CAB-cec93d9cac751802eb6287fc05eb6cb3.resS",
+        "png_hash": "ee83ff28ae953dbfb74884b494754289"
+      }
+    }
+  }
+}
