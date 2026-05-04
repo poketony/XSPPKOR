@@ -118,5 +118,19 @@
       "",
       ""
     ]
+  },
+  {
+    "scene": 6,
+    "marker": "0x5403",
+    "marker_pos": 104,
+    "ptr_positions": [
+      112
+    ],
+    "lines": [
+      "　　　　　To be continued..."
+    ],
+    "trans": [
+      ""
+    ]
   }
 ]
