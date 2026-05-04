@@ -1,0 +1,121 @@
+[
+  {
+    "scene": 0,
+    "marker": "0x1b00",
+    "marker_pos": 11,
+    "ptr_positions": [
+      15,
+      20
+    ],
+    "lines": [
+      "ジャン",
+      "エーリッヒは？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "marker": "0x1b54",
+    "marker_pos": 22,
+    "ptr_positions": [
+      26,
+      31
+    ],
+    "lines": [
+      "メリス",
+      "今そこですれ違いましたが──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "marker": "0x1b54",
+    "marker_pos": 33,
+    "ptr_positions": [
+      37,
+      42,
+      47
+    ],
+    "lines": [
+      "メリス",
+      "ちょっと出てくるって。",
+      "エーリッヒがどうかしたんですか？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "marker": "0x1b54",
+    "marker_pos": 49,
+    "ptr_positions": [
+      53,
+      58
+    ],
+    "lines": [
+      "ジャン",
+      "──奴だ。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "marker": "0x1b54",
+    "marker_pos": 60,
+    "ptr_positions": [
+      64,
+      69
+    ],
+    "lines": [
+      "ジャン",
+      "エーリッヒが──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "marker": "0x1b54",
+    "marker_pos": 71,
+    "ptr_positions": [
+      75,
+      80
+    ],
+    "lines": [
+      "ジャン",
+      "奴がヴォイジャーだ──！！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "marker": "0x5403",
+    "marker_pos": 82,
+    "ptr_positions": [
+      90
+    ],
+    "lines": [
+      "　　　　　To be continued..."
+    ],
+    "trans": [
+      ""
+    ]
+  }
+]

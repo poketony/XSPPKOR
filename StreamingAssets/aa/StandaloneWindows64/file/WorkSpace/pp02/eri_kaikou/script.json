@@ -1,0 +1,36 @@
+[
+  {
+    "scene": 0,
+    "marker": "0x1b00",
+    "marker_pos": 8,
+    "ptr_positions": [
+      12,
+      17
+    ],
+    "lines": [
+      "エーリッヒ",
+      "ふぅ──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "marker": "0x1b54",
+    "marker_pos": 19,
+    "ptr_positions": [
+      23,
+      28
+    ],
+    "lines": [
+      "ジャン",
+      "エーリッヒ──？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  }
+]

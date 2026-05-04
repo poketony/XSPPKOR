@@ -1,0 +1,375 @@
+[
+  {
+    "scene": 0,
+    "marker": "0x1b00",
+    "marker_pos": 18,
+    "ptr_positions": [
+      22,
+      27,
+      32,
+      37
+    ],
+    "lines": [
+      "ホアキン",
+      "えーっと──",
+      "あの──",
+      "パパ？"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "marker": "0x1b54",
+    "marker_pos": 39,
+    "ptr_positions": [
+      43,
+      48
+    ],
+    "lines": [
+      "ジャン",
+      "なんだ、ホアキン？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "marker": "0x1b54",
+    "marker_pos": 50,
+    "ptr_positions": [
+      54,
+      59
+    ],
+    "lines": [
+      "ホアキン",
+      "へへっ──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "marker": "0x1b54",
+    "marker_pos": 61,
+    "ptr_positions": [
+      65,
+      70
+    ],
+    "lines": [
+      "ジャン",
+      "どうした？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "marker": "0x1b54",
+    "marker_pos": 72,
+    "ptr_positions": [
+      76,
+      81
+    ],
+    "lines": [
+      "ホアキン",
+      "本当に僕のパパになったんだね！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "marker": "0x1b54",
+    "marker_pos": 83,
+    "ptr_positions": [
+      87,
+      92
+    ],
+    "lines": [
+      "ジャン",
+      "──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "marker": "0x1b00",
+    "marker_pos": 104,
+    "ptr_positions": [
+      108,
+      113
+    ],
+    "lines": [
+      "シャロン",
+      "どうしたの？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "marker": "0x1b54",
+    "marker_pos": 115,
+    "ptr_positions": [
+      119,
+      124,
+      129,
+      134
+    ],
+    "lines": [
+      "ジャン",
+      "──いや",
+      "──俺は自分を感情の希薄な人間だと",
+      "思っていたが──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "marker": "0x1b54",
+    "marker_pos": 136,
+    "ptr_positions": [
+      140,
+      145,
+      150
+    ],
+    "lines": [
+      "ジャン",
+      "自分には",
+      "心がないフリをしていたのかもしれない。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "marker": "0x1b54",
+    "marker_pos": 152,
+    "ptr_positions": [
+      156,
+      161,
+      166,
+      171
+    ],
+    "lines": [
+      "シャロン",
+      "違うわ。",
+      "貴方も、死んだ主人も",
+      "優し過ぎる心ゆえに傷つくの。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "marker": "0x1b54",
+    "marker_pos": 173,
+    "ptr_positions": [
+      177,
+      182,
+      187
+    ],
+    "lines": [
+      "シャロン",
+      "この世があまりに、辛いことに",
+      "満ちているから。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "marker": "0x1b00",
+    "marker_pos": 198,
+    "ptr_positions": [
+      202,
+      207
+    ],
+    "lines": [
+      "ジャン",
+      "届いたようだな。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "marker": "0x1b54",
+    "marker_pos": 209,
+    "ptr_positions": [
+      213,
+      218
+    ],
+    "lines": [
+      "シャロン",
+      "何が？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "marker": "0x1b54",
+    "marker_pos": 220,
+    "ptr_positions": [
+      224,
+      229
+    ],
+    "lines": [
+      "ジャン",
+      "しっ、ホアキンには内緒だ。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 14,
+    "marker": "0x1b00",
+    "marker_pos": 241,
+    "ptr_positions": [
+      245,
+      250,
+      255
+    ],
+    "lines": [
+      "宅配業者",
+      "ザウアーさん",
+      "ネクサス社からお届け物です。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 15,
+    "marker": "0x1b54",
+    "marker_pos": 257,
+    "ptr_positions": [
+      261,
+      266
+    ],
+    "lines": [
+      "シャロン",
+      "ありがとう。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 16,
+    "marker": "0x1b54",
+    "marker_pos": 268,
+    "ptr_positions": [
+      272,
+      277
+    ],
+    "lines": [
+      "宅配業者",
+      "それじゃあ、確かに。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 17,
+    "marker": "0x1b00",
+    "marker_pos": 289,
+    "ptr_positions": [
+      293,
+      298
+    ],
+    "lines": [
+      "シャロン",
+      "中身はなあに──？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 18,
+    "marker": "0x1b54",
+    "marker_pos": 300,
+    "ptr_positions": [
+      304,
+      309,
+      314
+    ],
+    "lines": [
+      "ジャン",
+      "ホアキン──",
+      "向こうに行って包みを開けてみるといい。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 19,
+    "marker": "0x1b54",
+    "marker_pos": 316,
+    "ptr_positions": [
+      320,
+      325,
+      330
+    ],
+    "lines": [
+      "ホアキン",
+      "僕が？",
+      "いったい、なんだろう？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  }
+]

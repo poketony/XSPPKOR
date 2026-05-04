@@ -1,0 +1,30 @@
+[
+  {
+    "scene": 0,
+    "marker": "0x1b00",
+    "marker_pos": 8,
+    "ptr_positions": [
+      12
+    ],
+    "lines": [
+      "シャロン"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "marker": "0x1b1c",
+    "marker_pos": 27,
+    "ptr_positions": [
+      31
+    ],
+    "lines": [
+      "エーリッヒ"
+    ],
+    "trans": [
+      ""
+    ]
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "scene": 0,
+    "marker": "0x1b4f",
+    "marker_pos": 26,
+    "ptr_positions": [
+      30,
+      35
+    ],
+    "lines": [
+      "ジャン",
+      "──お前は一体？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "marker": "0x1b54",
+    "marker_pos": 37,
+    "ptr_positions": [
+      41,
+      46
+    ],
+    "lines": [
+      "ヴォイジャー",
+      "汝もまた、安らぎを欲する者──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "marker": "0x1b54",
+    "marker_pos": 48,
+    "ptr_positions": [
+      52,
+      57
+    ],
+    "lines": [
+      "ジャン",
+      "貴様が──ヴォイジャーか！？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "marker": "0x1b54",
+    "marker_pos": 59,
+    "ptr_positions": [
+      63,
+      68,
+      73,
+      78
+    ],
+    "lines": [
+      "ヴォイジャー",
+      "汝が欲するのなら",
+      "我も汝に与えん",
+      "とこしえの安らぎを──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "marker": "0x1b4f",
+    "marker_pos": 90,
+    "ptr_positions": [
+      94,
+      99
+    ],
+    "lines": [
+      "ジャン",
+      "待て！貴様に聞きたいことが──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "marker": "0x1b4f",
+    "marker_pos": 119,
+    "ptr_positions": [
+      123,
+      128,
+      133
+    ],
+    "lines": [
+      "ジャン",
+      "エーリッヒ？",
+      "何故お前がここに？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "marker": "0x1b54",
+    "marker_pos": 135,
+    "ptr_positions": [
+      139,
+      144
+    ],
+    "lines": [
+      "エーリッヒ",
+      "──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "marker": "0x1b4f",
+    "marker_pos": 159,
+    "ptr_positions": [
+      163,
+      168,
+      173
+    ],
+    "lines": [
+      "ジャン",
+      "おいっ！",
+      "エーリッヒ、どこに行く！？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  }
+]
