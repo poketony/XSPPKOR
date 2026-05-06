@@ -1,0 +1,545 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": 141,
+    "msg_positions": [
+      146,
+      149
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "この子達の胸に浮き出てる文字って",
+      "ひょっとしてさっきの──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 169,
+    "msg_positions": [
+      174,
+      177
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "ええ",
+      "あんまりだわ──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 197,
+    "msg_positions": [
+      202
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ミハエル！！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 222,
+    "msg_positions": [
+      227
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 231,
+    "msg_positions": [
+      236,
+      239
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "おいっ、ミハエル！！",
+      "応答を！！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 243,
+    "msg_positions": [
+      248
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "──聞こえています──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 254,
+    "msg_positions": [
+      259
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "子供達は！？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 265,
+    "msg_positions": [
+      285
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "そうか──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 289,
+    "msg_positions": [
+      294
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "メリスの言うとおりです。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 300,
+    "msg_positions": [
+      305
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "──また、子供か。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 309,
+    "msg_positions": [
+      314
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ミハエル──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 318,
+    "msg_positions": [
+      323
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "──はい？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": 327,
+    "msg_positions": [
+      332,
+      335,
+      338,
+      341
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "アルコーン警察の出動要請を──",
+      "この子達の回収を頼む。",
+      "全員──",
+      "──死亡だ。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": 345,
+    "msg_positions": [
+      350
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "りょ、了解しました──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 14,
+    "speaker_pos": 354,
+    "msg_positions": [
+      359,
+      362,
+      365,
+      368,
+      372,
+      375,
+      378
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "直ちに侵入者に対して",
+      "トレースを実行する！",
+      "ダイビングデバイスの",
+      "セッティングが必要になる。",
+      "進路はクリアーだ。",
+      "至急こちらに来てくれ！！",
+      "──エーリッヒはいるか？"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 15,
+    "speaker_pos": 382,
+    "msg_positions": [
+      387,
+      390,
+      393,
+      396
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "おいっ、エーリッヒ！",
+      "隊長がお呼びだ！",
+      "──おいっ！",
+      "エーリッヒ、何をしている？"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 16,
+    "speaker_pos": 400,
+    "msg_positions": [
+      403,
+      406
+    ],
+    "speaker": "エーリッヒ",
+    "speaker_trans": "",
+    "lines": [
+      "あ、ああ──",
+      "はい？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 17,
+    "speaker_pos": 410,
+    "msg_positions": [
+      415,
+      418
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ミッション中だぞ！",
+      "何をしている！？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 18,
+    "speaker_pos": 422,
+    "msg_positions": [
+      427,
+      430,
+      433,
+      437,
+      440
+    ],
+    "speaker": "エーリッヒ",
+    "speaker_trans": "",
+    "lines": [
+      "すいません──",
+      "育児プラントのトレースログで",
+      "少々気になることがありまして──",
+      "そのための調査をしていました。",
+      "どうやら気のせいだったようです。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 19,
+    "speaker_pos": 444,
+    "msg_positions": [
+      449,
+      452,
+      455,
+      458,
+      462,
+      465
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ミハエルをこちらに来させる。",
+      "──これから",
+      "センターフレームに向かい",
+      "侵入者をトレースする。",
+      "ログの転送を行うので",
+      "バックアップを頼む！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 20,
+    "speaker_pos": 469,
+    "msg_positions": [
+      474
+    ],
+    "speaker": "エーリッヒ",
+    "speaker_trans": "",
+    "lines": [
+      "──了解です。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 21,
+    "speaker_pos": 478,
+    "msg_positions": [
+      483,
+      486,
+      489
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "それと、ダイブ用に至急",
+      "６種兵装をセンターフレーム側に",
+      "まわしておいてくれ！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 22,
+    "speaker_pos": 493,
+    "msg_positions": [
+      498
+    ],
+    "speaker": "エーリッヒ",
+    "speaker_trans": "",
+    "lines": [
+      "すぐに準備いたします──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 23,
+    "speaker_pos": 504,
+    "msg_positions": [
+      509,
+      512
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "──エーリッヒさん。",
+      "やっぱり復調してないんじゃ──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 24,
+    "speaker_pos": 516,
+    "msg_positions": [
+      521,
+      524
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "──ミハエル",
+      "オフライン回線で応答しろ。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 25,
+    "speaker_pos": 528,
+    "msg_positions": [
+      533
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "──は、はい？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 26,
+    "speaker_pos": 537,
+    "msg_positions": [
+      542,
+      545,
+      548
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "エーリッヒだが",
+      "先日の後遺症があるかも知れん。",
+      "──ケアしてやってくれ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 27,
+    "speaker_pos": 552,
+    "msg_positions": [
+      557,
+      560,
+      563,
+      567,
+      570
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "──了解です。",
+      "６種兵装の転送までは",
+      "俺が付き合います！",
+      "その後",
+      "そちらへ向かいます。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 28,
+    "speaker_pos": 574,
+    "msg_positions": [
+      579
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "了解した。"
+    ],
+    "trans": [
+      ""
+    ]
+  }
+]

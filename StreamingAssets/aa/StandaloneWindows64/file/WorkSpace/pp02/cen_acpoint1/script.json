@@ -1,0 +1,302 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": -1,
+    "msg_positions": [
+      49,
+      129,
+      151
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "こにいるのか！？",
+      "ろです。",
+      "にいるのか！？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 214,
+    "msg_positions": [
+      219
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ここか？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 223,
+    "msg_positions": [
+      228,
+      231,
+      234
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "はい。",
+      "犯人はここから",
+      "ログアウトを実行したようです。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 238,
+    "msg_positions": [
+      243
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "逆探知は可能か？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 247,
+    "msg_positions": [
+      252
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "逆探知そのものは問題ありません。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 256,
+    "msg_positions": [
+      261,
+      264,
+      267,
+      270
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "ただ、犯人が完全に引き上げて",
+      "実空間で逃げ回ったら",
+      "難しいところです。",
+      "まだそこにいる事を願いますね。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 274,
+    "msg_positions": [
+      279
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "頼んだ。急げよ。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 283,
+    "msg_positions": [
+      288
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "はい。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 308,
+    "msg_positions": [
+      313
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "何か見えたか？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 317,
+    "msg_positions": [
+      322,
+      325,
+      328
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "いえ",
+      "アクセスの痕跡が確認できません。",
+      "逃げられたか──？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 332,
+    "msg_positions": [
+      337
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "遅かったか？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 341,
+    "msg_positions": [
+      346
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "隊長！吉報ですよ！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": 350,
+    "msg_positions": [
+      355
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "何だ？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": 359,
+    "msg_positions": [
+      364,
+      367
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "侵入者は、現在もハッキング続行中。",
+      "オンラインです！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 14,
+    "speaker_pos": 371,
+    "msg_positions": [
+      376
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "まだここにいるのか！？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 15,
+    "speaker_pos": 382,
+    "msg_positions": [
+      385,
+      388,
+      391,
+      394,
+      398
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "そこはダミーポイントだった様です。",
+      "すいません、迂闊でした。",
+      "トレースログに気をとられて",
+      "接続中の犯人に気付かないとは。",
+      "奴の現在地は、そこより北です。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 16,
+    "speaker_pos": 402,
+    "msg_positions": [
+      407,
+      410
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "了解。",
+      "引き続き追跡頼む。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  }
+]

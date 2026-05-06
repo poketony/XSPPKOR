@@ -1,12 +1,13 @@
 [
   {
     "scene": 0,
-    "marker": "0x1b0f",
-    "marker_pos": 26,
-    "ptr_positions": [
+    "speaker_pos": -1,
+    "msg_positions": [
       30,
       35
     ],
+    "speaker": "",
+    "speaker_trans": "",
     "lines": [
       "メリス",
       "いやあああああっ！"

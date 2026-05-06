@@ -1,0 +1,386 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": 97,
+    "msg_positions": [
+      102,
+      105,
+      108
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "う──",
+      "視界が全く定まらん！",
+      "奴に残存する麻薬の影響か？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 128,
+    "msg_positions": [
+      133,
+      136,
+      139,
+      143,
+      146,
+      149
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "──おそらくそうでしょう。",
+      "この仮想空間に",
+      "あまり長時間留まると",
+      "我々の大脳辺縁系",
+      "および前頭前野にも影響を",
+      "及ぼしかねません。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 169,
+    "msg_positions": [
+      174
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "あれは──何？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 194,
+    "msg_positions": [
+      199
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "！！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 219,
+    "msg_positions": [
+      224,
+      227,
+      230,
+      233
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "奴は──",
+      "自分の手にかけた人間達の",
+      "魂をこの場に閉じ込めておいた。",
+      "異常な嗜好だ──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 237,
+    "msg_positions": [
+      242
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 262,
+    "msg_positions": [
+      270
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "退路の確保、頼んだぞ！！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 274,
+    "msg_positions": [
+      279
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 285,
+    "msg_positions": [
+      293
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "聞こえているのか？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 297,
+    "msg_positions": [
+      302,
+      305,
+      309,
+      312,
+      316,
+      319
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "聞こえています！",
+      "でも──",
+      "まだ──",
+      "まだ──",
+      "エーリッヒさんがヴォイジャーだって",
+      "決まったわけじゃないですよね？"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 323,
+    "msg_positions": [
+      331,
+      334,
+      337,
+      341
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "我々には通常空間から",
+      "行動をサポートしてくれる",
+      "オペレータが存在しない。",
+      "頼みはお前だけなんだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 346,
+    "msg_positions": [
+      351,
+      354,
+      357,
+      361,
+      364,
+      367,
+      371,
+      374
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "──バグス。",
+      "以前なら、私もあなたの側に",
+      "付いたかもしれない──",
+      "けど",
+      "彼はもうあなたの知っている",
+      "エーリッヒではないわ。",
+      "あなたが好きだった",
+      "エーリッヒ自身の為にも力を貸して。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": 380,
+    "msg_positions": [
+      385,
+      388,
+      392,
+      395
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "──",
+      "分かりました。",
+      "前面に索敵センサーを展開しつつ",
+      "退路確保します──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": 399,
+    "msg_positions": [
+      404
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "バグス、頑張って──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 14,
+    "speaker_pos": 433,
+    "msg_positions": [
+      438
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "はい！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 15,
+    "speaker_pos": 461,
+    "msg_positions": [
+      469,
+      472
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "奴の自己診断プログラムを",
+      "チェックしてくれ──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 16,
+    "speaker_pos": 478,
+    "msg_positions": [
+      486,
+      489,
+      493,
+      496,
+      500,
+      503,
+      506
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ヴォイジャーの意識が",
+      "干渉していないかどうかだ──",
+      "バグスをメンテナンスしていたのは",
+      "エーリッヒ──",
+      "奴が何かしらの",
+      "細工をしていたという",
+      "可能性も考えられる。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 17,
+    "speaker_pos": 510,
+    "msg_positions": [
+      515,
+      682,
+      1074,
+      1080
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "了解しました。",
+      "長時間留まると",
+      "はもうあなたの知っている",
+      "診断プログラムを"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+]

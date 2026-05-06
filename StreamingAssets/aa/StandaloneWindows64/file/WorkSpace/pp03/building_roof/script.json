@@ -1,0 +1,488 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": 72,
+    "msg_positions": [
+      77
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "よかった──間に合った！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 83,
+    "msg_positions": [
+      88
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "クラウス・トーレだな？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 92,
+    "msg_positions": [
+      97
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 101,
+    "msg_positions": [
+      106,
+      109
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "退路はない。",
+      "大人しくこっちへ──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 113,
+    "msg_positions": [
+      118,
+      121,
+      124,
+      127
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "──我また祭壇の物言うを聞けり。",
+      "『然り主なる全能の神よ",
+      "　汝の審判は真なるかな",
+      "　義なるかな』と。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 131,
+    "msg_positions": [
+      136
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "──？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 157,
+    "msg_positions": [
+      162,
+      165
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "隊長！",
+      "危ないですぅっ！！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 169,
+    "msg_positions": [
+      174
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "マクロファージ──！？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 265,
+    "msg_positions": [
+      270,
+      273
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "トーレ",
+      "我々の言っていることが分かるか？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 277,
+    "msg_positions": [
+      282,
+      285,
+      288
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "ああ、分かるとも──",
+      "あんたらの言葉も",
+      "そしてあの方の言葉も──"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 294,
+    "msg_positions": [
+      299,
+      302
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "あの方？",
+      "あの方とは、ヴォイジャーのことか？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 306,
+    "msg_positions": [
+      311,
+      314,
+      317
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "あの方は血を求めてるんだ！",
+      "それもただの血じゃない！",
+      "聖なる御使いの血だ！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": 321,
+    "msg_positions": [
+      326
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "血──だって？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": 330,
+    "msg_positions": [
+      335,
+      338,
+      341,
+      344,
+      348,
+      351,
+      354,
+      357
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "ああ",
+      "聖なる血を受け継いだ者だけが",
+      "主に謁見することが許される。",
+      "あの方はそれを望んでいる。",
+      "そしてその血は",
+      "俺の中にも流れてるんだ！",
+      "一族の鼻つまみ者の",
+      "この俺にだって──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 14,
+    "speaker_pos": 377,
+    "msg_positions": [
+      382,
+      385,
+      388
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "隊長",
+      "その男は危険な精神状態にあります！",
+      "離れて下さい！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 15,
+    "speaker_pos": 394,
+    "msg_positions": [
+      399
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "待て、メリス──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 16,
+    "speaker_pos": 405,
+    "msg_positions": [
+      410,
+      413
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "俺は約束の地へ行く。",
+      "あの方の言いつけを守って──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 17,
+    "speaker_pos": 417,
+    "msg_positions": [
+      422
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "約束の地──？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 18,
+    "speaker_pos": 426,
+    "msg_positions": [
+      431,
+      434,
+      437,
+      440,
+      444,
+      447
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "ああ",
+      "何人たりとも拒絶されない場所。",
+      "俺が俺でいても",
+      "誰も嫌がらない場所だ。",
+      "親善大使のガキどもも",
+      "今はもう着いてるはずだなあ──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 19,
+    "speaker_pos": 451,
+    "msg_positions": [
+      456,
+      459
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "やはり",
+      "お前もヴォイジャーに──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 20,
+    "speaker_pos": 465,
+    "msg_positions": [
+      470,
+      473
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "隊長、慎重に。",
+      "仮想空間内での自殺は実空間でも──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 21,
+    "speaker_pos": 477,
+    "msg_positions": [
+      482,
+      485,
+      488,
+      491,
+      495,
+      498,
+      501,
+      505,
+      508
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "俺はもう行くぜ。",
+      "なあに、羨むことはない。",
+      "あんたも既にあそこへ行くための",
+      "チケットを持っているはずだ。",
+      "後はあの方がチケットに鋏を",
+      "入れてくれるのを待つだけさ──",
+      "そう──",
+      "あんたにゃその素質が",
+      "十分備わってるらしいからな。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 22,
+    "speaker_pos": 528,
+    "msg_positions": [
+      533,
+      536
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "おいっ！",
+      "待てッ！！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 23,
+    "speaker_pos": 542,
+    "msg_positions": [
+      547
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "またどこかで会おう。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 24,
+    "speaker_pos": 556,
+    "msg_positions": [
+      561
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "！"
+    ],
+    "trans": [
+      ""
+    ]
+  }
+]

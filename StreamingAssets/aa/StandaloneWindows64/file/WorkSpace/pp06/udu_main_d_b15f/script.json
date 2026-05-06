@@ -1,0 +1,86 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": -1,
+    "msg_positions": [
+      31
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "倒さないことには"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 99,
+    "msg_positions": [
+      104
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "空間変化！？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 120,
+    "msg_positions": [
+      125
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "！！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 129,
+    "msg_positions": [
+      134,
+      137,
+      140
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "どうやら",
+      "こいつを倒さないことには",
+      "先には進めないようですね。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 146,
+    "msg_positions": [
+      154,
+      203
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "――行くぞ！",
+      "ことには"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  }
+]

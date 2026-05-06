@@ -1,0 +1,947 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": 124,
+    "msg_positions": [
+      129
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "ちっ！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 135,
+    "msg_positions": [
+      140,
+      143,
+      146,
+      149
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "敵の兵装が予想以上に",
+      "仮想空間用に特化されています！！",
+      "このまま交戦状態が続くと",
+      "ボク達も危険に──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 153,
+    "msg_positions": [
+      158,
+      161
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "分かってる。",
+      "──さぁ、どうする？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 168,
+    "msg_positions": [
+      173
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "う、う──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 195,
+    "msg_positions": [
+      200
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "右だ！！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 204,
+    "msg_positions": [
+      209
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "！！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 244,
+    "msg_positions": [
+      249
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "大丈夫か？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 253,
+    "msg_positions": [
+      258,
+      261
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "た、隊長！",
+      "申し訳ありません──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 265,
+    "msg_positions": [
+      270,
+      273,
+      276,
+      279
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "詳しいことはミッション終了後に",
+      "説明してもらう。",
+      "それよりも今は、あの",
+      "門番(スレイプニル)をどうするかだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 285,
+    "msg_positions": [
+      290
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "バグス！！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 294,
+    "msg_positions": [
+      299
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "ハ、ハイーッ！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 303,
+    "msg_positions": [
+      308,
+      311,
+      314
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "エーリッヒが対６種の兵装を",
+      "転送してきたはずだ。",
+      "兵装を切り替え、各人に転送しろ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": 318,
+    "msg_positions": [
+      323,
+      326
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "ホントですぅ！",
+      "皆さんの分も全部用意されています！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": 330,
+    "msg_positions": [
+      335,
+      338,
+      341,
+      345,
+      348,
+      352,
+      355,
+      358
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "どんなに改良した",
+      "マクロファージであれ",
+      "所詮は人間の手によるものだ。",
+      "我々がここに侵入して来れたのは",
+      "こちらが一歩リードしている証だ。",
+      "あの歩行戦車も",
+      "「よくできたプログラム」に",
+      "過ぎない。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 14,
+    "speaker_pos": 364,
+    "msg_positions": [
+      369
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "行くぞ！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 15,
+    "speaker_pos": 550,
+    "msg_positions": [
+      555,
+      558,
+      561
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "──先を急ぐぞ。",
+      "大使達が拘留されているポイントまで",
+      "あと少しだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 16,
+    "speaker_pos": 565,
+    "msg_positions": [
+      756,
+      778,
+      947,
+      1105
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "U種の兵装を",
+      "ﾌ兵装を",
+      "ｩってる。",
+      "あれは？"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 17,
+    "speaker_pos": 1109,
+    "msg_positions": [
+      1114,
+      1117,
+      1120
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "犯人が用意したものではなさそうね。",
+      "あらかじめこの空間に埋設された",
+      "マクロファージかしら？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 18,
+    "speaker_pos": 1129,
+    "msg_positions": [
+      1134
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "バグス！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 19,
+    "speaker_pos": 1138,
+    "msg_positions": [
+      1143,
+      1146,
+      1149,
+      1153,
+      1156,
+      1160,
+      1163,
+      1166
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "検索してます！",
+      "あっ！",
+      "ありました。",
+      "タオインダストリー製の",
+      "迎撃用歩行戦車スレイプニル。",
+      "４６１４年製。",
+      "かなり年代物の",
+      "マクロファージですね──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 20,
+    "speaker_pos": 1170,
+    "msg_positions": [
+      1175,
+      1178
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "埋設のされ方が気に入らんな──",
+      "データを俺に回せ！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 21,
+    "speaker_pos": 1184,
+    "msg_positions": [
+      1189,
+      1194,
+      1197,
+      1200,
+      1204,
+      1207
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "メリス！",
+      "解析が終了するまで手を出さないよう",
+      "アルコーン警察〈ここ〉の人間に",
+      "伝えてくれ！",
+      "あれがただの",
+      "マクロファージとは思えん。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 22,
+    "speaker_pos": 1211,
+    "msg_positions": [
+      1216
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "え、ええ。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 23,
+    "speaker_pos": 1228,
+    "msg_positions": [
+      1233,
+      1236,
+      1239,
+      1243,
+      1246
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "全隊に通達。",
+      "現在、歩行戦車に関する情報を",
+      "解析中です。",
+      "我々の指示があるまでは",
+      "絶対に手を出さないように──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 24,
+    "speaker_pos": 1255,
+    "msg_positions": [
+      1260,
+      1263
+    ],
+    "speaker": "マリオン",
+    "speaker_trans": "",
+    "lines": [
+      "敵を前に待機だと？",
+      "現場知らずのエリートは悠長だな。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 25,
+    "speaker_pos": 1267,
+    "msg_positions": [
+      1270,
+      1273,
+      1276,
+      1279
+    ],
+    "speaker": "マーク",
+    "speaker_trans": "",
+    "lines": [
+      "連警のお偉方は",
+      "論理至上主義だからな。",
+      "あんな歩行戦車",
+      "よくある張子の虎だ。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 26,
+    "speaker_pos": 1283,
+    "msg_positions": [
+      1286
+    ],
+    "speaker": "マーク",
+    "speaker_trans": "",
+    "lines": [
+      "さっさと除去して先に進もうぜ。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 27,
+    "speaker_pos": 1290,
+    "msg_positions": [
+      1293
+    ],
+    "speaker": "マリオン",
+    "speaker_trans": "",
+    "lines": [
+      "了解。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 28,
+    "speaker_pos": 1302,
+    "msg_positions": [
+      1305,
+      1308,
+      1311
+    ],
+    "speaker": "マリオン",
+    "speaker_trans": "",
+    "lines": [
+      "アルファ、ダートで足止めを。",
+      "ブラボー、右翼から敵側面へ回り込め",
+      "チャーリー、狙撃ポイント確保。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 29,
+    "speaker_pos": 1315,
+    "msg_positions": [
+      1318,
+      1321,
+      1324,
+      1327
+    ],
+    "speaker": "マリオン",
+    "speaker_trans": "",
+    "lines": [
+      "首根っこがウイークポイントだ。",
+      "露出のタイミングを逃すなよ。",
+      "───よし！",
+      "ＧＯ！！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 30,
+    "speaker_pos": 1337,
+    "msg_positions": [
+      1342,
+      1345
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "あっ！",
+      "待ちなさい！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 31,
+    "speaker_pos": 1349,
+    "msg_positions": [
+      1354
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "くッ！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 32,
+    "speaker_pos": 1373,
+    "msg_positions": [
+      1378
+    ],
+    "speaker": "マリオン",
+    "speaker_trans": "",
+    "lines": [
+      "捕捉された！！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 33,
+    "speaker_pos": 1382,
+    "msg_positions": [
+      1385,
+      1388
+    ],
+    "speaker": "マーク",
+    "speaker_trans": "",
+    "lines": [
+      "こいつ！",
+      "見掛けの割に反応が早い！？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 34,
+    "speaker_pos": 1464,
+    "msg_positions": [
+      1469,
+      1473,
+      1476
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "メリス！",
+      "おいっ、メリス！！",
+      "しっかりしろ！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 35,
+    "speaker_pos": 1507,
+    "msg_positions": [
+      1512,
+      1515,
+      1518
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "隊長抜きでミッションを",
+      "達成するのだろう？",
+      "この程度の事で動揺してどうする？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 36,
+    "speaker_pos": 1522,
+    "msg_positions": [
+      1527,
+      1530
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "ラクティスさん。",
+      "ちょっと言いすぎじゃ──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 37,
+    "speaker_pos": 1534,
+    "msg_positions": [
+      1539,
+      1542,
+      1545,
+      1548,
+      1552,
+      1555
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "お前は黙ってろ。",
+      "さっき言っただろ",
+      "お前がどうしようと",
+      "俺は課せられた使命を的確に遂行する",
+      "そのための",
+      "足手まといにはならんでくれ。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 38,
+    "speaker_pos": 1571,
+    "msg_positions": [
+      1576
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "おそらく死んだだろうな。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 39,
+    "speaker_pos": 1589,
+    "msg_positions": [
+      1594,
+      1597,
+      1600,
+      1603
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "特捜班の職に就いていれば",
+      "こんな状況は日常茶飯事だ。",
+      "この程度で動揺する人間に",
+      "指揮官が務まると思うのか？"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 40,
+    "speaker_pos": 1616,
+    "msg_positions": [
+      1621,
+      1624
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "ログアウトするならしろ。",
+      "俺が任務を引き継ぐ。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 41,
+    "speaker_pos": 1637,
+    "msg_positions": [
+      1642,
+      1645
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "どうした？",
+      "このまま俺と先に進むか？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 42,
+    "speaker_pos": 1651,
+    "msg_positions": [
+      1656,
+      1659
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "わかった。",
+      "ミッションを続けるわ。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 43,
+    "speaker_pos": 1663,
+    "msg_positions": [
+      1668,
+      1671,
+      1674,
+      1677
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "よし、それじゃあ",
+      "スレイプニルを破壊することが先決だ",
+      "懐に入ってしまえば",
+      "デリートされることはないはずだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 44,
+    "speaker_pos": 1681,
+    "msg_positions": [
+      1686,
+      1689,
+      1692
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "幸いエーリッヒが",
+      "バグスの兵装を対３種テロリストに",
+      "設定してくれている。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 45,
+    "speaker_pos": 1696,
+    "msg_positions": [
+      1701,
+      1704,
+      1707,
+      1870,
+      1890,
+      1910,
+      1930
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "我々３人でも",
+      "破壊することは可能だろう。",
+      "行くぞ！",
+      "ｪ対６種の兵装を",
+      "ﾈに改良した",
+      "ｪ対６種の兵装を",
+      "ﾈに改良した"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 46,
+    "speaker_pos": 2062,
+    "msg_positions": [
+      2394
+    ],
+    "speaker": "qここ〉の人間に",
+    "speaker_trans": "",
+    "lines": [
+      "ｪ対６種の兵装を"
+    ],
+    "trans": [
+      ""
+    ]
+  }
+]

@@ -1,0 +1,1565 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": -1,
+    "msg_positions": [
+      130
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "ジャーか？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 193,
+    "msg_positions": [
+      198,
+      201
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "誰だい？",
+      "俺の世界に入ってきたのは。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 208,
+    "msg_positions": [
+      213,
+      216,
+      219,
+      222,
+      226,
+      229,
+      232
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "誰でもいいや。",
+      "どのみち、あんたも傍観者なんだろ。",
+      "人間はみんな",
+      "窓を流れゆく雨粒みたいなもんさ。",
+      "邪魔しないでくれ。",
+      "ここは俺がやっと手に入れた",
+      "終着点なんだから。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 238,
+    "msg_positions": [
+      243
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "貴様は、ヴォイジャーなのか？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 247,
+    "msg_positions": [
+      252,
+      255,
+      258,
+      261
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "ヴォイジャー？",
+      "ヴォイジャーって、何だったっけな。",
+      "俺はずっと一人だった。",
+      "誰にも、俺の姿なんて見えやしない。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 265,
+    "msg_positions": [
+      270,
+      273
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "孤独だったから",
+      "事件に関与したと言いたいのか？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 279,
+    "msg_positions": [
+      284,
+      287,
+      290
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "ああ、思い出したよ。",
+      "ヴォイジャー。",
+      "俺に安らぎをくれると言った男だ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 294,
+    "msg_positions": [
+      299
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "安らぎ？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 303,
+    "msg_positions": [
+      308,
+      311,
+      314,
+      318,
+      321,
+      324,
+      327,
+      331,
+      334,
+      337,
+      340
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "ああ──そうさ。",
+      "あの方は──",
+      "なんだったかな──",
+      "──そう",
+      "脳内麻薬プログラムを集めてたんだ。",
+      "──そして、仕事を手伝えば",
+      "この空しさを埋めてくれると言った。",
+      "『絶対的な安らぎをやる』って。",
+      "あんたにもあるだろう？",
+      "埋められない孤独。",
+      "人間なら、あるはずだよ。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 344,
+    "msg_positions": [
+      349,
+      352
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ヴォイジャーが貴様の孤独を",
+      "埋めてやると言ったのか？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 356,
+    "msg_positions": [
+      361,
+      364,
+      367,
+      371,
+      374,
+      377
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "そう。",
+      "だから、俺は",
+      "あの方の言うとおりに動いた。",
+      "そして今",
+      "俺はやっと安らぎを手に入れた──",
+      "それはあの方の言う約束の地。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 381,
+    "msg_positions": [
+      386,
+      389
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "約束の地？",
+      "ここがそうなのか？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": 393,
+    "msg_positions": [
+      398,
+      401,
+      404,
+      407,
+      411,
+      414,
+      417
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "ここだって？",
+      "冗談はよせよ。",
+      "ここは俺がやさぐれていた",
+      "薄汚い場所さ──",
+      "偏見、裏切、嫉妬、憎悪──",
+      "もう飽き飽きなんだ。",
+      "こことはもうじきさよならだ──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": 421,
+    "msg_positions": [
+      426,
+      429
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "お前の他にも",
+      "お前のような人間がいるのか？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 14,
+    "speaker_pos": 433,
+    "msg_positions": [
+      438,
+      441,
+      444,
+      448,
+      451,
+      454
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "──俺のような？",
+      "約束の地へのチケットを",
+      "手に入れた人間がいるかって？",
+      "ああ、いるともさ──",
+      "あの方の真の目的を達成するには",
+      "アブラクサスの血が必要なんだ──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 15,
+    "speaker_pos": 458,
+    "msg_positions": [
+      463,
+      466
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "アブラクサスの血──",
+      "一体何のことだ？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 16,
+    "speaker_pos": 470,
+    "msg_positions": [
+      475,
+      478
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "アブラクサス──",
+      "それはゾ──ハ──ル──の"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 17,
+    "speaker_pos": 482,
+    "msg_positions": [
+      487
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "今、何と言った？ゾハ──何だと？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 18,
+    "speaker_pos": 491,
+    "msg_positions": [
+      496,
+      499,
+      502,
+      505
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "その鉢、太陽の上に傾けたれば",
+      "太陽は──",
+      "太陽は火をもて",
+      "人を焼くことを許さる。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 19,
+    "speaker_pos": 509,
+    "msg_positions": [
+      514
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "あの言葉か！？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 20,
+    "speaker_pos": 518,
+    "msg_positions": [
+      523,
+      526
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "気をつけて、隊長！",
+      "新しいパターンです！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 21,
+    "speaker_pos": 530,
+    "msg_positions": [
+      535,
+      538,
+      541,
+      545,
+      548
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "斯て人々、烈しき熱に焼かれて",
+      "此等の苦難をつかさどる権威を",
+      "有ちたまう神の名を穢し",
+      "かつ悔改めずして",
+      "神に栄光を帰せざりき！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 22,
+    "speaker_pos": 554,
+    "msg_positions": [
+      559,
+      562
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "奴は──",
+      "奴は神の名を騙り俺達を欺いた！！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 23,
+    "speaker_pos": 582,
+    "msg_positions": [
+      587
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "奴とは、ヴォイジャーか？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 24,
+    "speaker_pos": 591,
+    "msg_positions": [
+      596,
+      599,
+      602,
+      605,
+      609,
+      612,
+      615,
+      618
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "違う！",
+      "何故あの方は、奴まで約束の地へ",
+      "連れて行くんだ！？",
+      "奴が救済に値する人間だと言うのか！",
+      "アブラクサスの富を貪り",
+      "民を煽る男──",
+      "ユリウスこそが光に焼かれるべき",
+      "卑しい存在だというのに！！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 25,
+    "speaker_pos": 622,
+    "msg_positions": [
+      627
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ユリウスだと？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 26,
+    "speaker_pos": 633,
+    "msg_positions": [
+      638
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ミハエル、記録したか！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 27,
+    "speaker_pos": 642,
+    "msg_positions": [
+      647
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "はい、隊長！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 28,
+    "speaker_pos": 653,
+    "msg_positions": [
+      658
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "至急本部に連絡！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 29,
+    "speaker_pos": 662,
+    "msg_positions": [
+      667,
+      670,
+      673
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "本部に連絡？",
+      "いいんですか？",
+      "非合法ダイブ中ですよ！？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 30,
+    "speaker_pos": 677,
+    "msg_positions": [
+      682,
+      685,
+      688
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "構わん！",
+      "早急にユリウス教皇の",
+      "安否を確認しろ！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 31,
+    "speaker_pos": 692,
+    "msg_positions": [
+      697
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "教皇の、ですか！？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 32,
+    "speaker_pos": 703,
+    "msg_positions": [
+      708,
+      711,
+      714
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "詳しい話は後だ！",
+      "即時ログアウトする！",
+      "記録はダブルバックアップしたな！？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 33,
+    "speaker_pos": 718,
+    "msg_positions": [
+      723,
+      726
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "ＯＫです──",
+      "いや、まずい！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 34,
+    "speaker_pos": 730,
+    "msg_positions": [
+      735
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "何だ？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 35,
+    "speaker_pos": 740,
+    "msg_positions": [
+      745,
+      748,
+      751,
+      754
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "クラウスの残存自我から",
+      "極めて駆逐プログラムに似た",
+      "波形が出ています！",
+      "注意して下さい！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 36,
+    "speaker_pos": 766,
+    "msg_positions": [
+      771
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "くうっっっっ！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 37,
+    "speaker_pos": 775,
+    "msg_positions": [
+      780
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "──！？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 38,
+    "speaker_pos": 869,
+    "msg_positions": [
+      874
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "クラウス──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 39,
+    "speaker_pos": 905,
+    "msg_positions": [
+      910,
+      913
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "今の交戦の余波で",
+      "クラウスの意識世界が崩壊するぞ！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 40,
+    "speaker_pos": 933,
+    "msg_positions": [
+      938
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "タイムリミットもあと１０分です！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 41,
+    "speaker_pos": 942,
+    "msg_positions": [
+      947
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ミハエル、サルベージを──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 42,
+    "speaker_pos": 955,
+    "msg_positions": [
+      960
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "うっ──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 43,
+    "speaker_pos": 964,
+    "msg_positions": [
+      969
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "隊長？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 44,
+    "speaker_pos": 973,
+    "msg_positions": [
+      979
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 45,
+    "speaker_pos": 982,
+    "msg_positions": [
+      987
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "大、丈夫──だ──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 46,
+    "speaker_pos": 993,
+    "msg_positions": [
+      998
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "くっ──ううっ──！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 47,
+    "speaker_pos": 1061,
+    "msg_positions": [
+      1064,
+      1067,
+      1070
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ねえ、お母さん。",
+      "どうしてお父さんは",
+      "帰ってこないの？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 48,
+    "speaker_pos": 1074,
+    "msg_positions": [
+      1077,
+      1080
+    ],
+    "speaker": "イングリッド",
+    "speaker_trans": "",
+    "lines": [
+      "街を守るお仕事だからよ。",
+      "お父さんはみんなを守る為に働くの。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 49,
+    "speaker_pos": 1084,
+    "msg_positions": [
+      1087,
+      1090
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "じゃあ、どうしてお母さんは",
+      "いつも泣いてるの？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 50,
+    "speaker_pos": 1094,
+    "msg_positions": [
+      1097
+    ],
+    "speaker": "イングリッド",
+    "speaker_trans": "",
+    "lines": [
+      "お父さんが帰ってこないからよ。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 51,
+    "speaker_pos": 1123,
+    "msg_positions": [
+      1126,
+      1129
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "母さん、父さんは何の為に",
+      "死んだんだろう？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 52,
+    "speaker_pos": 1133,
+    "msg_positions": [
+      1136,
+      1139,
+      1142,
+      1145
+    ],
+    "speaker": "イングリッド",
+    "speaker_trans": "",
+    "lines": [
+      "市民の安全の為によ、ジャン。",
+      "父さんは使命を果たすために",
+      "行ったの。",
+      "警官ですもの。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 53,
+    "speaker_pos": 1151,
+    "msg_positions": [
+      1154,
+      1157,
+      1161,
+      1164,
+      1167
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "父さんの顔が思い出せないよ",
+      "母さん。",
+      "僕は、父さんがどんな人だったか",
+      "思い出せない。",
+      "いつもいなかったから。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 54,
+    "speaker_pos": 1183,
+    "msg_positions": [
+      1186,
+      1225,
+      1230
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "母さん──母さん、どこ？",
+      "、隊長！",
+      "ショーンおじさん──"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 55,
+    "speaker_pos": 1234,
+    "msg_positions": [
+      1237,
+      1240
+    ],
+    "speaker": "マッカラム",
+    "speaker_trans": "",
+    "lines": [
+      "ジャン、君の父さんは",
+      "勇敢な男だった。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 56,
+    "speaker_pos": 1264,
+    "msg_positions": [
+      1267,
+      1270,
+      1273
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "自分は治安を維持し",
+      "市民に貢献する職務について学びたく",
+      "志願しました。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 57,
+    "speaker_pos": 1277,
+    "msg_positions": [
+      1280,
+      1283
+    ],
+    "speaker": "マッカラム",
+    "speaker_trans": "",
+    "lines": [
+      "ジャン、今でもまだ",
+      "父親を誇りに思っているかね？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 58,
+    "speaker_pos": 1287,
+    "msg_positions": [
+      1290
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "は、はい。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 59,
+    "speaker_pos": 1294,
+    "msg_positions": [
+      1297,
+      1300
+    ],
+    "speaker": "マッカラム",
+    "speaker_trans": "",
+    "lines": [
+      "君の父親は勇敢な男だった。",
+      "だが、私は時折迷うことがある。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 60,
+    "speaker_pos": 1304,
+    "msg_positions": [
+      1307
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "──と、申しますと？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 61,
+    "speaker_pos": 1311,
+    "msg_positions": [
+      1314,
+      1317
+    ],
+    "speaker": "マッカラム",
+    "speaker_trans": "",
+    "lines": [
+      "彼は市民を守ったが、彼の愛した",
+      "家族にとっては辛い結果となった。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 62,
+    "speaker_pos": 1323,
+    "msg_positions": [
+      1326,
+      1329,
+      1334
+    ],
+    "speaker": "マッカラム",
+    "speaker_trans": "",
+    "lines": [
+      "私は、彼がもう少し",
+      "臆病な男だったら、と",
+      "願ったものだ。彼の友として。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 63,
+    "speaker_pos": 1341,
+    "msg_positions": [
+      1344,
+      1347,
+      1350
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "部長！",
+      "待ってください！",
+      "部長──"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 64,
+    "speaker_pos": 1368,
+    "msg_positions": [
+      1380,
+      1385
+    ],
+    "speaker": "謎の声",
+    "speaker_trans": "",
+    "lines": [
+      "ジャン",
+      "誰だ！？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 65,
+    "speaker_pos": 1389,
+    "msg_positions": [
+      1407,
+      1410,
+      1413
+    ],
+    "speaker": "謎の声",
+    "speaker_trans": "",
+    "lines": [
+      "あなたも気づいている筈。",
+      "あなたには守るべき人達が",
+      "出来たはずだから──"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 66,
+    "speaker_pos": 1417,
+    "msg_positions": [
+      1422,
+      1425,
+      1428
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "守るべき人達？",
+      "俺は警官として",
+      "治安を守っている──"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 67,
+    "speaker_pos": 1432,
+    "msg_positions": [
+      1450,
+      1453,
+      1456,
+      1459
+    ],
+    "speaker": "謎の声",
+    "speaker_trans": "",
+    "lines": [
+      "──それに、今あなたが居る場所は",
+      "あなたを必要としている",
+      "世界なんかじゃない。",
+      "ここは──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 68,
+    "speaker_pos": 1465,
+    "msg_positions": [
+      1470
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "お前は一体──？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 69,
+    "speaker_pos": 1474,
+    "msg_positions": [
+      1550
+    ],
+    "speaker": "謎の声",
+    "speaker_trans": "",
+    "lines": [
+      "ここは──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 70,
+    "speaker_pos": 1554,
+    "msg_positions": [
+      1559,
+      1562
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "隊長！",
+      "よかった、心配しましたぁ。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 71,
+    "speaker_pos": 1566,
+    "msg_positions": [
+      1572
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 72,
+    "speaker_pos": 1575,
+    "msg_positions": [
+      1580
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "俺は確か──クラウスの意識に──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 73,
+    "speaker_pos": 1587,
+    "msg_positions": [
+      1592,
+      1595,
+      1598
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "──！！",
+      "ユリウス教皇が危険だ！",
+      "即時脱出する。ミハエル──！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 74,
+    "speaker_pos": 1602,
+    "msg_positions": [
+      1607,
+      1610,
+      1613,
+      1616,
+      1620,
+      1623,
+      1626
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "それが──",
+      "残存自我の消失によって",
+      "クラウスの意識崩壊が",
+      "加速度的に進行してきてるんです！",
+      "こちらでログアウトポイントを",
+      "特定してもすぐに",
+      "消失してしまって──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 75,
+    "speaker_pos": 1630,
+    "msg_positions": [
+      1635,
+      1638
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "エーリッヒは！？",
+      "二人で手分けすれば何とか──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 76,
+    "speaker_pos": 1642,
+    "msg_positions": [
+      1647,
+      1650
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "そ、それが、エーリッヒは",
+      "現在教皇の安否を確認中で──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 77,
+    "speaker_pos": 1654,
+    "msg_positions": [
+      1659,
+      1662,
+      1665,
+      1669,
+      1672,
+      1675
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "──そうか。",
+      "独力でログアウトポイントへ",
+      "向かうしかなさそうだな。",
+      "ミハエル、ポイント発見後",
+      "連絡をする。",
+      "サルベージの準備を頼む！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 78,
+    "speaker_pos": 1679,
+    "msg_positions": [
+      1684,
+      1873,
+      1908,
+      1920,
+      1995,
+      2015,
+      2037,
+      2100
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "はいっ！",
+      "サスの血が必要なんだ──",
+      "言ったのか？",
+      "サスの血が必要なんだ──",
+      "サスの血が必要なんだ──",
+      "サスの血が必要なんだ──",
+      "サスの血が必要なんだ──",
+      "て駆逐プログラムに似た"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+]

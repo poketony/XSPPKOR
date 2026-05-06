@@ -1050,7 +1050,7 @@ def cmd_extract(pp_num, dat_path, out_dir):
                 img_count += 1
             else:
                 # pl_ block_0: 전용 파서 사용
-                if (sub['name'].startswith('pl_') or sub['name'].startswith('hs_')) and af['index'] == 0:
+                if '_' in sub['name'] and af['index'] == 0:
                     pl_scenes = parse_plscript(af['data'])
                     if pl_scenes:
                         json.dump(pl_scenes,
@@ -1132,7 +1132,7 @@ def cmd_repack(pp_num, orig_dat_path, mod_dir, out_dat_path):
                         any(e.get('speaker_trans','').strip(' \t\n\r') != '' for e in entries)
                     )
                     if has_any_trans:
-                        if (sub['name'].startswith('pl_') or sub['name'].startswith('hs_')) and af['index'] == 0:
+                        if '_' in sub['name'] and af['index'] == 0:
                             new_data = rebuild_plscript(af['data'], entries)
                         else:
                             new_data = rebuild_script(af['data'], entries)

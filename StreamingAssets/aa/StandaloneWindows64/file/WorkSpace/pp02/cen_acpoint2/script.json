@@ -1,0 +1,494 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": -1,
+    "msg_positions": [
+      23,
+      29,
+      35,
+      40,
+      61
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "。",
+      "細胞に",
+      "ｭ跡は？",
+      "ﾁてみます。",
+      "ﾁてみます。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 212,
+    "msg_positions": [
+      217
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ラクティス！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 237,
+    "msg_positions": [
+      242
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ヴォイジャーの痕跡は？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 246,
+    "msg_positions": [
+      251
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "やはり、痕跡は見当たりません。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 255,
+    "msg_positions": [
+      260,
+      263,
+      266
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ミハエル！",
+      "犯人の痕跡がない。",
+      "どうなってる？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 270,
+    "msg_positions": [
+      275,
+      278,
+      281,
+      285,
+      288
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "変です──",
+      "つい今まで、犯人の移動経路は",
+      "鮮明に表示されてたのに──",
+      "隊長達がそこへ入った途端",
+      "痕跡が消失しました！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 294,
+    "msg_positions": [
+      299,
+      302
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "消失だと！？",
+      "目の前でログアウトしたとでも──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 306,
+    "msg_positions": [
+      311
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "──なんだこれは？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 317,
+    "msg_positions": [
+      322,
+      325
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "どうした？",
+      "何か見つかったか──？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 329,
+    "msg_positions": [
+      334,
+      337,
+      340,
+      343
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "恐らくここの胎児の",
+      "情報だと思われますが",
+      "──こんなこと普通では",
+      "考えられない。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 347,
+    "msg_positions": [
+      352
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "詳しく説明しろ。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 356,
+    "msg_positions": [
+      361,
+      366,
+      369,
+      373,
+      376,
+      379,
+      383,
+      386,
+      389
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "脳内の特定の部位──",
+      "何処でしょう黒質緻密部──",
+      "腹側被蓋野──",
+      "海馬からも情報が",
+      "ロストしてしまってる！？",
+      "──ほかの胎児もあたってみます。",
+      "この子も！？──この子も！！",
+      "ひどいな。",
+      "全員か──？"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": 404,
+    "msg_positions": [
+      409
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "脳の情報がロストだと？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": 413,
+    "msg_positions": [
+      418,
+      421,
+      424,
+      427,
+      431,
+      434,
+      437,
+      440
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "この胎児達。",
+      "おかしいのは脳だけじゃない──",
+      "もっと根本的な──",
+      "先天的なものか──",
+      "あるいは",
+      "後天的なものなのかは不明ですが",
+      "基本的な組織形成──幹細胞に",
+      "重度の障害が発生しています！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 14,
+    "speaker_pos": 444,
+    "msg_positions": [
+      449
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "バックアップは取れるな？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 15,
+    "speaker_pos": 453,
+    "msg_positions": [
+      458,
+      461,
+      464
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "取っています──",
+      "しかし、私のパーソナルでは",
+      "容量が追いつきません！！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 16,
+    "speaker_pos": 468,
+    "msg_positions": [
+      473,
+      476,
+      479
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ミハエル！",
+      "ラクティスからの情報をそっちで",
+      "バックアップしろ！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 17,
+    "speaker_pos": 483,
+    "msg_positions": [
+      488,
+      491,
+      494
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "了解です。",
+      "ラクティス",
+      "回線をこっちに回せ──！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 18,
+    "speaker_pos": 498,
+    "msg_positions": [
+      503,
+      506
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "頼む──",
+      "もう許容量を越えそうだ──！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 19,
+    "speaker_pos": 510,
+    "msg_positions": [
+      515,
+      518,
+      522,
+      525,
+      528
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "待て──",
+      "これは何だ──？",
+      "ラクティス！",
+      "今すぐ回線を切れ！",
+      "繰り返す、至急回線を切れ！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 20,
+    "speaker_pos": 532,
+    "msg_positions": [
+      537
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "──？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 21,
+    "speaker_pos": 573,
+    "msg_positions": [
+      578
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ラクティス！大丈夫か？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 22,
+    "speaker_pos": 582,
+    "msg_positions": [
+      587,
+      590,
+      593,
+      785
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "私は──大丈夫です。",
+      "それよりも──接続中のシステムが",
+      "ハングしたようです。気をつけて！",
+      "痕跡は？"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 23,
+    "speaker_pos": 826,
+    "msg_positions": [
+      831
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "来たかっ！"
+    ],
+    "trans": [
+      ""
+    ]
+  }
+]

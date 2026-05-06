@@ -1,0 +1,515 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": 78,
+    "msg_positions": [
+      81,
+      84
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "──隊長！",
+      "聞こえますか！？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 88,
+    "msg_positions": [
+      93
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "どうした？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 97,
+    "msg_positions": [
+      102,
+      105,
+      108,
+      111
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "ダミーログアウトポイントに向かう",
+      "監視防壁区域に",
+      "容疑者のアクセス痕を発見。",
+      "誘導は順調です。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 115,
+    "msg_positions": [
+      120,
+      123
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "──そうか",
+      "そのまま状況確認を続行してくれ。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 131,
+    "msg_positions": [
+      136,
+      139
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "あれ？",
+      "あれれ？？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 145,
+    "msg_positions": [
+      150
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "どうかしたのか？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 158,
+    "msg_positions": [
+      163,
+      166
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "センサーがプログラムのリライトを",
+      "確認しました！！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 170,
+    "msg_positions": [
+      175,
+      178
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "きたか！",
+      "ミハエル、リライトの確認！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 182,
+    "msg_positions": [
+      187,
+      190
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "待ってください",
+      "こっちではそんな異常は──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 194,
+    "msg_positions": [
+      197
+    ],
+    "speaker": "エーリッヒ",
+    "speaker_trans": "",
+    "lines": [
+      "何だ、これは──！？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 201,
+    "msg_positions": [
+      206
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "どうした、エーリッヒ！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 210,
+    "msg_positions": [
+      215
+    ],
+    "speaker": "エーリッヒ",
+    "speaker_trans": "",
+    "lines": [
+      "空間に干渉が！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": 219,
+    "msg_positions": [
+      222
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "なんだと！？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": 226,
+    "msg_positions": [
+      229,
+      232
+    ],
+    "speaker": "エーリッヒ",
+    "speaker_trans": "",
+    "lines": [
+      "高速でプログラムのリライトが",
+      "進行している！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 14,
+    "speaker_pos": 236,
+    "msg_positions": [
+      239,
+      242
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "そんな馬鹿な！",
+      "こっちには何の反応もないぞ！？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 15,
+    "speaker_pos": 246,
+    "msg_positions": [
+      249,
+      252,
+      255,
+      258,
+      262
+    ],
+    "speaker": "エーリッヒ",
+    "speaker_trans": "",
+    "lines": [
+      "だめだ",
+      "パッチが追いつかない！",
+      "大量のマクロファージが",
+      "放出されている。",
+      "隊長、すぐに応戦の用意を！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 16,
+    "speaker_pos": 282,
+    "msg_positions": [
+      287,
+      290
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "エーリッヒ！",
+      "くっ、回線障害か──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 17,
+    "speaker_pos": 294,
+    "msg_positions": [
+      299,
+      302,
+      305,
+      308,
+      312,
+      315,
+      318
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "──隊──長",
+      "現状の──ままでは",
+      "数分後で──完全に通信が──",
+      "遮断されると──思わ──れます。",
+      "監視防壁区──域に設置した",
+      "端末から──通信を──",
+      "試みて下──さい。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 18,
+    "speaker_pos": 322,
+    "msg_positions": [
+      327,
+      330,
+      333,
+      337,
+      340
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "了解した──",
+      "監視防壁区域まではアシストなしで",
+      "行けということだな。",
+      "早急にワクチンを作成して",
+      "仮想空間への干渉を食い止めてくれ！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 19,
+    "speaker_pos": 344,
+    "msg_positions": [
+      349,
+      352,
+      355
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "はい！",
+      "隊長達が──監視防──壁区──域に",
+      "到着──する──までには──必ず！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 20,
+    "speaker_pos": 359,
+    "msg_positions": [
+      364
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ワクチン完成まで何分かかる？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 21,
+    "speaker_pos": 368,
+    "msg_positions": [
+      373,
+      376,
+      379,
+      382
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "既成のワクチンからの",
+      "流用も含めば２０分──",
+      "２０分でワクチンを放出──",
+      "できると──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 22,
+    "speaker_pos": 386,
+    "msg_positions": [
+      391
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "１５分で頼む。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 23,
+    "speaker_pos": 395,
+    "msg_positions": [
+      400
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "そんな無茶──な。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 24,
+    "speaker_pos": 404,
+    "msg_positions": [
+      409,
+      412
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "おまえほどの男が",
+      "出来ないと言うのか？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 25,
+    "speaker_pos": 416,
+    "msg_positions": [
+      421,
+      424,
+      427
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "いえ！",
+      "１４分５９秒で",
+      "ワクチンを放出します！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 26,
+    "speaker_pos": 431,
+    "msg_positions": [
+      436,
+      485,
+      492
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "頼んだ！",
+      "ｱっちではそんな異常は──",
+      "ｱっちではそんな異常は──"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  }
+]

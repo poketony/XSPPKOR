@@ -1,0 +1,305 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": -1,
+    "msg_positions": [
+      447
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      ":!"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 509,
+    "msg_positions": [
+      514
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "センサーが反応している――"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 523,
+    "msg_positions": [
+      528,
+      531
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "ヴォイジャーはこっちです。",
+      "隊長、早く先に進みましょう！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 540,
+    "msg_positions": [
+      545
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "待てメリス！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 549,
+    "msg_positions": [
+      554
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "！？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 574,
+    "msg_positions": [
+      579,
+      582
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "ど、どうしたんですか――",
+      "隊長！？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 586,
+    "msg_positions": [
+      591,
+      594,
+      597,
+      610,
+      626,
+      634,
+      642,
+      663,
+      676,
+      689,
+      702,
+      710
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "お前の目の前の床はトラップだ。",
+      "迂闊にその床の上を通れば",
+      "ダメージを受ける事になるぞ！",
+      "リス",
+      "リス",
+      "リス",
+      "リス",
+      "リス",
+      "リス",
+      "リス",
+      "リス",
+      "リス"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 719,
+    "msg_positions": [
+      724
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "！！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 728,
+    "msg_positions": [
+      733,
+      736,
+      739,
+      742,
+      746,
+      749,
+      752,
+      755
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "トラップには",
+      "お前達にも見えるものもあれば",
+      "俺が【移動キャラ】の時にしか",
+      "見えないものもある。",
+      "トラップの種類もさまざまで",
+      "ダメージを受けるものや",
+      "毒を受けるトラップがあるから",
+      "注意が必要だ。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 775,
+    "msg_positions": [
+      780,
+      783
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "メリスさん、先走って",
+      "トラップを踏まないで下さいよ。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 792,
+    "msg_positions": [
+      797,
+      800,
+      803
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "わ、わかっているわよ！",
+      "そんなくだらない事言ってると",
+      "エーリッヒに言いつけるわよ！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 807,
+    "msg_positions": [
+      812
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "ご、ごめんなさい――"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": 818,
+    "msg_positions": [
+      823
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "光っている床を避けて進むぞ。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": 827,
+    "msg_positions": [
+      832,
+      1147,
+      1150,
+      1176,
+      1182,
+      1185,
+      1211,
+      1217,
+      1220
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "はい！",
+      "ゼータジストを",
+      "手に入れた！",
+      "桙ﾉしか",
+      "エクストラジストを",
+      "手に入れた！",
+      "桙ﾉしか",
+      "スペーステントを",
+      "手に入れた！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+]

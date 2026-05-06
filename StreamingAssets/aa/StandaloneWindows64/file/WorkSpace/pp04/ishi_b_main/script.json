@@ -1,0 +1,794 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": 15,
+    "msg_positions": [
+      131,
+      263,
+      839,
+      970
+    ],
+    "speaker": "ん行きしょう！",
+    "speaker_trans": "",
+    "lines": [
+      "しかないんじゃないか？",
+      "B、クラウスという男について",
+      "―",
+      "先を急ぐぞ。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 1272,
+    "msg_positions": [
+      1277
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "恐らくな――"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 1283,
+    "msg_positions": [
+      1286,
+      1289
+    ],
+    "speaker": "エイミー",
+    "speaker_trans": "",
+    "lines": [
+      "ねぇー、おじさん",
+      "鬼ごっこしようよー。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 1295,
+    "msg_positions": [
+      1300,
+      1303
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "俺達が見えているのか？",
+      "隊長、どうします？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 1309,
+    "msg_positions": [
+      1314,
+      1317,
+      1320
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "残存記憶に干渉するのは危険だが",
+      "クラウスのシャドウと関係が",
+      "あるかもしれん――"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 1326,
+    "msg_positions": [
+      1329
+    ],
+    "speaker": "ジェイク",
+    "speaker_trans": "",
+    "lines": [
+      "おじさん、まだー？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 1335,
+    "msg_positions": [
+      1338
+    ],
+    "speaker": "ニコラス",
+    "speaker_trans": "",
+    "lines": [
+      "早くしようよー。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 1342,
+    "msg_positions": [
+      1347,
+      1350,
+      1354,
+      1357
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "――",
+      "仕方ない――",
+      "残された時間は少ないが",
+      "やってみるか――"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 1417,
+    "msg_positions": [
+      1420,
+      1423,
+      1426,
+      1430,
+      1433,
+      1436
+    ],
+    "speaker": "エイミー",
+    "speaker_trans": "",
+    "lines": [
+      "じゃあ",
+      "おじさん達が鬼で",
+      "私が逃げるからね。",
+      "私が",
+      "『もういいよー』って言ったら",
+      "捕まえにきてね。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 1502,
+    "msg_positions": [
+      1505,
+      1524
+    ],
+    "speaker": "エイミー",
+    "speaker_trans": "",
+    "lines": [
+      "もういいよー。",
+      "、ご褒美にこれあげるね。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 1594,
+    "msg_positions": [
+      1597,
+      1600,
+      1604,
+      1608,
+      1611
+    ],
+    "speaker": "エイミー",
+    "speaker_trans": "",
+    "lines": [
+      "あーあ。",
+      "捕まっちゃった。",
+      "じゃあ、ご褒美にこれあげるね。",
+      "アクアローズを",
+      "手に入れた！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 1617,
+    "msg_positions": [
+      1622
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "よし、まずは１人！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": 1690,
+    "msg_positions": [
+      1693,
+      1696
+    ],
+    "speaker": "ニコラス",
+    "speaker_trans": "",
+    "lines": [
+      "じゃあ、次は僕の番だ。",
+      "僕を捕まえてみて。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": 1779,
+    "msg_positions": [
+      1782,
+      1801
+    ],
+    "speaker": "ニコラス",
+    "speaker_trans": "",
+    "lines": [
+      "もういいよー。",
+      "Nラウスという男について"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 14,
+    "speaker_pos": 1871,
+    "msg_positions": [
+      1874,
+      1877,
+      1881,
+      1885,
+      1888
+    ],
+    "speaker": "ニコラス",
+    "speaker_trans": "",
+    "lines": [
+      "おじさん達、すごいね。",
+      "あっという間だったなぁ。",
+      "これあげるよ。",
+      "エクストラスーツを",
+      "手に入れた！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 15,
+    "speaker_pos": 1894,
+    "msg_positions": [
+      1899,
+      1902
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "これで２人ですぅ。",
+      "この調子でどんどん行きしょう！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 16,
+    "speaker_pos": 1908,
+    "msg_positions": [
+      1913,
+      1916
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "バグス。",
+      "お前なんだか楽しそうだな。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 17,
+    "speaker_pos": 1922,
+    "msg_positions": [
+      1927,
+      1930
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "そ、そんなことないですぅ。",
+      "これもミッションのひとつですから。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 18,
+    "speaker_pos": 1998,
+    "msg_positions": [
+      2001,
+      2004
+    ],
+    "speaker": "ジェイク",
+    "speaker_trans": "",
+    "lines": [
+      "最後は、俺が相手だよ。",
+      "俺を捕まえられたら良い物あげるぜ。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 19,
+    "speaker_pos": 2087,
+    "msg_positions": [
+      2090
+    ],
+    "speaker": "ジェイク",
+    "speaker_trans": "",
+    "lines": [
+      "もういいよー。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 20,
+    "speaker_pos": 2179,
+    "msg_positions": [
+      2182,
+      2185,
+      2188
+    ],
+    "speaker": "ジェイク",
+    "speaker_trans": "",
+    "lines": [
+      "けっこう自信あったんだけどなぁ――",
+      "あっさり捕まっちゃった。",
+      "おじさん、警察官になれるんじゃない？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 21,
+    "speaker_pos": 2192,
+    "msg_positions": [
+      2197,
+      2200
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "――",
+      "そうかもな。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 22,
+    "speaker_pos": 2204,
+    "msg_positions": [
+      2209,
+      2213,
+      2216
+    ],
+    "speaker": "ジェイク",
+    "speaker_trans": "",
+    "lines": [
+      "じゃあ、これ約束した良い物。",
+      "PYTHONを",
+      "手に入れた！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 23,
+    "speaker_pos": 2238,
+    "msg_positions": [
+      2243
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "これで全員捕まえましたよ！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 24,
+    "speaker_pos": 2263,
+    "msg_positions": [
+      2268
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ああ、そうだな。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 25,
+    "speaker_pos": 2274,
+    "msg_positions": [
+      2277,
+      2280,
+      2283
+    ],
+    "speaker": "ニコラス",
+    "speaker_trans": "",
+    "lines": [
+      "おじさん、僕達もう帰らないと",
+      "いけないんだ。",
+      "また遊んで。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 26,
+    "speaker_pos": 2287,
+    "msg_positions": [
+      2292,
+      2295,
+      2298
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "待ってくれ。",
+      "君達、クラウスという男について",
+      "何か知らないか？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 27,
+    "speaker_pos": 2318,
+    "msg_positions": [
+      2321,
+      2324
+    ],
+    "speaker": "ジェイク",
+    "speaker_trans": "",
+    "lines": [
+      "クラウス――",
+      "クラウスは苦しんでいるんだ。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 28,
+    "speaker_pos": 2344,
+    "msg_positions": [
+      2347
+    ],
+    "speaker": "ニコラス",
+    "speaker_trans": "",
+    "lines": [
+      "だから――"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 29,
+    "speaker_pos": 2367,
+    "msg_positions": [
+      2370
+    ],
+    "speaker": "エイミー",
+    "speaker_trans": "",
+    "lines": [
+      "おじさん達の手で救ってあげて――"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 30,
+    "speaker_pos": 2374,
+    "msg_positions": [
+      2379
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "――"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 31,
+    "speaker_pos": 2383,
+    "msg_positions": [
+      2388,
+      2391
+    ],
+    "speaker": "ニコラス",
+    "speaker_trans": "",
+    "lines": [
+      "じゃあ、僕達もう行くね。",
+      "ありがとう。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 32,
+    "speaker_pos": 2425,
+    "msg_positions": [
+      2430,
+      2433,
+      2436
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "さあな。",
+      "クラウス本人に",
+      "聞いてみるしかないんじゃないか？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 33,
+    "speaker_pos": 2442,
+    "msg_positions": [
+      2447,
+      2450,
+      2453
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "そうだな。",
+      "こうしてる暇はない。",
+      "先を急ぐぞ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 34,
+    "speaker_pos": 2662,
+    "msg_positions": [
+      2665,
+      2668
+    ],
+    "speaker": "エイミー",
+    "speaker_trans": "",
+    "lines": [
+      "あーあ。",
+      "捕まっちゃった。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 35,
+    "speaker_pos": 2829,
+    "msg_positions": [
+      2901,
+      2905
+    ],
+    "speaker": "､！",
+    "speaker_trans": "",
+    "lines": [
+      "について",
+      "早くしようよー。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 36,
+    "speaker_pos": 2916,
+    "msg_positions": [
+      2919,
+      2922
+    ],
+    "speaker": "ニコラス",
+    "speaker_trans": "",
+    "lines": [
+      "おじさん達、すごいね。",
+      "あっという間だったなぁ。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 37,
+    "speaker_pos": 3174,
+    "msg_positions": [
+      3177,
+      3518,
+      3521,
+      3553,
+      3556,
+      3567,
+      3588,
+      3591,
+      3602,
+      3623,
+      3626,
+      3637,
+      3658,
+      3661,
+      3672,
+      3693,
+      3696,
+      3707,
+      3728,
+      3731,
+      3742,
+      3763,
+      3766,
+      3777,
+      3798,
+      3801,
+      3812
+    ],
+    "speaker": "ジェイク",
+    "speaker_trans": "",
+    "lines": [
+      "おじさん、まだー？",
+      "アクアジストＤＸを",
+      "手に入れた！",
+      "デュアルアーマーを",
+      "手に入れた！",
+      "何も入っていないようだ。",
+      "強化兵装五式を",
+      "手に入れた！",
+      "何も入っていないようだ。",
+      "スペーステントを",
+      "手に入れた！",
+      "何も入っていないようだ。",
+      "BGS-A04を",
+      "手に入れた！",
+      "何も入っていないようだ。",
+      "ボルテージを",
+      "手に入れた！",
+      "何も入っていないようだ。",
+      "ローズジストＤＸを",
+      "手に入れた！",
+      "何も入っていないようだ。",
+      "アクアジストＳを",
+      "手に入れた！",
+      "何も入っていないようだ。",
+      "HMR33BGSを",
+      "手に入れた！",
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+]

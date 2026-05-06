@@ -1,0 +1,548 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": 181,
+    "msg_positions": [
+      186
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "──ミハエル、聞こえるか？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 190,
+    "msg_positions": [
+      195,
+      198
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "監視防壁区域に到着したんですね！",
+      "さすがです。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 202,
+    "msg_positions": [
+      207
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ワクチンは？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 211,
+    "msg_positions": [
+      216,
+      219,
+      222,
+      225,
+      229,
+      232
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "３分前に放出しました。",
+      "時間稼ぎにはなりますが",
+      "やっつけで作ったものですから",
+      "あまり期待はしないで下さいよ──",
+      "相手がまた大規模な書き換えを",
+      "行ってきたら──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 236,
+    "msg_positions": [
+      241,
+      244
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "充分だ、よくやった。",
+      "敵のトレース状況はどうだ？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 248,
+    "msg_positions": [
+      253,
+      256,
+      259
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "先ほどの干渉で",
+      "一時見失いましたが",
+      "復旧ただちに捕捉しました。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 263,
+    "msg_positions": [
+      268,
+      271
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "──そうか",
+      "進路の確認は？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 275,
+    "msg_positions": [
+      280,
+      283,
+      286,
+      289
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "今、エーリッヒが再確認中です。",
+      "エーリッヒ",
+      "敵が撒いたマクロファージは",
+      "どうなった？"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 293,
+    "msg_positions": [
+      296
+    ],
+    "speaker": "エーリッヒ",
+    "speaker_trans": "",
+    "lines": [
+      "隊長、ご無事で何よりです。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 300,
+    "msg_positions": [
+      305,
+      308,
+      311
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "心配するな。",
+      "我々の進路に潜伏している",
+      "マクロファージを洗い出してくれ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 315,
+    "msg_positions": [
+      320,
+      323,
+      326,
+      329,
+      333,
+      336,
+      339
+    ],
+    "speaker": "エーリッヒ",
+    "speaker_trans": "",
+    "lines": [
+      "はい。",
+      "現在、その場所に",
+      "マクロファージ残留は",
+      "認められません。",
+      "敵は、新たなマクロファージを",
+      "散布しつつ",
+      "早い速度で移動しています──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 345,
+    "msg_positions": [
+      350,
+      353
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "ちょっと待って",
+      "それって──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": 373,
+    "msg_positions": [
+      378,
+      381
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "マクロファージの後を追っていけば",
+      "容疑者にたどり着くってことですか？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": 401,
+    "msg_positions": [
+      406
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "──隊長、あれを見て下さい。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 14,
+    "speaker_pos": 415,
+    "msg_positions": [
+      420,
+      423,
+      426
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ミハエル",
+      "監視防壁センサーが反応している。",
+      "ターゲットが通過した証拠だ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 15,
+    "speaker_pos": 430,
+    "msg_positions": [
+      435,
+      438
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "まるで",
+      "ヘンゼルとグレーテルのパン屑ね。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 16,
+    "speaker_pos": 442,
+    "msg_positions": [
+      447,
+      450,
+      453,
+      456,
+      460
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "この空間が罠だと気付いても",
+      "敵は我々の作った",
+      "ログアウトポイントから",
+      "離脱せざるを得ない。",
+      "奴はもはや我々の手の中です！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 17,
+    "speaker_pos": 464,
+    "msg_positions": [
+      469
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 18,
+    "speaker_pos": 473,
+    "msg_positions": [
+      478,
+      481,
+      484,
+      487
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "通信も復旧しました。",
+      "もう、その端末を離れても",
+      "コンタクトが取れるはずです。",
+      "また、変化があり次第報告します。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 19,
+    "speaker_pos": 493,
+    "msg_positions": [
+      498
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ラクティス──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 20,
+    "speaker_pos": 504,
+    "msg_positions": [
+      509
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "何です？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 21,
+    "speaker_pos": 513,
+    "msg_positions": [
+      518
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "何か、おかしいと思わないか？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 22,
+    "speaker_pos": 522,
+    "msg_positions": [
+      527,
+      530
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "ヴォイジャーの犯行にしては",
+      "ずさん過ぎる？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 23,
+    "speaker_pos": 534,
+    "msg_positions": [
+      539,
+      542,
+      545,
+      548,
+      552
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "──ああ。",
+      "マクロファージを",
+      "撒き散らしながら歩き",
+      "センサーに足跡を残す。",
+      "素人ハッカーなみの手口だ。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 24,
+    "speaker_pos": 556,
+    "msg_positions": [
+      561,
+      564
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "これは、ヴォイジャーの",
+      "犯行ではないと？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 25,
+    "speaker_pos": 568,
+    "msg_positions": [
+      573,
+      576
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "あるいは、ヴォイジャーが",
+      "我々を誘っている、かだ。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 26,
+    "speaker_pos": 580,
+    "msg_positions": [
+      585,
+      588,
+      591
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "いずれにせよ、躊躇している時間は",
+      "ありません。",
+      "とにかく今は、先を急ぎましょう。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 27,
+    "speaker_pos": 595,
+    "msg_positions": [
+      600
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ああ──"
+    ],
+    "trans": [
+      ""
+    ]
+  }
+]

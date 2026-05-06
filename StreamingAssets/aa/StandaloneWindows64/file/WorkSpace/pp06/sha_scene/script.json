@@ -1,13 +1,14 @@
 [
   {
     "scene": 0,
-    "marker": "0x1b03",
-    "marker_pos": 10,
-    "ptr_positions": [
+    "speaker_pos": -1,
+    "msg_positions": [
       14,
       19,
       24
     ],
+    "speaker": "",
+    "speaker_trans": "",
     "lines": [
       "シャロン",
       "誰──？",

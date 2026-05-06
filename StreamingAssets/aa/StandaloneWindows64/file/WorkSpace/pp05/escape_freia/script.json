@@ -1,0 +1,434 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": 64,
+    "msg_positions": [
+      69
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "前方に障害物の存在を確認しました！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 80,
+    "msg_positions": [
+      85
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "障害物──人か？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 91,
+    "msg_positions": [
+      96,
+      99,
+      113,
+      116
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "どうでしょう──？",
+      "今センサーの精度を調整します。",
+      "人？いえ、戦闘用のロボットです！！",
+      "属性は──敵です！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 120,
+    "msg_positions": [
+      125
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "タイプを分析しろ！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 129,
+    "msg_positions": [
+      134,
+      137,
+      140
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "了解ですぅ！",
+      "タイプは──",
+      "マードック重工製戦闘支援ロボット"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 148,
+    "msg_positions": [
+      153
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "ＳＹ－８１０、個体名フレイア！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 157,
+    "msg_positions": [
+      162,
+      165
+    ],
+    "speaker": "エーリッヒ",
+    "speaker_trans": "",
+    "lines": [
+      "ＳＹ－８１０！？",
+      "バグスと同系統の支援ロボット！？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 171,
+    "msg_positions": [
+      176
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "何だって？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 182,
+    "msg_positions": [
+      187,
+      190,
+      193
+    ],
+    "speaker": "エーリッヒ",
+    "speaker_trans": "",
+    "lines": [
+      "バグスも官給品。同タイプが",
+      "署内に配備されていても",
+      "不思議ではあるまい──"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 199,
+    "msg_positions": [
+      204,
+      207,
+      260
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "隊長、フォーメーションの設定を！",
+      "来ます！！",
+      "せん。が、人間が死に"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 306,
+    "msg_positions": [
+      311,
+      314,
+      317,
+      320
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "何とか",
+      "署内からは抜け出せそうだな──",
+      "メリス、ウェーリタースのアジトまで",
+      "案内を頼むぞ！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 324,
+    "msg_positions": [
+      329,
+      332
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "了解です。",
+      "私について来てください！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": 352,
+    "msg_positions": [
+      357
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": 361,
+    "msg_positions": [
+      366
+    ],
+    "speaker": "エーリッヒ",
+    "speaker_trans": "",
+    "lines": [
+      "──バグス。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 14,
+    "speaker_pos": 370,
+    "msg_positions": [
+      375,
+      378,
+      381,
+      384
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "エーリッヒさん。",
+      "ボクもいつか",
+      "こうなってしまう日が",
+      "来るんでしょうか？"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 15,
+    "speaker_pos": 388,
+    "msg_positions": [
+      393,
+      396
+    ],
+    "speaker": "エーリッヒ",
+    "speaker_trans": "",
+    "lines": [
+      "死、か？",
+      "バグス、廃棄されることが怖いか？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 16,
+    "speaker_pos": 400,
+    "msg_positions": [
+      405,
+      408,
+      411
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "ボクには、恐怖という概念は巧く",
+      "理解できません。が、人間が死に",
+      "恐怖を感じる論理は推測できます。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 17,
+    "speaker_pos": 415,
+    "msg_positions": [
+      420,
+      423,
+      426,
+      430,
+      433,
+      436,
+      439
+    ],
+    "speaker": "エーリッヒ",
+    "speaker_trans": "",
+    "lines": [
+      "お前達にとっての廃棄処分は",
+      "我々にとっての「死」に他ならない。",
+      "誕生は、死への秒読み開始だ。",
+      "何人たりとも、死の呪縛からは",
+      "逃れられない。",
+      "我々人間もまた、この世界から",
+      "廃棄されているのかも知れん。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 18,
+    "speaker_pos": 445,
+    "msg_positions": [
+      450,
+      453,
+      456,
+      459,
+      463,
+      466,
+      469
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "確かに、人工部品で構成された",
+      "ボク達は寿命を予測できますぅ。",
+      "そう考えると",
+      "人間よりは幸せなのかも──",
+      "人間も肉体の老朽化を完全に制御",
+      "出来るようになれば死を克服",
+      "出来るかもしれませんね。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 19,
+    "speaker_pos": 475,
+    "msg_positions": [
+      480,
+      483
+    ],
+    "speaker": "エーリッヒ",
+    "speaker_trans": "",
+    "lines": [
+      "皆、努力はしているさ",
+      "努力は──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 20,
+    "speaker_pos": 487,
+    "msg_positions": [
+      492
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "エーリッヒさん──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 21,
+    "speaker_pos": 498,
+    "msg_positions": [
+      503,
+      506
+    ],
+    "speaker": "エーリッヒ",
+    "speaker_trans": "",
+    "lines": [
+      "さあ、皆に遅れを取る。",
+      "行くぞ。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  }
+]

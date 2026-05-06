@@ -1,0 +1,266 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": 556,
+    "msg_positions": [
+      561,
+      564
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "こんな所に瓦礫が――",
+      "これでは先に進めませんよ、隊長。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 570,
+    "msg_positions": [
+      575
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "バグス！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 579,
+    "msg_positions": [
+      584
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "は、はいー！！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 588,
+    "msg_positions": [
+      593,
+      596
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "お前の出番だ。",
+      "瓦礫を破壊しろ。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 600,
+    "msg_positions": [
+      605,
+      608,
+      611
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "わかりました。",
+      "皆さんちょっと",
+      "下がっててもらえますか？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 631,
+    "msg_positions": [
+      636
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "えい！！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 665,
+    "msg_positions": [
+      670,
+      673
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "瓦礫の撤去",
+      "完了しました！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 677,
+    "msg_positions": [
+      682,
+      685,
+      688,
+      692,
+      695
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "マップ上にある瓦礫は",
+      "バグスが【移動キャラ】の時に",
+      "破壊する事が可能だ。",
+      "破壊方法は",
+      "瓦礫の前に立って決定ボタンだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 699,
+    "msg_positions": [
+      704,
+      707,
+      710
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "はい！",
+      "瓦礫なんて簡単に壊せますから",
+      "いつでもボクに任せて下さい！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 730,
+    "msg_positions": [
+      735,
+      738,
+      741
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "あまり調子に乗るなよバグス。",
+      "瓦礫の中に敵が潜んでいる",
+      "可能性もあるからな――"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 747,
+    "msg_positions": [
+      752,
+      755,
+      758,
+      761
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "そうね――",
+      "ＨＰの少ない状態や",
+      "回復アイテムが少ない状態で",
+      "敵と戦闘するのは賢くないわね。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 767,
+    "msg_positions": [
+      772,
+      775
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "は、はい――",
+      "気を付けます。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": 781,
+    "msg_positions": [
+      786,
+      1577,
+      1580,
+      1591,
+      1612,
+      1615,
+      1626
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "では先を急ぐぞ。",
+      "ローズジストＳを",
+      "手に入れた！",
+      "何も入っていないようだ。",
+      "ボルテージを",
+      "手に入れた！",
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+]

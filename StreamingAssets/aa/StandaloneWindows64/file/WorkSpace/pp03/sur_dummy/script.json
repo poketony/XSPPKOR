@@ -1,0 +1,950 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": -1,
+    "msg_positions": [
+      164
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "した。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 196,
+    "msg_positions": [
+      201,
+      204
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "何だ？",
+      "問題とは？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 208,
+    "msg_positions": [
+      213,
+      216
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "容疑者の強制ログアウト作業に",
+      "問題がありまして──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 220,
+    "msg_positions": [
+      225
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "どういう事だ。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 229,
+    "msg_positions": [
+      234,
+      237,
+      240,
+      244,
+      247,
+      250,
+      253
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "奴の意識をサルベージできません。",
+      "強制ログアウトが",
+      "拒絶されています。",
+      "プログラム操作によるものか",
+      "薬品か──",
+      "なんらかの方法で、肉体への帰還を",
+      "拒んでいるようです。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 257,
+    "msg_positions": [
+      262,
+      265
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "自らの意思で",
+      "ここへ留まっているというのか？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 285,
+    "msg_positions": [
+      290,
+      293,
+      296
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "隊長",
+      "意識の固着──",
+      "大使達の時と同じです！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 300,
+    "msg_positions": [
+      305,
+      308
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "クラウスがセルフデリートを",
+      "行う可能性があると？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 314,
+    "msg_positions": [
+      319,
+      322
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "この男──",
+      "ヴォイジャーではないかもしれん。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 326,
+    "msg_positions": [
+      331
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "ヴォイジャーの、身代わりですか？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 335,
+    "msg_positions": [
+      340,
+      343,
+      346
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "もしそうなら、真のヴォイジャーは",
+      "我々の全く知らない場所で",
+      "逃げ遂せる──"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 350,
+    "msg_positions": [
+      355
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "隊長、どうします？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": 361,
+    "msg_positions": [
+      366,
+      369,
+      372,
+      376,
+      379
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ダミー含め",
+      "ログアウトポイントを",
+      "完全に封鎖しろ。",
+      "クラウスの意識がここにいる間に",
+      "奴を見つけ出す。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": 383,
+    "msg_positions": [
+      388,
+      391,
+      394,
+      397
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "袋小路にする作戦ですか？",
+      "本物のログアウトポイントを",
+      "遮断している間は、隊長達も外へ",
+      "出られませんよ。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 14,
+    "speaker_pos": 401,
+    "msg_positions": [
+      406,
+      409,
+      412
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "奴を逃がさないためではなく",
+      "何者かが奴を消さないようにだ。",
+      "外部からの不正侵入を見逃すな。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 15,
+    "speaker_pos": 416,
+    "msg_positions": [
+      421,
+      424,
+      427,
+      440,
+      471,
+      485
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "了解しました。",
+      "一時的にすべての",
+      "外部アクセスルートを遮断します。",
+      "した。",
+      "ﾜ小路にする作戦ですか？",
+      "烽ｵれん。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 16,
+    "speaker_pos": 502,
+    "msg_positions": [
+      507,
+      510
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "大掛かりな",
+      "マクロファージでしたね～。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 17,
+    "speaker_pos": 516,
+    "msg_positions": [
+      521,
+      524,
+      527,
+      537,
+      559
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "いや",
+      "ヴォイジャーにしては手緩いな。",
+      "やはりこれは──",
+      "Aウトポイントを",
+      "隊長、人影が！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 18,
+    "speaker_pos": 579,
+    "msg_positions": [
+      584
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "ヴォイジャーか？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 19,
+    "speaker_pos": 588,
+    "msg_positions": [
+      593,
+      596
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ミハエル",
+      "今ここを通った物体を確認してくれ！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 20,
+    "speaker_pos": 600,
+    "msg_positions": [
+      605
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 21,
+    "speaker_pos": 609,
+    "msg_positions": [
+      614,
+      617
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ミハエル！",
+      "聞こえないのか！？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 22,
+    "speaker_pos": 637,
+    "msg_positions": [
+      642,
+      645
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "隊長、後を追いましょう！",
+      "今ならまだそう遠くへは──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 23,
+    "speaker_pos": 665,
+    "msg_positions": [
+      670,
+      673
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "待て、メリス。",
+      "ミハエル！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 24,
+    "speaker_pos": 682,
+    "msg_positions": [
+      687
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ミハエル！！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 25,
+    "speaker_pos": 691,
+    "msg_positions": [
+      696,
+      699
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "あ！",
+      "隊長、申し訳ありません！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 26,
+    "speaker_pos": 703,
+    "msg_positions": [
+      708,
+      711,
+      714
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "何をしている！",
+      "ターゲットを視認した！",
+      "移動先を特定してくれ！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 27,
+    "speaker_pos": 718,
+    "msg_positions": [
+      723,
+      726
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "は、はい。",
+      "こちらでもたった今、動きが！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 28,
+    "speaker_pos": 730,
+    "msg_positions": [
+      735
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "何だ！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 29,
+    "speaker_pos": 739,
+    "msg_positions": [
+      744,
+      747
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "アルコーン警察からの通信によると",
+      "容疑者の身柄を拘束したとの事です！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 30,
+    "speaker_pos": 751,
+    "msg_positions": [
+      756
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ヴォイジャーをか！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 31,
+    "speaker_pos": 760,
+    "msg_positions": [
+      765,
+      768,
+      771
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "本物のヴォイジャーかは",
+      "現在調査中ですが",
+      "男の身元が判明しました！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 32,
+    "speaker_pos": 775,
+    "msg_positions": [
+      780
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "何者だ？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 33,
+    "speaker_pos": 784,
+    "msg_positions": [
+      789
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "それが──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 34,
+    "speaker_pos": 793,
+    "msg_positions": [
+      798,
+      801
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "何だ？",
+      "早く答えろ！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 35,
+    "speaker_pos": 805,
+    "msg_positions": [
+      810
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "男の名はクラウス・トーレ──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 36,
+    "speaker_pos": 814,
+    "msg_positions": [
+      819,
+      822
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "トーレ？",
+      "トーレ財団の──？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 37,
+    "speaker_pos": 826,
+    "msg_positions": [
+      831,
+      834
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "先ほど狙われた",
+      "イレーネ・トーレの実の息子です！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 38,
+    "speaker_pos": 838,
+    "msg_positions": [
+      843
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "なんだと！？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 39,
+    "speaker_pos": 847,
+    "msg_positions": [
+      852,
+      856,
+      859,
+      862,
+      865
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "クラウス・トーレ、２４歳。",
+      "現在は財団から離れ",
+      "要人教育用人工胎盤施設の",
+      "システムプログラマーを",
+      "務めていたそうですが──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 40,
+    "speaker_pos": 869,
+    "msg_positions": [
+      874,
+      877,
+      880
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "人工胎盤施設？",
+      "先日のドレーパーにも",
+      "関係しているのか？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 41,
+    "speaker_pos": 884,
+    "msg_positions": [
+      889,
+      892,
+      895,
+      899,
+      902,
+      905,
+      909,
+      912,
+      915
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "それも含めて調査中です。",
+      "可能性は非常に高いですね。",
+      "何しろこの男、軽犯罪歴が多い。",
+      "十代の頃から",
+      "クラッキングを繰り返して",
+      "１５歳の年には一族から追放。",
+      "その過程で",
+      "『ネストリウスの末裔』とも",
+      "関係を持っています──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 42,
+    "speaker_pos": 919,
+    "msg_positions": [
+      924,
+      927,
+      930
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ネストリウスの末裔だと？",
+      "アブラクサスの人間がなぜ",
+      "連邦の極右組織に──？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 43,
+    "speaker_pos": 934,
+    "msg_positions": [
+      939,
+      942,
+      945,
+      949,
+      952,
+      955,
+      958,
+      962,
+      965,
+      968
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "詳細は分かりませんが",
+      "確固たる信念があるタイプじゃあ",
+      "ないようです。",
+      "行き当たりばったりの",
+      "軽犯罪を繰り返している。",
+      "いずれにせよ、財団側は",
+      "クラウスに手を焼いて放り出した。",
+      "イレーネ・トーレの",
+      "政治的立場から見れば",
+      "邪魔だったのかもしれませんしね。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 44,
+    "speaker_pos": 972,
+    "msg_positions": [
+      977,
+      980
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "個人的な怨恨による",
+      "犯行だと言うのか？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 45,
+    "speaker_pos": 984,
+    "msg_positions": [
+      989,
+      992,
+      996,
+      999,
+      1002,
+      1005
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "愛情が欠けて犯罪に走る",
+      "パターンでしょうかね──",
+      "おっと！",
+      "アルコーン警察の本部から",
+      "クラウスの部屋の映像がきました。",
+      "そちらへも転送します。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 46,
+    "speaker_pos": 1009,
+    "msg_positions": [
+      1014,
+      1064,
+      1242
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "これか──",
+      "メ[ではないかもしれん。",
+      "!"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  }
+]

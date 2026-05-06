@@ -1,0 +1,146 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": 76,
+    "msg_positions": [
+      81
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ミハエル──？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 86,
+    "msg_positions": [
+      91,
+      94,
+      97
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "隊長！？",
+      "ちょっと待ってください！！",
+      "何か様子が──"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 104,
+    "msg_positions": [
+      109,
+      112,
+      115,
+      123
+    ],
+    "speaker": "エーリッヒ",
+    "speaker_trans": "",
+    "lines": [
+      "ミハエル！",
+      "分かるか？",
+      "俺たちだ──",
+      "──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 127,
+    "msg_positions": [
+      132
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "！！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 139,
+    "msg_positions": [
+      144,
+      147
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "よせっ！",
+      "ミハエル──何をしている！？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 168,
+    "msg_positions": [
+      181
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "ﾄはいけない？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 190,
+    "msg_positions": [
+      210,
+      213
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "──ヴォイジャーを",
+      "知ってはいけない？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 217,
+    "msg_positions": [
+      225,
+      375
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "何もかも──終わり──だ！！",
+      "─"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  }
+]

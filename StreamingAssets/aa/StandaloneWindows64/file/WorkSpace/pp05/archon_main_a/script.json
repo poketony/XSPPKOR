@@ -1,0 +1,260 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": -1,
+    "msg_positions": [
+      43,
+      46
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "　　　　　　 アブラクサス",
+      "　　　　　アルコーン特区郊外"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 93,
+    "msg_positions": [
+      98,
+      101
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "隊長――",
+      "ボク達は逃亡者なんですよねェ――"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 105,
+    "msg_positions": [
+      110,
+      113,
+      116
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ああ。",
+      "連邦警察の人間がいるかもしれん。",
+      "できる限り接触せずに進むぞ！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 120,
+    "msg_positions": [
+      125,
+      258,
+      269
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "はい！",
+      "か！？",
+      "か！？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 664,
+    "msg_positions": [
+      667,
+      670
+    ],
+    "speaker": "連邦特殊警官",
+    "speaker_trans": "",
+    "lines": [
+      "ジャン・ザウアーを発見した！",
+      "奴らを包囲しろ！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 690,
+    "msg_positions": [
+      693,
+      696
+    ],
+    "speaker": "連邦特殊警官",
+    "speaker_trans": "",
+    "lines": [
+      "こいつら――",
+      "抵抗する気か！？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 716,
+    "msg_positions": [
+      719,
+      722
+    ],
+    "speaker": "連邦特殊警官",
+    "speaker_trans": "",
+    "lines": [
+      "既にこの区域は封鎖した。",
+      "貴様らに逃げ場所などないわ！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 742,
+    "msg_positions": [
+      745,
+      748,
+      751,
+      754
+    ],
+    "speaker": "リック",
+    "speaker_trans": "",
+    "lines": [
+      "あっ！",
+      "ザ、ザウアー捜査官。",
+      "も、もう逃げられませんよ。",
+      "おとなしく捕まって下さい！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 774,
+    "msg_positions": [
+      777,
+      780,
+      783
+    ],
+    "speaker": "連邦特殊警官",
+    "speaker_trans": "",
+    "lines": [
+      "！！",
+      "貴様ら！",
+      "今までどこに隠れていやがった！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 803,
+    "msg_positions": [
+      806,
+      809,
+      812
+    ],
+    "speaker": "連邦特殊警官",
+    "speaker_trans": "",
+    "lines": [
+      "投降する意思はないようだな――",
+      "かまわん！",
+      "銃を向けろ！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 832,
+    "msg_positions": [
+      835,
+      838,
+      872,
+      875,
+      886,
+      907,
+      910,
+      921,
+      942,
+      945,
+      956
+    ],
+    "speaker": "連邦特殊警官",
+    "speaker_trans": "",
+    "lines": [
+      "くだらんな。",
+      "お前達に何が出来るというのだ！",
+      "バトルスーツを",
+      "手に入れた！",
+      "何も入っていないようだ。",
+      "ローズジストＤＸを",
+      "手に入れた！",
+      "何も入っていないようだ。",
+      "アクアローズを",
+      "手に入れた！",
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 977,
+    "msg_positions": [
+      982
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "今は、先を急がねば――"
+    ],
+    "trans": [
+      ""
+    ]
+  }
+]

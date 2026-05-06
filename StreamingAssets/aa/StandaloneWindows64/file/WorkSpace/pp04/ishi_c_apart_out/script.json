@@ -1,0 +1,449 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": -1,
+    "msg_positions": [
+      59
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 88,
+    "msg_positions": [
+      93
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "エーリッヒ！！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 125,
+    "msg_positions": [
+      130
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "エーリッヒは？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 134,
+    "msg_positions": [
+      139,
+      142
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "エーリッヒ？",
+      "奴はミハエルと一緒ですよ？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 148,
+    "msg_positions": [
+      153,
+      156
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "お前達も見ただろう？",
+      "エーリッヒが今ここに──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 160,
+    "msg_positions": [
+      165,
+      168,
+      171
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "落ち着いて下さい、隊長。",
+      "ログアウトポイントを発見しました。",
+      "これよりログアウトを実行します。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 175,
+    "msg_positions": [
+      180,
+      183,
+      186,
+      195,
+      223,
+      230
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "そうだった──すまない。",
+      "クラウスが最後に残した厚意だ。",
+      "有難く脱出しよう。",
+      "たんだ──",
+      "たんだ──",
+      "の意識が分裂している！？"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 243,
+    "msg_positions": [
+      248,
+      251,
+      255,
+      258,
+      261
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "あんた達は",
+      "俺の世界を感じてくれた。",
+      "そこのねえちゃんも",
+      "俺の記憶を見て",
+      "哀しいと、感じてくれたんだ──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 265,
+    "msg_positions": [
+      276
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "ありきたりな同情しか出来なくて──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 280,
+    "msg_positions": [
+      285,
+      288,
+      291
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "ありきたり、か。",
+      "それでいいんだよ。",
+      "たったそれだけでも、嬉しいんだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 295,
+    "msg_positions": [
+      300,
+      303
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "教えてくれ！！",
+      "ゾハルとは一体何なんだ──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 307,
+    "msg_positions": [
+      312,
+      315
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "早くここから出た方がいい。",
+      "俺はもう、ここを保てない──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": 319,
+    "msg_positions": [
+      324
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "おいっ！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": 344,
+    "msg_positions": [
+      349,
+      353
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "ゾハル──は──",
+      "！！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 14,
+    "speaker_pos": 376,
+    "msg_positions": [
+      381
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 15,
+    "speaker_pos": 401,
+    "msg_positions": [
+      406,
+      409
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "気をつけろ！？",
+      "──もはや人格などないようだ！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 16,
+    "speaker_pos": 447,
+    "msg_positions": [
+      452
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "くっ──！？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 17,
+    "speaker_pos": 458,
+    "msg_positions": [
+      463,
+      466
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "誰だ！",
+      "──誰かいるのか？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 18,
+    "speaker_pos": 482,
+    "msg_positions": [
+      487,
+      490,
+      569,
+      572,
+      575
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "クラウス！？",
+      "お前なのか！？",
+      "クラウス！？",
+      "意識が崩壊しかけているのに",
+      "まだ残存自我が？"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 19,
+    "speaker_pos": 579,
+    "msg_positions": [
+      584,
+      587,
+      590
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "──さあ",
+      "もうここには用はないんだろう──？",
+      "ここから、あんた達の世界に帰れる。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 20,
+    "speaker_pos": 606,
+    "msg_positions": [
+      611,
+      614
+    ],
+    "speaker": "クラウス",
+    "speaker_trans": "",
+    "lines": [
+      "あんた達に",
+      "話しておきたいことがある。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 21,
+    "speaker_pos": 620,
+    "msg_positions": [
+      625,
+      628
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "──なんか",
+      "さっきまでと雰囲気が違います。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 22,
+    "speaker_pos": 634,
+    "msg_positions": [
+      639,
+      642
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "確かに。",
+      "つきものが落ちたような──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 23,
+    "speaker_pos": 648,
+    "msg_positions": [
+      653
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "話しておきたい事、とは？"
+    ],
+    "trans": [
+      ""
+    ]
+  }
+]

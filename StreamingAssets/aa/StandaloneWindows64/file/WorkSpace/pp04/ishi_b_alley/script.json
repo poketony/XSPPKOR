@@ -1,0 +1,59 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": 108,
+    "msg_positions": [
+      113,
+      116
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "あれは？",
+      "クラウスのようだが──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 120,
+    "msg_positions": [
+      125,
+      128,
+      131
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "違いますね。",
+      "クラウスのシャドウ自身ではなく",
+      "記憶断片の投影のようです。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 135,
+    "msg_positions": [
+      140,
+      143
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "待て",
+      "何か聴こえる。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  }
+]

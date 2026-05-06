@@ -1,0 +1,149 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": 92,
+    "msg_positions": [
+      100
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "しかし──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 120,
+    "msg_positions": [
+      125
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "奥様と息子さんが──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 129,
+    "msg_positions": [
+      137,
+      140,
+      143
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "いや、今はヴォイジャーを",
+      "挙げることこそ",
+      "我々のせねばならん事だ──"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 147,
+    "msg_positions": [
+      152
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "何を言ってるんですか！？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 165,
+    "msg_positions": [
+      170,
+      173,
+      176,
+      180,
+      183,
+      187,
+      190,
+      193,
+      196,
+      200,
+      203
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "私達──いや",
+      "隊長が今一番考えなくては",
+      "いけないのは",
+      "シャロンさんや",
+      "ホアキン君の事じゃないですか！！",
+      "こんなときに",
+      "戦術のことしか考えられない",
+      "そんな機械のような人と",
+      "一緒に行動する事は──",
+      "そんな隊長に付いていく事は",
+      "私にはできません！！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 707,
+    "msg_positions": [
+      712,
+      715
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "隊長。",
+      "こちらに生体反応はありません！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 719,
+    "msg_positions": [
+      727,
+      730
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "シャロン、ホアキン――",
+      "どこにいるんだ――"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  }
+]

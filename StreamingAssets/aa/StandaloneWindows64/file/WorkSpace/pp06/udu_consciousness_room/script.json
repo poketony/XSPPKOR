@@ -1,0 +1,143 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": 43,
+    "msg_positions": [
+      48,
+      51,
+      54
+    ],
+    "speaker": "ヴォイジャー",
+    "speaker_trans": "",
+    "lines": [
+      "随分とてこずらせたな──",
+      "──さあ、我が王よ！！",
+      "契約の刻、今来たれり！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 58,
+    "msg_positions": [
+      63
+    ],
+    "speaker": "ウ・ドゥ",
+    "speaker_trans": "",
+    "lines": [
+      "──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 67,
+    "msg_positions": [
+      72,
+      75,
+      78,
+      84
+    ],
+    "speaker": "ヴォイジャー",
+    "speaker_trans": "",
+    "lines": [
+      "どうした！？",
+      "我が王よ、応えよ！",
+      "ウ・ドゥよ！",
+      "ウ、ウ・ドゥゥゥゥゥゥッ！！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 88,
+    "msg_positions": [
+      93,
+      96
+    ],
+    "speaker": "ヴィルヘルム",
+    "speaker_trans": "",
+    "lines": [
+      "無駄だよ。",
+      "いくら叫んでも彼は応えない。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 102,
+    "msg_positions": [
+      107
+    ],
+    "speaker": "ヴォイジャー",
+    "speaker_trans": "",
+    "lines": [
+      "誰だ？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 126,
+    "msg_positions": [
+      129
+    ],
+    "speaker": "ヴィルヘルム",
+    "speaker_trans": "",
+    "lines": [
+      "さあ、次は何をするのかな？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 133,
+    "msg_positions": [
+      138
+    ],
+    "speaker": "ヴォイジャー",
+    "speaker_trans": "",
+    "lines": [
+      "奴もこちらへ？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 142,
+    "msg_positions": [
+      147,
+      150
+    ],
+    "speaker": "ヴィルヘルム",
+    "speaker_trans": "",
+    "lines": [
+      "どうかな？",
+      "君に任せるよ──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  }
+]
