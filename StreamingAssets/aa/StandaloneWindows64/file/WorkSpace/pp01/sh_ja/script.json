@@ -2,28 +2,99 @@
   {
     "scene": 0,
     "speaker_pos": -1,
+    "speaker_ptr": -1,
     "msg_positions": [
       129,
-      132,
-      142,
-      166,
-      169
+      132
+    ],
+    "msg_ptrs": [
+      184,
+      194
     ],
     "speaker": "",
     "speaker_trans": "",
     "lines": [
       "防護服を",
-      "手に入れた！",
-      "何も入っていないようだ。",
+      "手に入れた！"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      142
+    ],
+    "msg_ptrs": [
+      208
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      ""
+    ],
+    "line_notes": [
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      166,
+      169
+    ],
+    "msg_ptrs": [
+      234,
+      194
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "メタルトンファーを",
       "手に入れた！"
     ],
     "trans": [
       "",
-      "",
-      "",
-      "",
       ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      179
+    ],
+    "msg_ptrs": [
+      208
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      ""
+    ],
+    "line_notes": [
+      "중복 호출"
     ]
   }
 ]

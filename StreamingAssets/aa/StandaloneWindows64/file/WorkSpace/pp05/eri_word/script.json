@@ -2,54 +2,186 @@
   {
     "scene": 0,
     "speaker_pos": -1,
+    "speaker_ptr": -1,
     "msg_positions": [
       15,
-      20,
-      26,
-      31,
-      37,
-      42,
-      47,
-      53,
-      58,
-      64,
-      69,
-      75,
-      80,
-      90
+      20
+    ],
+    "msg_ptrs": [
+      99,
+      107
     ],
     "speaker": "",
     "speaker_trans": "",
     "lines": [
       "ジャン",
-      "エーリッヒは？",
+      "エーリッヒは？"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      26,
+      31
+    ],
+    "msg_ptrs": [
+      123,
+      131
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "メリス",
-      "今そこですれ違いましたが──",
+      "今そこですれ違いましたが──"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      37,
+      42,
+      47
+    ],
+    "msg_ptrs": [
+      123,
+      161,
+      185
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "メリス",
       "ちょっと出てくるって。",
-      "エーリッヒがどうかしたんですか？",
-      "ジャン",
-      "──奴だ。",
-      "ジャン",
-      "エーリッヒが──",
-      "ジャン",
-      "奴がヴォイジャーだ──！！",
-      "　　　　　To be continued..."
+      "エーリッヒがどうかしたんですか？"
     ],
     "trans": [
       "",
       "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
       "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      53,
+      58
+    ],
+    "msg_ptrs": [
+      99,
+      219
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "ジャン",
+      "──奴だ。"
+    ],
+    "trans": [
       "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      64,
+      69
+    ],
+    "msg_ptrs": [
+      99,
+      231
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "ジャン",
+      "エーリッヒが──"
+    ],
+    "trans": [
       "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      75,
+      80
+    ],
+    "msg_ptrs": [
+      99,
+      249
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "ジャン",
+      "奴がヴォイジャーだ──！！"
+    ],
+    "trans": [
       "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      90
+    ],
+    "msg_ptrs": [
+      277
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "　　　　　To be continued..."
+    ],
+    "trans": [
       ""
     ]
   }

@@ -2,8 +2,12 @@
   {
     "scene": 0,
     "speaker_pos": -1,
+    "speaker_ptr": -1,
     "msg_positions": [
       224
+    ],
+    "msg_ptrs": [
+      680
     ],
     "speaker": "",
     "speaker_trans": "",
@@ -17,8 +21,12 @@
   {
     "scene": 1,
     "speaker_pos": 243,
+    "speaker_ptr": 710,
     "msg_positions": [
       248
+    ],
+    "msg_ptrs": [
+      718
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -32,9 +40,14 @@
   {
     "scene": 2,
     "speaker_pos": 273,
+    "speaker_ptr": 752,
     "msg_positions": [
       276,
       279
+    ],
+    "msg_ptrs": [
+      764,
+      772
     ],
     "speaker": "ドウェイン",
     "speaker_trans": "",
@@ -50,8 +63,12 @@
   {
     "scene": 3,
     "speaker_pos": 283,
+    "speaker_ptr": 800,
     "msg_positions": [
       286
+    ],
+    "msg_ptrs": [
+      812
     ],
     "speaker": "『故障中』",
     "speaker_trans": "",
@@ -65,10 +82,16 @@
   {
     "scene": 4,
     "speaker_pos": 293,
+    "speaker_ptr": 752,
     "msg_positions": [
       296,
       299,
       302
+    ],
+    "msg_ptrs": [
+      846,
+      868,
+      902
     ],
     "speaker": "ドウェイン",
     "speaker_trans": "",
@@ -86,9 +109,14 @@
   {
     "scene": 5,
     "speaker_pos": 306,
+    "speaker_ptr": 800,
     "msg_positions": [
       309,
       312
+    ],
+    "msg_ptrs": [
+      928,
+      950
     ],
     "speaker": "『故障中』",
     "speaker_trans": "",
@@ -104,11 +132,18 @@
   {
     "scene": 6,
     "speaker_pos": 336,
+    "speaker_ptr": 974,
     "msg_positions": [
       339,
       342,
       345,
       348
+    ],
+    "msg_ptrs": [
+      980,
+      990,
+      1024,
+      1056
     ],
     "speaker": "リサ",
     "speaker_trans": "",
@@ -128,11 +163,18 @@
   {
     "scene": 7,
     "speaker_pos": 355,
+    "speaker_ptr": 974,
     "msg_positions": [
       358,
       361,
       364,
       367
+    ],
+    "msg_ptrs": [
+      1084,
+      1120,
+      1156,
+      1192
     ],
     "speaker": "リサ",
     "speaker_trans": "",
@@ -152,11 +194,18 @@
   {
     "scene": 8,
     "speaker_pos": 391,
+    "speaker_ptr": 1206,
     "msg_positions": [
       394,
       397,
       400,
       403
+    ],
+    "msg_ptrs": [
+      1216,
+      1252,
+      1262,
+      1300
     ],
     "speaker": "ジェシー",
     "speaker_trans": "",
@@ -176,11 +225,18 @@
   {
     "scene": 9,
     "speaker_pos": 410,
+    "speaker_ptr": 1206,
     "msg_positions": [
       413,
       416,
       419,
       422
+    ],
+    "msg_ptrs": [
+      1332,
+      1372,
+      1380,
+      1416
     ],
     "speaker": "ジェシー",
     "speaker_trans": "",
@@ -200,10 +256,16 @@
   {
     "scene": 10,
     "speaker_pos": 461,
+    "speaker_ptr": 1438,
     "msg_positions": [
       464,
       467,
       470
+    ],
+    "msg_ptrs": [
+      1450,
+      1490,
+      1518
     ],
     "speaker": "ステイシー",
     "speaker_trans": "",
@@ -221,10 +283,16 @@
   {
     "scene": 11,
     "speaker_pos": 477,
+    "speaker_ptr": 1438,
     "msg_positions": [
       480,
       483,
       486
+    ],
+    "msg_ptrs": [
+      1546,
+      1572,
+      1594
     ],
     "speaker": "ステイシー",
     "speaker_trans": "",

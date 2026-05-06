@@ -2,19 +2,29 @@
   {
     "scene": 0,
     "speaker_pos": 41,
+    "speaker_ptr": 671,
     "msg_positions": [
+      46,
       49,
       52,
       55
     ],
+    "msg_ptrs": [
+      681,
+      691,
+      719,
+      733
+    ],
     "speaker": "ミハエル",
     "speaker_trans": "",
     "lines": [
+      "ふぅー。",
       "やっとここまで来ましたね。",
       "後は、遺体を",
       "ブリーフィングルームまで運べば――"
     ],
     "trans": [
+      "",
       "",
       "",
       ""
@@ -23,11 +33,18 @@
   {
     "scene": 1,
     "speaker_pos": 59,
+    "speaker_ptr": 769,
     "msg_positions": [
       64,
       67,
       70,
       73
+    ],
+    "msg_ptrs": [
+      777,
+      785,
+      793,
+      825
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -47,10 +64,16 @@
   {
     "scene": 2,
     "speaker_pos": 77,
+    "speaker_ptr": 857,
     "msg_positions": [
       82,
       85,
       88
+    ],
+    "msg_ptrs": [
+      869,
+      877,
+      907
     ],
     "speaker": "エーリッヒ",
     "speaker_trans": "",
@@ -68,8 +91,12 @@
   {
     "scene": 3,
     "speaker_pos": 92,
+    "speaker_ptr": 769,
     "msg_positions": [
       97
+    ],
+    "msg_ptrs": [
+      935
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -83,26 +110,41 @@
   {
     "scene": 4,
     "speaker_pos": 101,
+    "speaker_ptr": 671,
     "msg_positions": [
+      106,
       109
+    ],
+    "msg_ptrs": [
+      949,
+      975
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
     "lines": [
+      "隊長、そりゃ無茶ですよ！",
       "夜勤の連中もけっこういるんですよ！"
     ],
     "trans": [
+      "",
       ""
     ]
   },
   {
     "scene": 5,
     "speaker_pos": 113,
+    "speaker_ptr": 1011,
     "msg_positions": [
       118,
       121,
       124,
       127
+    ],
+    "msg_ptrs": [
+      1019,
+      1029,
+      1065,
+      1091
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -122,10 +164,16 @@
   {
     "scene": 6,
     "speaker_pos": 131,
+    "speaker_ptr": 1109,
     "msg_positions": [
       136,
       139,
       142
+    ],
+    "msg_ptrs": [
+      1117,
+      1129,
+      1161
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -143,12 +191,49 @@
   {
     "scene": 7,
     "speaker_pos": 146,
+    "speaker_ptr": 671,
+    "msg_positions": [
+      151,
+      154,
+      157,
+      160
+    ],
+    "msg_ptrs": [
+      1183,
+      1201,
+      1233,
+      1253
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "――まあ、確かに",
+      "見つかったら、始末書どころじゃ",
+      "済みませんからね。",
+      "やるしかないってことですか――"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 164,
+    "speaker_ptr": 769,
     "msg_positions": [
       169,
       172,
       175
     ],
-    "speaker": "ミハエル",
+    "msg_ptrs": [
+      1285,
+      1303,
+      1319
+    ],
+    "speaker": "ジャン",
     "speaker_trans": "",
     "lines": [
       "そういうことだ。",
@@ -162,11 +247,16 @@
     ]
   },
   {
-    "scene": 8,
+    "scene": 9,
     "speaker_pos": 559,
+    "speaker_ptr": 769,
     "msg_positions": [
       564,
       567
+    ],
+    "msg_ptrs": [
+      1353,
+      1361
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -180,12 +270,18 @@
     ]
   },
   {
-    "scene": 9,
+    "scene": 10,
     "speaker_pos": 587,
+    "speaker_ptr": 769,
     "msg_positions": [
       592,
       595,
       598
+    ],
+    "msg_ptrs": [
+      1379,
+      1397,
+      1427
     ],
     "speaker": "ジャン",
     "speaker_trans": "",

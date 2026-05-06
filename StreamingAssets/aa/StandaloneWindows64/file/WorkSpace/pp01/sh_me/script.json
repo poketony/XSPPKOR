@@ -2,31 +2,99 @@
   {
     "scene": 0,
     "speaker_pos": -1,
+    "speaker_ptr": -1,
     "msg_positions": [
       147,
-      150,
-      160,
-      184,
-      187,
-      197
+      150
+    ],
+    "msg_ptrs": [
+      202,
+      218
     ],
     "speaker": "",
     "speaker_trans": "",
     "lines": [
       "アクアジストを",
-      "手に入れた！",
-      "何も入っていないようだ。",
-      "強化兵装弐式を",
-      "手に入れた！",
-      "何も入っていないようだ。"
+      "手に入れた！"
     ],
     "trans": [
       "",
+      ""
+    ],
+    "line_notes": [
       "",
-      "",
-      "",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      160
+    ],
+    "msg_ptrs": [
+      232
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      ""
+    ],
+    "line_notes": [
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      184,
+      187
+    ],
+    "msg_ptrs": [
+      258,
+      218
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "強化兵装弐式を",
+      "手に入れた！"
+    ],
+    "trans": [
       "",
       ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      197
+    ],
+    "msg_ptrs": [
+      232
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      ""
+    ],
+    "line_notes": [
+      "중복 호출"
     ]
   }
 ]

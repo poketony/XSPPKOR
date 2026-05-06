@@ -2,8 +2,12 @@
   {
     "scene": 0,
     "speaker_pos": 64,
+    "speaker_ptr": 1027,
     "msg_positions": [
       69
+    ],
+    "msg_ptrs": [
+      1035
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -17,8 +21,12 @@
   {
     "scene": 1,
     "speaker_pos": 80,
+    "speaker_ptr": 1071,
     "msg_positions": [
       85
+    ],
+    "msg_ptrs": [
+      1079
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -32,32 +40,58 @@
   {
     "scene": 2,
     "speaker_pos": 91,
+    "speaker_ptr": 1027,
     "msg_positions": [
       96,
-      99,
-      113,
-      116
+      99
+    ],
+    "msg_ptrs": [
+      1097,
+      1117
     ],
     "speaker": "バグス",
     "speaker_trans": "",
     "lines": [
       "どうでしょう──？",
-      "今センサーの精度を調整します。",
-      "人？いえ、戦闘用のロボットです！！",
-      "属性は──敵です！"
+      "今センサーの精度を調整します。"
     ],
     "trans": [
-      "",
-      "",
       "",
       ""
     ]
   },
   {
     "scene": 3,
+    "speaker_pos": 108,
+    "speaker_ptr": 1027,
+    "msg_positions": [
+      113,
+      116
+    ],
+    "msg_ptrs": [
+      1149,
+      1185
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "人？いえ、戦闘用のロボットです！！",
+      "属性は──敵です！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 4,
     "speaker_pos": 120,
+    "speaker_ptr": 1071,
     "msg_positions": [
       125
+    ],
+    "msg_ptrs": [
+      1205
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -69,12 +103,18 @@
     ]
   },
   {
-    "scene": 4,
+    "scene": 5,
     "speaker_pos": 129,
+    "speaker_ptr": 1027,
     "msg_positions": [
       134,
       137,
       140
+    ],
+    "msg_ptrs": [
+      1225,
+      1239,
+      1253
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -90,10 +130,14 @@
     ]
   },
   {
-    "scene": 5,
+    "scene": 6,
     "speaker_pos": 148,
+    "speaker_ptr": 1027,
     "msg_positions": [
       153
+    ],
+    "msg_ptrs": [
+      1287
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -105,11 +149,16 @@
     ]
   },
   {
-    "scene": 6,
+    "scene": 7,
     "speaker_pos": 157,
+    "speaker_ptr": 1319,
     "msg_positions": [
       162,
       165
+    ],
+    "msg_ptrs": [
+      1331,
+      1349
     ],
     "speaker": "エーリッヒ",
     "speaker_trans": "",
@@ -123,10 +172,14 @@
     ]
   },
   {
-    "scene": 7,
+    "scene": 8,
     "speaker_pos": 171,
+    "speaker_ptr": 1383,
     "msg_positions": [
       176
+    ],
+    "msg_ptrs": [
+      1393
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
@@ -138,12 +191,18 @@
     ]
   },
   {
-    "scene": 8,
+    "scene": 9,
     "speaker_pos": 182,
+    "speaker_ptr": 1319,
     "msg_positions": [
       187,
       190,
       193
+    ],
+    "msg_ptrs": [
+      1405,
+      1433,
+      1457
     ],
     "speaker": "エーリッヒ",
     "speaker_trans": "",
@@ -159,34 +218,43 @@
     ]
   },
   {
-    "scene": 9,
+    "scene": 10,
     "speaker_pos": 199,
+    "speaker_ptr": 1027,
     "msg_positions": [
       204,
-      207,
-      260
+      207
+    ],
+    "msg_ptrs": [
+      1481,
+      1515
     ],
     "speaker": "バグス",
     "speaker_trans": "",
     "lines": [
       "隊長、フォーメーションの設定を！",
-      "来ます！！",
-      "せん。が、人間が死に"
+      "来ます！！"
     ],
     "trans": [
-      "",
       "",
       ""
     ]
   },
   {
-    "scene": 10,
+    "scene": 11,
     "speaker_pos": 306,
+    "speaker_ptr": 1071,
     "msg_positions": [
       311,
       314,
       317,
       320
+    ],
+    "msg_ptrs": [
+      1527,
+      1535,
+      1567,
+      1603
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -204,11 +272,16 @@
     ]
   },
   {
-    "scene": 11,
+    "scene": 12,
     "speaker_pos": 324,
+    "speaker_ptr": 1619,
     "msg_positions": [
       329,
       332
+    ],
+    "msg_ptrs": [
+      1627,
+      1639
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -222,10 +295,14 @@
     ]
   },
   {
-    "scene": 12,
+    "scene": 13,
     "speaker_pos": 352,
+    "speaker_ptr": 1027,
     "msg_positions": [
       357
+    ],
+    "msg_ptrs": [
+      1665
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -237,10 +314,14 @@
     ]
   },
   {
-    "scene": 13,
+    "scene": 14,
     "speaker_pos": 361,
+    "speaker_ptr": 1319,
     "msg_positions": [
       366
+    ],
+    "msg_ptrs": [
+      1671
     ],
     "speaker": "エーリッヒ",
     "speaker_trans": "",
@@ -252,13 +333,20 @@
     ]
   },
   {
-    "scene": 14,
+    "scene": 15,
     "speaker_pos": 370,
+    "speaker_ptr": 1027,
     "msg_positions": [
       375,
       378,
       381,
       384
+    ],
+    "msg_ptrs": [
+      1685,
+      1703,
+      1717,
+      1739
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -276,11 +364,16 @@
     ]
   },
   {
-    "scene": 15,
+    "scene": 16,
     "speaker_pos": 388,
+    "speaker_ptr": 1319,
     "msg_positions": [
       393,
       396
+    ],
+    "msg_ptrs": [
+      1759,
+      1769
     ],
     "speaker": "エーリッヒ",
     "speaker_trans": "",
@@ -294,12 +387,18 @@
     ]
   },
   {
-    "scene": 16,
+    "scene": 17,
     "speaker_pos": 400,
+    "speaker_ptr": 1027,
     "msg_positions": [
       405,
       408,
       411
+    ],
+    "msg_ptrs": [
+      1803,
+      1835,
+      1867
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -315,8 +414,9 @@
     ]
   },
   {
-    "scene": 17,
+    "scene": 18,
     "speaker_pos": 415,
+    "speaker_ptr": 1319,
     "msg_positions": [
       420,
       423,
@@ -325,6 +425,15 @@
       433,
       436,
       439
+    ],
+    "msg_ptrs": [
+      1901,
+      1929,
+      1965,
+      1995,
+      2025,
+      2041,
+      2071
     ],
     "speaker": "エーリッヒ",
     "speaker_trans": "",
@@ -348,8 +457,9 @@
     ]
   },
   {
-    "scene": 18,
+    "scene": 19,
     "speaker_pos": 445,
+    "speaker_ptr": 1027,
     "msg_positions": [
       450,
       453,
@@ -358,6 +468,15 @@
       463,
       466,
       469
+    ],
+    "msg_ptrs": [
+      2101,
+      2131,
+      2163,
+      2177,
+      2205,
+      2237,
+      2265
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -381,11 +500,16 @@
     ]
   },
   {
-    "scene": 19,
+    "scene": 20,
     "speaker_pos": 475,
+    "speaker_ptr": 1319,
     "msg_positions": [
       480,
       483
+    ],
+    "msg_ptrs": [
+      2291,
+      2313
     ],
     "speaker": "エーリッヒ",
     "speaker_trans": "",
@@ -399,10 +523,14 @@
     ]
   },
   {
-    "scene": 20,
+    "scene": 21,
     "speaker_pos": 487,
+    "speaker_ptr": 1027,
     "msg_positions": [
       492
+    ],
+    "msg_ptrs": [
+      2325
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -414,11 +542,16 @@
     ]
   },
   {
-    "scene": 21,
+    "scene": 22,
     "speaker_pos": 498,
+    "speaker_ptr": 1319,
     "msg_positions": [
       503,
       506
+    ],
+    "msg_ptrs": [
+      2345,
+      2369
     ],
     "speaker": "エーリッヒ",
     "speaker_trans": "",

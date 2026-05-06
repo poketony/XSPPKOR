@@ -2,9 +2,14 @@
   {
     "scene": 0,
     "speaker_pos": 556,
+    "speaker_ptr": 1742,
     "msg_positions": [
       561,
       564
+    ],
+    "msg_ptrs": [
+      1750,
+      1772
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -20,8 +25,12 @@
   {
     "scene": 1,
     "speaker_pos": 570,
+    "speaker_ptr": 1806,
     "msg_positions": [
       575
+    ],
+    "msg_ptrs": [
+      1814
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -35,8 +44,12 @@
   {
     "scene": 2,
     "speaker_pos": 579,
+    "speaker_ptr": 1824,
     "msg_positions": [
       584
+    ],
+    "msg_ptrs": [
+      1832
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -50,9 +63,14 @@
   {
     "scene": 3,
     "speaker_pos": 588,
+    "speaker_ptr": 1806,
     "msg_positions": [
       593,
       596
+    ],
+    "msg_ptrs": [
+      1848,
+      1864
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -68,10 +86,16 @@
   {
     "scene": 4,
     "speaker_pos": 600,
+    "speaker_ptr": 1824,
     "msg_positions": [
       605,
       608,
       611
+    ],
+    "msg_ptrs": [
+      1882,
+      1898,
+      1914
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -89,8 +113,12 @@
   {
     "scene": 5,
     "speaker_pos": 631,
+    "speaker_ptr": 1824,
     "msg_positions": [
       636
+    ],
+    "msg_ptrs": [
+      1940
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -104,9 +132,14 @@
   {
     "scene": 6,
     "speaker_pos": 665,
+    "speaker_ptr": 1824,
     "msg_positions": [
       670,
       673
+    ],
+    "msg_ptrs": [
+      1950,
+      1962
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -122,12 +155,20 @@
   {
     "scene": 7,
     "speaker_pos": 677,
+    "speaker_ptr": 1806,
     "msg_positions": [
       682,
       685,
       688,
       692,
       695
+    ],
+    "msg_ptrs": [
+      1978,
+      2000,
+      2030,
+      2052,
+      2064
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -149,10 +190,16 @@
   {
     "scene": 8,
     "speaker_pos": 699,
+    "speaker_ptr": 1824,
     "msg_positions": [
       704,
       707,
       710
+    ],
+    "msg_ptrs": [
+      2096,
+      2104,
+      2134
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -170,10 +217,16 @@
   {
     "scene": 9,
     "speaker_pos": 730,
+    "speaker_ptr": 2164,
     "msg_positions": [
       735,
       738,
       741
+    ],
+    "msg_ptrs": [
+      2176,
+      2206,
+      2232
     ],
     "speaker": "ラクティス",
     "speaker_trans": "",
@@ -191,11 +244,18 @@
   {
     "scene": 10,
     "speaker_pos": 747,
+    "speaker_ptr": 1742,
     "msg_positions": [
       752,
       755,
       758,
       761
+    ],
+    "msg_ptrs": [
+      2256,
+      2268,
+      2288,
+      2316
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -215,9 +275,14 @@
   {
     "scene": 11,
     "speaker_pos": 767,
+    "speaker_ptr": 1824,
     "msg_positions": [
       772,
       775
+    ],
+    "msg_ptrs": [
+      2348,
+      2362
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -233,22 +298,71 @@
   {
     "scene": 12,
     "speaker_pos": 781,
+    "speaker_ptr": 1806,
     "msg_positions": [
-      786,
-      1577,
-      1580,
-      1591,
-      1612,
-      1615,
-      1626
+      786
+    ],
+    "msg_ptrs": [
+      2378
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
     "lines": [
-      "では先を急ぐぞ。",
+      "では先を急ぐぞ。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      1577,
+      1580,
+      1591
+    ],
+    "msg_ptrs": [
+      2396,
+      2414,
+      2428
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ローズジストＳを",
       "手に入れた！",
-      "何も入っていないようだ。",
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 14,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      1612,
+      1615,
+      1626
+    ],
+    "msg_ptrs": [
+      2454,
+      2414,
+      2428
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ボルテージを",
       "手に入れた！",
       "何も入っていないようだ。"
@@ -256,11 +370,12 @@
     "trans": [
       "",
       "",
-      "",
-      "",
-      "",
-      "",
       ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출",
+      "중복 호출"
     ]
   }
 ]

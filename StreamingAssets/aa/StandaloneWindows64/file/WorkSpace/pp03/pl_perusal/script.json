@@ -2,8 +2,12 @@
   {
     "scene": 0,
     "speaker_pos": 34,
+    "speaker_ptr": 562,
     "msg_positions": [
       37
+    ],
+    "msg_ptrs": [
+      570
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -17,8 +21,12 @@
   {
     "scene": 1,
     "speaker_pos": 41,
+    "speaker_ptr": 606,
     "msg_positions": [
       46
+    ],
+    "msg_ptrs": [
+      616
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
@@ -32,10 +40,16 @@
   {
     "scene": 2,
     "speaker_pos": 50,
+    "speaker_ptr": 562,
     "msg_positions": [
       55,
       58,
       61
+    ],
+    "msg_ptrs": [
+      632,
+      658,
+      694
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -53,8 +67,12 @@
   {
     "scene": 3,
     "speaker_pos": 65,
+    "speaker_ptr": 606,
     "msg_positions": [
       70
+    ],
+    "msg_ptrs": [
+      726
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
@@ -68,9 +86,14 @@
   {
     "scene": 4,
     "speaker_pos": 83,
+    "speaker_ptr": 606,
     "msg_positions": [
       88,
       91
+    ],
+    "msg_ptrs": [
+      760,
+      778
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
@@ -86,8 +109,12 @@
   {
     "scene": 5,
     "speaker_pos": 95,
+    "speaker_ptr": 562,
     "msg_positions": [
       100
+    ],
+    "msg_ptrs": [
+      804
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -101,8 +128,12 @@
   {
     "scene": 6,
     "speaker_pos": 104,
+    "speaker_ptr": 606,
     "msg_positions": [
       109
+    ],
+    "msg_ptrs": [
+      812
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
@@ -116,10 +147,16 @@
   {
     "scene": 7,
     "speaker_pos": 113,
+    "speaker_ptr": 562,
     "msg_positions": [
       118,
       121,
       124
+    ],
+    "msg_ptrs": [
+      830,
+      852,
+      888
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -137,8 +174,12 @@
   {
     "scene": 8,
     "speaker_pos": 130,
+    "speaker_ptr": 606,
     "msg_positions": [
       135
+    ],
+    "msg_ptrs": [
+      904
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
@@ -152,18 +193,19 @@
   {
     "scene": 9,
     "speaker_pos": 139,
+    "speaker_ptr": 562,
     "msg_positions": [
-      144,
-      163
+      144
+    ],
+    "msg_ptrs": [
+      940
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
     "lines": [
-      "問題だと？",
-      "､です？"
+      "問題だと？"
     ],
     "trans": [
-      "",
       ""
     ]
   }

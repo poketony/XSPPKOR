@@ -2,69 +2,201 @@
   {
     "scene": 0,
     "speaker_pos": -1,
+    "speaker_ptr": -1,
     "msg_positions": [
       12,
       17,
-      22,
-      28,
-      33,
-      38,
-      43,
-      49,
-      54,
-      59,
-      64,
-      70,
-      75,
-      80,
-      86,
-      91,
-      97,
-      102,
-      112
+      22
+    ],
+    "msg_ptrs": [
+      121,
+      131,
+      147
     ],
     "speaker": "",
     "speaker_trans": "",
     "lines": [
       "シャロン",
       "──ちょっと！",
-      "待ちなさい！",
+      "待ちなさい！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      28,
+      33,
+      38,
+      43
+    ],
+    "msg_ptrs": [
+      161,
+      169,
+      195,
+      213
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "エディ",
       "先生、待ってください！！",
       "とりあえず警察に",
-      "連絡を取ったほうが──",
-      "シャロン",
-      "様子が変だからと言って",
-      "病院を出て行こうとする患者を",
-      "放っておくわけには行かないでしょ！？",
-      "シャロン",
-      "待って！",
-      "貴方の容態は不安定な状態なのよ！",
-      "エーリッヒ",
-      "──問題無い。",
-      "シャロン",
-      "──",
-      "　　　　　To be continued..."
+      "連絡を取ったほうが──"
     ],
     "trans": [
       "",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      49,
+      54,
+      59,
+      64
+    ],
+    "msg_ptrs": [
+      121,
+      237,
+      261,
+      291
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "シャロン",
+      "様子が変だからと言って",
+      "病院を出て行こうとする患者を",
+      "放っておくわけには行かないでしょ！？"
+    ],
+    "trans": [
       "",
       "",
       "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      70,
+      75,
+      80
+    ],
+    "msg_ptrs": [
+      121,
+      329,
+      339
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "シャロン",
+      "待って！",
+      "貴方の容態は不安定な状態なのよ！"
+    ],
+    "trans": [
       "",
       "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
       "",
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      86,
+      91
+    ],
+    "msg_ptrs": [
+      373,
+      385
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "エーリッヒ",
+      "──問題無い。"
+    ],
+    "trans": [
       "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      97,
+      102
+    ],
+    "msg_ptrs": [
+      121,
+      401
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "シャロン",
+      "──"
+    ],
+    "trans": [
       "",
-      "",
-      "",
-      "",
-      "",
-      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      112
+    ],
+    "msg_ptrs": [
+      407
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "　　　　　To be continued..."
+    ],
+    "trans": [
       ""
     ]
   }

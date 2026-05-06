@@ -2,23 +2,45 @@
   {
     "scene": 0,
     "speaker_pos": -1,
+    "speaker_ptr": -1,
     "msg_positions": [
       12,
-      17,
-      23,
-      28
+      17
+    ],
+    "msg_ptrs": [
+      41,
+      53
     ],
     "speaker": "",
     "speaker_trans": "",
     "lines": [
       "エーリッヒ",
-      "ふぅ──",
+      "ふぅ──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      23,
+      28
+    ],
+    "msg_ptrs": [
+      63,
+      71
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ジャン",
       "エーリッヒ──？"
     ],
     "trans": [
-      "",
-      "",
       "",
       ""
     ]

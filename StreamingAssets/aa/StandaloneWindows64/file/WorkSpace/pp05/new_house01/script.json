@@ -2,58 +2,18 @@
   {
     "scene": 0,
     "speaker_pos": -1,
+    "speaker_ptr": -1,
     "msg_positions": [
       22,
       27,
       32,
-      37,
-      43,
-      48,
-      54,
-      59,
-      65,
-      70,
-      76,
-      81,
-      87,
-      92,
-      108,
-      113,
-      119,
-      124,
-      129,
-      134,
-      140,
-      145,
-      150,
-      156,
-      161,
-      166,
-      171,
-      177,
-      182,
-      187,
-      202,
-      207,
-      213,
-      218,
-      224,
-      229,
-      245,
-      250,
-      255,
-      261,
-      266,
-      272,
-      277,
-      293,
-      298,
-      304,
-      309,
-      314,
-      320,
-      325,
-      330
+      37
+    ],
+    "msg_ptrs": [
+      358,
+      368,
+      382,
+      392
     ],
     "speaker": "",
     "speaker_trans": "",
@@ -61,51 +21,564 @@
       "ホアキン",
       "えーっと──",
       "あの──",
-      "パパ？",
+      "パパ？"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      43,
+      48
+    ],
+    "msg_ptrs": [
+      400,
+      408
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ジャン",
-      "なんだ、ホアキン？",
+      "なんだ、ホアキン？"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      54,
+      59
+    ],
+    "msg_ptrs": [
+      358,
+      428
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ホアキン",
-      "へへっ──",
+      "へへっ──"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      65,
+      70
+    ],
+    "msg_ptrs": [
+      400,
+      440
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ジャン",
-      "どうした？",
+      "どうした？"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      76,
+      81
+    ],
+    "msg_ptrs": [
+      358,
+      452
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ホアキン",
-      "本当に僕のパパになったんだね！",
+      "本当に僕のパパになったんだね！"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      87,
+      92
+    ],
+    "msg_ptrs": [
+      400,
+      484
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ジャン",
-      "──",
+      "──"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      108,
+      113
+    ],
+    "msg_ptrs": [
+      490,
+      500
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "シャロン",
-      "どうしたの？",
+      "どうしたの？"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      119,
+      124,
+      129,
+      134
+    ],
+    "msg_ptrs": [
+      400,
+      514,
+      524,
+      560
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ジャン",
       "──いや",
       "──俺は自分を感情の希薄な人間だと",
-      "思っていたが──",
+      "思っていたが──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      140,
+      145,
+      150
+    ],
+    "msg_ptrs": [
+      400,
+      578,
+      588
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ジャン",
       "自分には",
-      "心がないフリをしていたのかもしれない。",
+      "心がないフリをしていたのかもしれない。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      156,
+      161,
+      166,
+      171
+    ],
+    "msg_ptrs": [
+      490,
+      628,
+      638,
+      660
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "シャロン",
       "違うわ。",
       "貴方も、死んだ主人も",
-      "優し過ぎる心ゆえに傷つくの。",
+      "優し過ぎる心ゆえに傷つくの。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      177,
+      182,
+      187
+    ],
+    "msg_ptrs": [
+      490,
+      690,
+      720
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "シャロン",
       "この世があまりに、辛いことに",
-      "満ちているから。",
+      "満ちているから。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      202,
+      207
+    ],
+    "msg_ptrs": [
+      400,
+      738
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ジャン",
-      "届いたようだな。",
+      "届いたようだな。"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      213,
+      218
+    ],
+    "msg_ptrs": [
+      490,
+      756
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "シャロン",
-      "何が？",
+      "何が？"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      224,
+      229
+    ],
+    "msg_ptrs": [
+      400,
+      764
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ジャン",
-      "しっ、ホアキンには内緒だ。",
+      "しっ、ホアキンには内緒だ。"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 14,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      245,
+      250,
+      255
+    ],
+    "msg_ptrs": [
+      792,
+      802,
+      816
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "宅配業者",
       "ザウアーさん",
-      "ネクサス社からお届け物です。",
+      "ネクサス社からお届け物です。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 15,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      261,
+      266
+    ],
+    "msg_ptrs": [
+      490,
+      846
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "シャロン",
-      "ありがとう。",
+      "ありがとう。"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 16,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      272,
+      277
+    ],
+    "msg_ptrs": [
+      792,
+      860
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "宅配業者",
-      "それじゃあ、確かに。",
+      "それじゃあ、確かに。"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 17,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      293,
+      298
+    ],
+    "msg_ptrs": [
+      490,
+      882
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "シャロン",
-      "中身はなあに──？",
+      "中身はなあに──？"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 18,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      304,
+      309,
+      314
+    ],
+    "msg_ptrs": [
+      400,
+      902,
+      916
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ジャン",
       "ホアキン──",
-      "向こうに行って包みを開けてみるといい。",
+      "向こうに行って包みを開けてみるといい。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 19,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      320,
+      325,
+      330
+    ],
+    "msg_ptrs": [
+      358,
+      956,
+      964
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ホアキン",
       "僕が？",
       "いったい、なんだろう？"
@@ -113,53 +586,10 @@
     "trans": [
       "",
       "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
       "",
       ""
     ]

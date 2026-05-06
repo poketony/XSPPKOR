@@ -1,26 +1,17 @@
 [
   {
     "scene": 0,
-    "speaker_pos": -1,
-    "msg_positions": [
-      44
-    ],
-    "speaker": "",
-    "speaker_trans": "",
-    "lines": [
-      "ﾌ人？"
-    ],
-    "trans": [
-      ""
-    ]
-  },
-  {
-    "scene": 1,
     "speaker_pos": 60,
+    "speaker_ptr": 665,
     "msg_positions": [
       65,
       68,
       71
+    ],
+    "msg_ptrs": [
+      673,
+      683,
+      697
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -33,17 +24,30 @@
       "",
       "",
       ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출",
+      ""
     ]
   },
   {
-    "scene": 2,
+    "scene": 1,
     "speaker_pos": 75,
+    "speaker_ptr": 665,
     "msg_positions": [
       80,
       83,
       87,
       90,
       93
+    ],
+    "msg_ptrs": [
+      723,
+      757,
+      769,
+      787,
+      811
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -63,14 +67,22 @@
     ]
   },
   {
-    "scene": 3,
+    "scene": 2,
     "speaker_pos": 97,
+    "speaker_ptr": 833,
     "msg_positions": [
       102,
       105,
       108,
       112,
       115
+    ],
+    "msg_ptrs": [
+      843,
+      869,
+      897,
+      935,
+      965
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
@@ -90,11 +102,16 @@
     ]
   },
   {
-    "scene": 4,
+    "scene": 3,
     "speaker_pos": 119,
+    "speaker_ptr": 665,
     "msg_positions": [
       124,
       127
+    ],
+    "msg_ptrs": [
+      991,
+      1009
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -108,10 +125,14 @@
     ]
   },
   {
-    "scene": 5,
+    "scene": 4,
     "speaker_pos": 131,
+    "speaker_ptr": 833,
     "msg_positions": [
       136
+    ],
+    "msg_ptrs": [
+      1041
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
@@ -123,12 +144,18 @@
     ]
   },
   {
-    "scene": 6,
+    "scene": 5,
     "speaker_pos": 140,
+    "speaker_ptr": 1059,
     "msg_positions": [
       145,
       148,
       151
+    ],
+    "msg_ptrs": [
+      1067,
+      1083,
+      1099
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -144,20 +171,22 @@
     ]
   },
   {
-    "scene": 7,
+    "scene": 6,
     "speaker_pos": 155,
+    "speaker_ptr": 665,
     "msg_positions": [
       160,
       163,
       167,
       170,
-      173,
-      187,
-      190,
-      194,
-      197,
-      200,
-      203
+      173
+    ],
+    "msg_ptrs": [
+      1123,
+      1147,
+      1179,
+      1191,
+      1207
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -166,7 +195,39 @@
       "政治的戦略だというのは分かる。",
       "──しかし",
       "マーカンドの奴",
-      "こんな危険な会談に子供を使うとは！",
+      "こんな危険な会談に子供を使うとは！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 182,
+    "speaker_ptr": 1243,
+    "msg_positions": [
+      187,
+      190,
+      194,
+      197,
+      200,
+      203
+    ],
+    "msg_ptrs": [
+      1255,
+      1271,
+      1301,
+      1321,
+      1347,
+      1371
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
       "連警の者です。",
       "貴方たちの救出に参りました。",
       "これから貴方たちの",
@@ -180,23 +241,26 @@
       "",
       "",
       "",
-      "",
-      "",
-      "",
-      "",
-      "",
       ""
     ]
   },
   {
     "scene": 8,
     "speaker_pos": 207,
+    "speaker_ptr": 1383,
     "msg_positions": [
       212,
       215,
       218,
       222,
       225
+    ],
+    "msg_ptrs": [
+      1393,
+      1421,
+      1453,
+      1485,
+      1497
     ],
     "speaker": "エレノア",
     "speaker_trans": "",
@@ -218,8 +282,12 @@
   {
     "scene": 9,
     "speaker_pos": 229,
+    "speaker_ptr": 665,
     "msg_positions": [
       234
+    ],
+    "msg_ptrs": [
+      1533
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -233,9 +301,14 @@
   {
     "scene": 10,
     "speaker_pos": 240,
+    "speaker_ptr": 665,
     "msg_positions": [
       245,
       248
+    ],
+    "msg_ptrs": [
+      1543,
+      1559
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -251,11 +324,18 @@
   {
     "scene": 11,
     "speaker_pos": 263,
+    "speaker_ptr": 1243,
     "msg_positions": [
       268,
       271,
       274,
       277
+    ],
+    "msg_ptrs": [
+      1583,
+      1613,
+      1627,
+      1645
     ],
     "speaker": "ラクティス",
     "speaker_trans": "",
@@ -275,9 +355,14 @@
   {
     "scene": 12,
     "speaker_pos": 283,
+    "speaker_ptr": 665,
     "msg_positions": [
       288,
       291
+    ],
+    "msg_ptrs": [
+      1671,
+      1695
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -293,8 +378,12 @@
   {
     "scene": 13,
     "speaker_pos": 295,
+    "speaker_ptr": 1243,
     "msg_positions": [
       300
+    ],
+    "msg_ptrs": [
+      1725
     ],
     "speaker": "ラクティス",
     "speaker_trans": "",
@@ -308,11 +397,18 @@
   {
     "scene": 14,
     "speaker_pos": 306,
+    "speaker_ptr": 1243,
     "msg_positions": [
       311,
       314,
       318,
       321
+    ],
+    "msg_ptrs": [
+      1733,
+      1753,
+      683,
+      1781
     ],
     "speaker": "ラクティス",
     "speaker_trans": "",
@@ -327,15 +423,27 @@
       "",
       "",
       ""
+    ],
+    "line_notes": [
+      "",
+      "",
+      "중복 호출",
+      ""
     ]
   },
   {
     "scene": 15,
     "speaker_pos": 325,
+    "speaker_ptr": 833,
     "msg_positions": [
       330,
       333,
       336
+    ],
+    "msg_ptrs": [
+      1813,
+      1831,
+      1855
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
@@ -353,11 +461,18 @@
   {
     "scene": 16,
     "speaker_pos": 340,
+    "speaker_ptr": 1243,
     "msg_positions": [
       345,
       348,
       351,
       354
+    ],
+    "msg_ptrs": [
+      1877,
+      1907,
+      1921,
+      1947
     ],
     "speaker": "ラクティス",
     "speaker_trans": "",
@@ -377,11 +492,18 @@
   {
     "scene": 17,
     "speaker_pos": 358,
+    "speaker_ptr": 1383,
     "msg_positions": [
       363,
       366,
       369,
       372
+    ],
+    "msg_ptrs": [
+      1975,
+      2003,
+      2025,
+      2053
     ],
     "speaker": "エレノア",
     "speaker_trans": "",
@@ -401,18 +523,19 @@
   {
     "scene": 18,
     "speaker_pos": 376,
+    "speaker_ptr": 665,
     "msg_positions": [
-      381,
-      419
+      381
+    ],
+    "msg_ptrs": [
+      2083
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
     "lines": [
-      "待て！",
-      "ﾍな──"
+      "待て！"
     ],
     "trans": [
-      "",
       ""
     ]
   }

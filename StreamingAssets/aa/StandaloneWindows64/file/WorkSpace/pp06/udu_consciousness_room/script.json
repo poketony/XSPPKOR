@@ -2,10 +2,16 @@
   {
     "scene": 0,
     "speaker_pos": 43,
+    "speaker_ptr": 215,
     "msg_positions": [
       48,
       51,
       54
+    ],
+    "msg_ptrs": [
+      229,
+      255,
+      279
     ],
     "speaker": "ヴォイジャー",
     "speaker_trans": "",
@@ -23,8 +29,12 @@
   {
     "scene": 1,
     "speaker_pos": 58,
+    "speaker_ptr": 303,
     "msg_positions": [
       63
+    ],
+    "msg_ptrs": [
+      313
     ],
     "speaker": "ウ・ドゥ",
     "speaker_trans": "",
@@ -38,11 +48,18 @@
   {
     "scene": 2,
     "speaker_pos": 67,
+    "speaker_ptr": 215,
     "msg_positions": [
       72,
       75,
       78,
       84
+    ],
+    "msg_ptrs": [
+      319,
+      333,
+      353,
+      367
     ],
     "speaker": "ヴォイジャー",
     "speaker_trans": "",
@@ -62,9 +79,14 @@
   {
     "scene": 3,
     "speaker_pos": 88,
+    "speaker_ptr": 397,
     "msg_positions": [
       93,
       96
+    ],
+    "msg_ptrs": [
+      411,
+      423
     ],
     "speaker": "ヴィルヘルム",
     "speaker_trans": "",
@@ -80,8 +102,12 @@
   {
     "scene": 4,
     "speaker_pos": 102,
+    "speaker_ptr": 215,
     "msg_positions": [
       107
+    ],
+    "msg_ptrs": [
+      453
     ],
     "speaker": "ヴォイジャー",
     "speaker_trans": "",
@@ -95,8 +121,12 @@
   {
     "scene": 5,
     "speaker_pos": 126,
+    "speaker_ptr": 397,
     "msg_positions": [
       129
+    ],
+    "msg_ptrs": [
+      461
     ],
     "speaker": "ヴィルヘルム",
     "speaker_trans": "",
@@ -110,8 +140,12 @@
   {
     "scene": 6,
     "speaker_pos": 133,
+    "speaker_ptr": 215,
     "msg_positions": [
       138
+    ],
+    "msg_ptrs": [
+      489
     ],
     "speaker": "ヴォイジャー",
     "speaker_trans": "",
@@ -125,9 +159,14 @@
   {
     "scene": 7,
     "speaker_pos": 142,
+    "speaker_ptr": 397,
     "msg_positions": [
       147,
       150
+    ],
+    "msg_ptrs": [
+      505,
+      517
     ],
     "speaker": "ヴィルヘルム",
     "speaker_trans": "",

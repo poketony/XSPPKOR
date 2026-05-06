@@ -2,9 +2,14 @@
   {
     "scene": 0,
     "speaker_pos": -1,
+    "speaker_ptr": -1,
     "msg_positions": [
       47,
       50
+    ],
+    "msg_ptrs": [
+      304,
+      335
     ],
     "speaker": "",
     "speaker_trans": "",
@@ -20,8 +25,12 @@
   {
     "scene": 1,
     "speaker_pos": 101,
+    "speaker_ptr": 360,
     "msg_positions": [
       106
+    ],
+    "msg_ptrs": [
+      372
     ],
     "speaker": "ラクティス",
     "speaker_trans": "",
@@ -35,22 +44,44 @@
   {
     "scene": 2,
     "speaker_pos": 110,
+    "speaker_ptr": 382,
     "msg_positions": [
-      115,
-      244,
-      247,
-      258
+      115
+    ],
+    "msg_ptrs": [
+      390
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
     "lines": [
-      "ラクティスか？",
+      "ラクティスか？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      244,
+      247,
+      258
+    ],
+    "msg_ptrs": [
+      406,
+      422,
+      436
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ゼータジストを",
       "手に入れた！",
       "何も入っていないようだ。"
     ],
     "trans": [
-      "",
       "",
       "",
       ""

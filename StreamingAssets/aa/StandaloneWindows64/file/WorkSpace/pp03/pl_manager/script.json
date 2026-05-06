@@ -2,7 +2,9 @@
   {
     "scene": 0,
     "speaker_pos": 20,
+    "speaker_ptr": 162,
     "msg_positions": [
+      25,
       28,
       31,
       34,
@@ -13,9 +15,22 @@
       55,
       58
     ],
+    "msg_ptrs": [
+      174,
+      204,
+      224,
+      248,
+      266,
+      282,
+      316,
+      338,
+      356,
+      378
+    ],
     "speaker": "マッカラム",
     "speaker_trans": "",
     "lines": [
+      "来週頭にトーレ財団が主催する",
       "移民船団を招いての",
       "パーティーが行われる。",
       "その警備に就け。",
@@ -35,17 +50,25 @@
       "",
       "",
       "",
+      "",
       ""
     ]
   },
   {
     "scene": 1,
     "speaker_pos": 64,
+    "speaker_ptr": 396,
     "msg_positions": [
       69,
       72,
       75,
       78
+    ],
+    "msg_ptrs": [
+      404,
+      420,
+      434,
+      452
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -65,15 +88,23 @@
   {
     "scene": 2,
     "speaker_pos": 84,
+    "speaker_ptr": 162,
     "msg_positions": [
+      89,
       92
+    ],
+    "msg_ptrs": [
+      474,
+      482
     ],
     "speaker": "マッカラム",
     "speaker_trans": "",
     "lines": [
+      "いや。",
       "ちょっとした、独断だよ。"
     ],
     "trans": [
+      "",
       ""
     ]
   }

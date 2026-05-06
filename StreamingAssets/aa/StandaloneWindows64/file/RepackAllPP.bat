@@ -1,2 +1,2 @@
-python pp_tool.py repack_all ppfiles WorkSpace output
+python pp_tool_xscript_vm_v5.py repack_all ppfiles WorkSpace output
 pause

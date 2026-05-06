@@ -2,8 +2,12 @@
   {
     "scene": 0,
     "speaker_pos": 116,
+    "speaker_ptr": 2260,
     "msg_positions": [
       121
+    ],
+    "msg_ptrs": [
+      2268
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -17,8 +21,12 @@
   {
     "scene": 1,
     "speaker_pos": 240,
+    "speaker_ptr": 2294,
     "msg_positions": [
       245
+    ],
+    "msg_ptrs": [
+      2304
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -32,11 +40,18 @@
   {
     "scene": 2,
     "speaker_pos": 251,
+    "speaker_ptr": 2260,
     "msg_positions": [
       256,
       259,
       262,
       265
+    ],
+    "msg_ptrs": [
+      2338,
+      2362,
+      2388,
+      2412
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -56,6 +71,7 @@
   {
     "scene": 3,
     "speaker_pos": 269,
+    "speaker_ptr": 2294,
     "msg_positions": [
       274,
       277,
@@ -63,6 +79,14 @@
       284,
       287,
       290
+    ],
+    "msg_ptrs": [
+      2440,
+      2466,
+      2498,
+      2532,
+      2546,
+      2572
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -86,10 +110,16 @@
   {
     "scene": 4,
     "speaker_pos": 294,
+    "speaker_ptr": 2260,
     "msg_positions": [
       299,
       302,
       305
+    ],
+    "msg_ptrs": [
+      2600,
+      2608,
+      2634
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -107,11 +137,18 @@
   {
     "scene": 5,
     "speaker_pos": 309,
+    "speaker_ptr": 2294,
     "msg_positions": [
       314,
       317,
       320,
       323
+    ],
+    "msg_ptrs": [
+      2668,
+      2678,
+      2706,
+      2735
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -131,8 +168,12 @@
   {
     "scene": 6,
     "speaker_pos": 374,
+    "speaker_ptr": 2755,
     "msg_positions": [
       379
+    ],
+    "msg_ptrs": [
+      2763
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -141,13 +182,20 @@
     ],
     "trans": [
       ""
+    ],
+    "line_notes": [
+      "중복 호출"
     ]
   },
   {
     "scene": 7,
     "speaker_pos": 387,
+    "speaker_ptr": 2755,
     "msg_positions": [
       392
+    ],
+    "msg_ptrs": [
+      2771
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -161,12 +209,20 @@
   {
     "scene": 8,
     "speaker_pos": 396,
+    "speaker_ptr": 2260,
     "msg_positions": [
       401,
       404,
       407,
       411,
       414
+    ],
+    "msg_ptrs": [
+      2779,
+      2801,
+      2819,
+      2849,
+      2875
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -188,6 +244,7 @@
   {
     "scene": 9,
     "speaker_pos": 418,
+    "speaker_ptr": 2755,
     "msg_positions": [
       423,
       427,
@@ -199,6 +256,18 @@
       447,
       450,
       453
+    ],
+    "msg_ptrs": [
+      2909,
+      2763,
+      2931,
+      2957,
+      2991,
+      3007,
+      3037,
+      3049,
+      3083,
+      3111
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -225,13 +294,29 @@
       "",
       "",
       ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {
     "scene": 10,
     "speaker_pos": 457,
+    "speaker_ptr": 2294,
     "msg_positions": [
       462
+    ],
+    "msg_ptrs": [
+      3141
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -245,8 +330,12 @@
   {
     "scene": 11,
     "speaker_pos": 466,
+    "speaker_ptr": 2260,
     "msg_positions": [
       471
+    ],
+    "msg_ptrs": [
+      3161
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -260,6 +349,7 @@
   {
     "scene": 12,
     "speaker_pos": 475,
+    "speaker_ptr": 2755,
     "msg_positions": [
       480,
       483,
@@ -272,6 +362,19 @@
       506,
       509,
       512
+    ],
+    "msg_ptrs": [
+      3181,
+      3209,
+      3237,
+      3263,
+      3287,
+      3311,
+      3343,
+      3363,
+      3391,
+      3413,
+      3421
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -305,6 +408,7 @@
   {
     "scene": 13,
     "speaker_pos": 516,
+    "speaker_ptr": 2260,
     "msg_positions": [
       521,
       524,
@@ -312,6 +416,14 @@
       530,
       534,
       537
+    ],
+    "msg_ptrs": [
+      3453,
+      3469,
+      3489,
+      3515,
+      3545,
+      3561
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -335,8 +447,12 @@
   {
     "scene": 14,
     "speaker_pos": 541,
+    "speaker_ptr": 2755,
     "msg_positions": [
       546
+    ],
+    "msg_ptrs": [
+      3591
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -350,11 +466,18 @@
   {
     "scene": 15,
     "speaker_pos": 555,
+    "speaker_ptr": 2260,
     "msg_positions": [
       560,
       563,
       566,
       569
+    ],
+    "msg_ptrs": [
+      3607,
+      3633,
+      3649,
+      3671
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -374,8 +497,12 @@
   {
     "scene": 16,
     "speaker_pos": 573,
+    "speaker_ptr": 2294,
     "msg_positions": [
       578
+    ],
+    "msg_ptrs": [
+      3703
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -384,13 +511,20 @@
     ],
     "trans": [
       ""
+    ],
+    "line_notes": [
+      "중복 호출"
     ]
   },
   {
     "scene": 17,
     "speaker_pos": 582,
+    "speaker_ptr": 2260,
     "msg_positions": [
       587
+    ],
+    "msg_ptrs": [
+      3709
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -404,9 +538,14 @@
   {
     "scene": 18,
     "speaker_pos": 591,
+    "speaker_ptr": 2294,
     "msg_positions": [
       596,
       599
+    ],
+    "msg_ptrs": [
+      3703,
+      3721
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -417,15 +556,25 @@
     "trans": [
       "",
       ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
     ]
   },
   {
     "scene": 19,
     "speaker_pos": 608,
+    "speaker_ptr": 2260,
     "msg_positions": [
       613,
       616,
       619
+    ],
+    "msg_ptrs": [
+      3703,
+      3755,
+      3771
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -438,14 +587,24 @@
       "",
       "",
       ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      "",
+      ""
     ]
   },
   {
     "scene": 20,
     "speaker_pos": 935,
+    "speaker_ptr": 2755,
     "msg_positions": [
       940,
       943
+    ],
+    "msg_ptrs": [
+      3801,
+      3811
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -461,21 +620,18 @@
   {
     "scene": 21,
     "speaker_pos": 947,
+    "speaker_ptr": 2260,
     "msg_positions": [
       952,
       955,
       958,
-      961,
-      1012,
-      1019,
-      1026,
-      1033,
-      1036,
-      1043,
-      1335,
-      1346,
-      1354,
-      1538
+      961
+    ],
+    "msg_ptrs": [
+      3837,
+      3861,
+      3877,
+      3891
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -483,29 +639,9 @@
       "だが、既にミッションは",
       "始まっている。",
       "訓練とはいえ",
-      "気を抜くんじゃないぞ。",
-      "X。",
-      "ｮの隊員の、ですか？",
-      "件で",
-      "てくるのか──",
-      "ｮの隊員の、ですか？",
-      "ﾄくるのか──",
-      "ｪ、既にミッションは",
-      "ｪ、既にミッションは",
-      "ﾏわってくるのか──",
-      "りがとうございます。"
+      "気を抜くんじゃないぞ。"
     ],
     "trans": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       "",
       "",
       "",
@@ -515,54 +651,127 @@
   {
     "scene": 22,
     "speaker_pos": 1549,
+    "speaker_ptr": 3915,
     "msg_positions": [
       1552,
-      1555,
-      1567,
-      1570
+      1555
+    ],
+    "msg_ptrs": [
+      3925,
+      3933
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
     "lines": [
       "隊長。",
-      "訓練を終了するのですか？",
-      "了解しました。",
-      "ダイブアウト実行します。"
+      "訓練を終了するのですか？"
     ],
     "trans": [
-      "",
-      "",
       "",
       ""
     ]
   },
   {
     "scene": 23,
-    "speaker_pos": 1584,
+    "speaker_pos": 1564,
+    "speaker_ptr": 3915,
     "msg_positions": [
-      1587,
-      1590,
-      1596
+      1567,
+      1570
+    ],
+    "msg_ptrs": [
+      3959,
+      3975
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
     "lines": [
-      "訓練を続行するのですね。",
       "了解しました。",
-      "エレベーターは故障しているようだ。"
+      "ダイブアウト実行します。"
     ],
     "trans": [
       "",
-      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
       ""
     ]
   },
   {
     "scene": 24,
+    "speaker_pos": 1584,
+    "speaker_ptr": 3915,
+    "msg_positions": [
+      1587,
+      1590
+    ],
+    "msg_ptrs": [
+      4001,
+      3959
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "訓練を続行するのですね。",
+      "了解しました。"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 25,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      1596
+    ],
+    "msg_ptrs": [
+      4027
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "エレベーターは故障しているようだ。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 26,
     "speaker_pos": 1678,
+    "speaker_ptr": 4063,
     "msg_positions": [
       1681,
-      1684,
+      1684
+    ],
+    "msg_ptrs": [
+      4075,
+      4089
+    ],
+    "speaker": "ステイシー",
+    "speaker_trans": "",
+    "lines": [
+      "助けて頂いて",
+      "どうもありがとうございます。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 27,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
       1798,
       1809,
       1820,
@@ -570,11 +779,17 @@
       1842,
       1853
     ],
-    "speaker": "ステイシー",
+    "msg_ptrs": [
+      4121,
+      4133,
+      4145,
+      4157,
+      4169,
+      4181
+    ],
+    "speaker": "",
     "speaker_trans": "",
     "lines": [
-      "助けて頂いて",
-      "どうもありがとうございます。",
       "１人目！！",
       "２人目！！",
       "３人目！！",
@@ -588,16 +803,18 @@
       "",
       "",
       "",
-      "",
-      "",
       ""
     ]
   },
   {
-    "scene": 25,
+    "scene": 28,
     "speaker_pos": 1860,
+    "speaker_ptr": 3915,
     "msg_positions": [
       1863
+    ],
+    "msg_ptrs": [
+      2763
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
@@ -606,14 +823,22 @@
     ],
     "trans": [
       ""
+    ],
+    "line_notes": [
+      "중복 호출"
     ]
   },
   {
-    "scene": 26,
+    "scene": 29,
     "speaker_pos": 1867,
+    "speaker_ptr": 2260,
     "msg_positions": [
       1872,
       1875
+    ],
+    "msg_ptrs": [
+      4193,
+      4207
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -627,13 +852,20 @@
     ]
   },
   {
-    "scene": 27,
+    "scene": 30,
     "speaker_pos": 1879,
+    "speaker_ptr": 3915,
     "msg_positions": [
       1884,
       1887,
       1890,
       1893
+    ],
+    "msg_ptrs": [
+      4219,
+      4245,
+      4277,
+      4297
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
@@ -651,11 +883,16 @@
     ]
   },
   {
-    "scene": 28,
+    "scene": 31,
     "speaker_pos": 1897,
+    "speaker_ptr": 2260,
     "msg_positions": [
       1902,
       1905
+    ],
+    "msg_ptrs": [
+      4323,
+      4333
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -669,13 +906,42 @@
     ]
   },
   {
-    "scene": 29,
+    "scene": 32,
     "speaker_pos": 1910,
+    "speaker_ptr": 2260,
     "msg_positions": [
       1915,
       1918,
       1921,
-      1924,
+      1924
+    ],
+    "msg_ptrs": [
+      4345,
+      4379,
+      4395,
+      4419
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "そういえば、ミハエルが話があると",
+      "言っていたな。",
+      "ブリーフィングルームに",
+      "行ってみるか──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 33,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      1930,
       1933,
       1936,
       1939,
@@ -684,13 +950,20 @@
       1949,
       1952
     ],
-    "speaker": "ジャン",
+    "msg_ptrs": [
+      4437,
+      4449,
+      4459,
+      4495,
+      4523,
+      4553,
+      4577,
+      4607
+    ],
+    "speaker": "",
     "speaker_trans": "",
     "lines": [
-      "そういえば、ミハエルが話があると",
-      "言っていたな。",
-      "ブリーフィングルームに",
-      "行ってみるか──",
+      "ドウェイン",
       "くそー！",
       "この自販機、故障してやがったのか！",
       "俺もエンジニアの端くれ──",
@@ -707,15 +980,16 @@
       "",
       "",
       "",
-      "",
-      "",
-      "",
       ""
+    ],
+    "line_notes": [
+      "장소/시스템"
     ]
   },
   {
-    "scene": 30,
+    "scene": 34,
     "speaker_pos": 1963,
+    "speaker_ptr": 4631,
     "msg_positions": [
       1966,
       1969,
@@ -723,6 +997,14 @@
       1976,
       1979,
       1982
+    ],
+    "msg_ptrs": [
+      4637,
+      4661,
+      4697,
+      4705,
+      4725,
+      4749
     ],
     "speaker": "リサ",
     "speaker_trans": "",
@@ -744,13 +1026,20 @@
     ]
   },
   {
-    "scene": 31,
+    "scene": 35,
     "speaker_pos": 1993,
+    "speaker_ptr": 4771,
     "msg_positions": [
       1996,
       1999,
       2002,
       2005
+    ],
+    "msg_ptrs": [
+      4781,
+      4795,
+      4835,
+      4863
     ],
     "speaker": "ジェシー",
     "speaker_trans": "",
@@ -768,8 +1057,9 @@
     ]
   },
   {
-    "scene": 32,
+    "scene": 36,
     "speaker_pos": 2016,
+    "speaker_ptr": 4063,
     "msg_positions": [
       2019,
       2022,
@@ -779,6 +1069,16 @@
       2035,
       2039,
       2042
+    ],
+    "msg_ptrs": [
+      4893,
+      4917,
+      4933,
+      4955,
+      4971,
+      5009,
+      5035,
+      5053
     ],
     "speaker": "ステイシー",
     "speaker_trans": "",
@@ -801,14 +1101,29 @@
       "",
       "",
       ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      "중복 호출",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {
-    "scene": 33,
+    "scene": 37,
     "speaker_pos": 2053,
+    "speaker_ptr": 4063,
     "msg_positions": [
       2056,
       2059
+    ],
+    "msg_ptrs": [
+      4893,
+      4917
     ],
     "speaker": "ステイシー",
     "speaker_trans": "",
@@ -819,6 +1134,10 @@
     "trans": [
       "",
       ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      "중복 호출"
     ]
   }
 ]

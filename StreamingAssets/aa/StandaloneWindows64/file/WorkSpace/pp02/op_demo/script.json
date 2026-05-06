@@ -2,26 +2,49 @@
   {
     "scene": 0,
     "speaker_pos": -1,
+    "speaker_ptr": -1,
     "msg_positions": [
       12,
       17,
-      22,
-      31,
-      36
+      22
+    ],
+    "msg_ptrs": [
+      61,
+      71,
+      81
     ],
     "speaker": "",
     "speaker_trans": "",
     "lines": [
       "シャロン",
       "待って！",
-      "貴方の容態は不安定な状態なのよ！",
-      "エーリッヒ",
-      "──問題無い。"
+      "貴方の容態は不安定な状態なのよ！"
     ],
     "trans": [
       "",
       "",
-      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      31,
+      36
+    ],
+    "msg_ptrs": [
+      115,
+      127
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "エーリッヒ",
+      "──問題無い。"
+    ],
+    "trans": [
       "",
       ""
     ]

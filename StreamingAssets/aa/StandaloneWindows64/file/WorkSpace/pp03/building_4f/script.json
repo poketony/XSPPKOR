@@ -2,8 +2,12 @@
   {
     "scene": 0,
     "speaker_pos": -1,
+    "speaker_ptr": -1,
     "msg_positions": [
       301
+    ],
+    "msg_ptrs": [
+      706
     ],
     "speaker": "",
     "speaker_trans": "",

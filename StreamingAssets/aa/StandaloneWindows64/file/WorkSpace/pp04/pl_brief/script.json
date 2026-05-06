@@ -2,12 +2,20 @@
   {
     "scene": 0,
     "speaker_pos": 57,
+    "speaker_ptr": 911,
     "msg_positions": [
       62,
       66,
       69,
       72,
       75
+    ],
+    "msg_ptrs": [
+      919,
+      955,
+      971,
+      1007,
+      1029
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -29,10 +37,37 @@
   {
     "scene": 1,
     "speaker_pos": 79,
+    "speaker_ptr": 1053,
+    "msg_positions": [
+      84,
+      87
+    ],
+    "msg_ptrs": [
+      1063,
+      1083
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "わかってますって。",
+      "任せといてくださいよ。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 91,
+    "speaker_ptr": 1107,
     "msg_positions": [
       96
     ],
-    "speaker": "ミハエル",
+    "msg_ptrs": [
+      1119
+    ],
+    "speaker": "エーリッヒ",
     "speaker_trans": "",
     "lines": [
       "了解しました。"
@@ -42,36 +77,64 @@
     ]
   },
   {
-    "scene": 2,
+    "scene": 3,
     "speaker_pos": 100,
+    "speaker_ptr": 911,
     "msg_positions": [
       105,
-      108,
-      151,
-      154
+      108
+    ],
+    "msg_ptrs": [
+      1135,
+      1149
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
     "lines": [
       "すまんな――",
-      "よろしく頼む。",
-      "　　　　　　 連邦警察支署",
-      "　　　　 ブリーフィングルーム"
+      "よろしく頼む。"
     ],
     "trans": [
-      "",
-      "",
       "",
       ""
     ]
   },
   {
-    "scene": 3,
+    "scene": 4,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      151,
+      154
+    ],
+    "msg_ptrs": [
+      1167,
+      1194
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "　　　　　　 連邦警察支署",
+      "　　　　 ブリーフィングルーム"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
     "speaker_pos": 166,
+    "speaker_ptr": 1225,
     "msg_positions": [
       171,
       174,
       177
+    ],
+    "msg_ptrs": [
+      1237,
+      1249,
+      1281
     ],
     "speaker": "ラクティス",
     "speaker_trans": "",
@@ -87,13 +150,20 @@
     ]
   },
   {
-    "scene": 4,
+    "scene": 6,
     "speaker_pos": 183,
+    "speaker_ptr": 911,
     "msg_positions": [
       188,
       191,
       194,
       197
+    ],
+    "msg_ptrs": [
+      1295,
+      1313,
+      1341,
+      1371
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -111,10 +181,14 @@
     ]
   },
   {
-    "scene": 5,
+    "scene": 7,
     "speaker_pos": 205,
+    "speaker_ptr": 911,
     "msg_positions": [
       210
+    ],
+    "msg_ptrs": [
+      1397
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -126,13 +200,20 @@
     ]
   },
   {
-    "scene": 6,
+    "scene": 8,
     "speaker_pos": 216,
+    "speaker_ptr": 1225,
     "msg_positions": [
       221,
       224,
       227,
       230
+    ],
+    "msg_ptrs": [
+      1415,
+      1439,
+      1465,
+      1499
     ],
     "speaker": "ラクティス",
     "speaker_trans": "",
@@ -150,16 +231,25 @@
     ]
   },
   {
-    "scene": 7,
+    "scene": 9,
     "speaker_pos": 236,
+    "speaker_ptr": 1053,
     "msg_positions": [
+      241,
       244,
       247,
       250
     ],
+    "msg_ptrs": [
+      1523,
+      1541,
+      1563,
+      1587
+    ],
     "speaker": "ミハエル",
     "speaker_trans": "",
     "lines": [
+      "クラウスって男が",
       "いくら有能であっても",
       "単独で船上パーティーを",
       "ハッキングしたとは思えないしね。"
@@ -167,14 +257,38 @@
     "trans": [
       "",
       "",
+      "",
       ""
     ]
   },
   {
-    "scene": 8,
+    "scene": 10,
+    "speaker_pos": 258,
+    "speaker_ptr": 1053,
+    "msg_positions": [
+      263
+    ],
+    "msg_ptrs": [
+      1621
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "それに──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 11,
     "speaker_pos": 269,
+    "speaker_ptr": 1633,
     "msg_positions": [
       274
+    ],
+    "msg_ptrs": [
+      1641
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -186,18 +300,29 @@
     ]
   },
   {
-    "scene": 9,
+    "scene": 12,
     "speaker_pos": 280,
+    "speaker_ptr": 1053,
     "msg_positions": [
+      285,
       288,
       291,
       297,
       300,
       303
     ],
+    "msg_ptrs": [
+      1651,
+      1681,
+      1709,
+      1741,
+      1773,
+      1807
+    ],
     "speaker": "ミハエル",
     "speaker_trans": "",
     "lines": [
+      "仮想空間にリライトがあった時",
       "トレースログのパターンには",
       "明らかに第三者の干渉があった。",
       "俺はどうも、第三者のパターンに",
@@ -209,14 +334,19 @@
       "",
       "",
       "",
+      "",
       ""
     ]
   },
   {
-    "scene": 10,
+    "scene": 13,
     "speaker_pos": 309,
+    "speaker_ptr": 1633,
     "msg_positions": [
       314
+    ],
+    "msg_ptrs": [
+      1829
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -228,11 +358,16 @@
     ]
   },
   {
-    "scene": 11,
+    "scene": 14,
     "speaker_pos": 322,
+    "speaker_ptr": 911,
     "msg_positions": [
       327,
       330
+    ],
+    "msg_ptrs": [
+      1843,
+      1861
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -246,10 +381,14 @@
     ]
   },
   {
-    "scene": 12,
+    "scene": 15,
     "speaker_pos": 336,
+    "speaker_ptr": 1633,
     "msg_positions": [
       341
+    ],
+    "msg_ptrs": [
+      1883
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -261,13 +400,20 @@
     ]
   },
   {
-    "scene": 13,
+    "scene": 16,
     "speaker_pos": 774,
+    "speaker_ptr": 911,
     "msg_positions": [
       779,
       783,
       786,
       789
+    ],
+    "msg_ptrs": [
+      1895,
+      1915,
+      1925,
+      1953
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -285,12 +431,18 @@
     ]
   },
   {
-    "scene": 14,
+    "scene": 17,
     "speaker_pos": 795,
+    "speaker_ptr": 1979,
     "msg_positions": [
       800,
       803,
       806
+    ],
+    "msg_ptrs": [
+      1989,
+      2005,
+      2037
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -306,12 +458,18 @@
     ]
   },
   {
-    "scene": 15,
+    "scene": 18,
     "speaker_pos": 810,
+    "speaker_ptr": 911,
     "msg_positions": [
       815,
       818,
       821
+    ],
+    "msg_ptrs": [
+      2059,
+      2081,
+      2095
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -327,12 +485,18 @@
     ]
   },
   {
-    "scene": 16,
+    "scene": 19,
     "speaker_pos": 825,
+    "speaker_ptr": 1979,
     "msg_positions": [
       830,
       833,
       836
+    ],
+    "msg_ptrs": [
+      2129,
+      2145,
+      2173
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -348,29 +512,43 @@
     ]
   },
   {
-    "scene": 17,
+    "scene": 20,
     "speaker_pos": 847,
+    "speaker_ptr": 1053,
     "msg_positions": [
+      852,
       855,
       858
+    ],
+    "msg_ptrs": [
+      2191,
+      2199,
+      2231
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
     "lines": [
+      "隊長！",
       "こっちはもう用意できてますよ。",
       "ログインしますか？"
     ],
     "trans": [
       "",
+      "",
       ""
     ]
   },
   {
-    "scene": 18,
+    "scene": 21,
     "speaker_pos": 882,
+    "speaker_ptr": 1107,
     "msg_positions": [
       887,
       890
+    ],
+    "msg_ptrs": [
+      2251,
+      2285
     ],
     "speaker": "エーリッヒ",
     "speaker_trans": "",
@@ -384,10 +562,14 @@
     ]
   },
   {
-    "scene": 19,
+    "scene": 22,
     "speaker_pos": 901,
+    "speaker_ptr": 911,
     "msg_positions": [
       906
+    ],
+    "msg_ptrs": [
+      2309
     ],
     "speaker": "ジャン",
     "speaker_trans": "",

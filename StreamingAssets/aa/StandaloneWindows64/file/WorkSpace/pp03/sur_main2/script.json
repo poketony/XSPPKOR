@@ -2,63 +2,83 @@
   {
     "scene": 0,
     "speaker_pos": -1,
+    "speaker_ptr": -1,
     "msg_positions": [
-      39,
-      87,
       316,
-      320,
-      324,
-      346,
-      374
+      324
+    ],
+    "msg_ptrs": [
+      1379,
+      1379
     ],
     "speaker": "",
     "speaker_trans": "",
     "lines": [
-      "イテムが見えるんですよ。",
-      "ﾉ入れた！",
       "ｩえる範囲は限られていますし",
-      "ｩえる範囲は限られていますし",
-      "ｩえる範囲は限られていますし",
-      "長達には見えなくても",
-      "ｷ達には見えなくても"
+      "ｩえる範囲は限られていますし"
     ],
     "trans": [
       "",
-      "",
-      "",
-      "",
-      "",
-      "",
       ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      "중복 호출"
     ]
   },
   {
     "scene": 1,
-    "speaker_pos": 446,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
     "msg_positions": [
-      465,
-      473,
-      481
+      346,
+      374
     ],
-    "speaker": "ｷ達には見えなくても",
+    "msg_ptrs": [
+      1284,
+      1285
+    ],
+    "speaker": "",
     "speaker_trans": "",
     "lines": [
-      "いないようだ。",
-      "ないようだ。",
-      "ﾈアイテムが"
+      "長達には見えなくても",
+      "ｷ達には見えなくても"
     ],
     "trans": [
-      "",
       "",
       ""
     ]
   },
   {
     "scene": 2,
+    "speaker_pos": 446,
+    "speaker_ptr": 1285,
+    "msg_positions": [
+      465
+    ],
+    "msg_ptrs": [
+      1814
+    ],
+    "speaker": "ｷ達には見えなくても",
+    "speaker_trans": "",
+    "lines": [
+      "いないようだ。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 3,
     "speaker_pos": 619,
+    "speaker_ptr": 1190,
     "msg_positions": [
       624,
       627
+    ],
+    "msg_ptrs": [
+      1198,
+      1212
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -72,11 +92,16 @@
     ]
   },
   {
-    "scene": 3,
+    "scene": 4,
     "speaker_pos": 647,
+    "speaker_ptr": 1226,
     "msg_positions": [
       652,
       655
+    ],
+    "msg_ptrs": [
+      1238,
+      1244
     ],
     "speaker": "ラクティス",
     "speaker_trans": "",
@@ -90,10 +115,14 @@
     ]
   },
   {
-    "scene": 4,
+    "scene": 5,
     "speaker_pos": 664,
+    "speaker_ptr": 1190,
     "msg_positions": [
       669
+    ],
+    "msg_ptrs": [
+      1274
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -105,8 +134,9 @@
     ]
   },
   {
-    "scene": 5,
+    "scene": 6,
     "speaker_pos": 675,
+    "speaker_ptr": 1226,
     "msg_positions": [
       680,
       683,
@@ -114,6 +144,14 @@
       690,
       693,
       696
+    ],
+    "msg_ptrs": [
+      1282,
+      1306,
+      1332,
+      1368,
+      1378,
+      1408
     ],
     "speaker": "ラクティス",
     "speaker_trans": "",
@@ -135,10 +173,14 @@
     ]
   },
   {
-    "scene": 6,
+    "scene": 7,
     "speaker_pos": 702,
+    "speaker_ptr": 1190,
     "msg_positions": [
       707
+    ],
+    "msg_ptrs": [
+      1436
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -150,18 +192,41 @@
     ]
   },
   {
-    "scene": 7,
+    "scene": 8,
     "speaker_pos": 711,
+    "speaker_ptr": 1226,
     "msg_positions": [
-      716,
-      732,
-      735,
-      738
+      716
+    ],
+    "msg_ptrs": [
+      1462
     ],
     "speaker": "ラクティス",
     "speaker_trans": "",
     "lines": [
-      "そうですね――",
+      "そうですね――"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 727,
+    "speaker_ptr": 1226,
+    "msg_positions": [
+      732,
+      735,
+      738
+    ],
+    "msg_ptrs": [
+      1478,
+      1498,
+      1518
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
       "この範囲内であれば",
       "見えないアイテムを",
       "見つける事ができます。"
@@ -169,17 +234,22 @@
     "trans": [
       "",
       "",
-      "",
       ""
     ]
   },
   {
-    "scene": 8,
+    "scene": 10,
     "speaker_pos": 743,
+    "speaker_ptr": 1190,
     "msg_positions": [
       748,
       751,
       754
+    ],
+    "msg_ptrs": [
+      1542,
+      1552,
+      1576
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -195,8 +265,9 @@
     ]
   },
   {
-    "scene": 9,
+    "scene": 11,
     "speaker_pos": 758,
+    "speaker_ptr": 1226,
     "msg_positions": [
       763,
       766,
@@ -204,6 +275,14 @@
       773,
       776,
       779
+    ],
+    "msg_ptrs": [
+      1606,
+      1622,
+      1646,
+      1680,
+      1704,
+      1726
     ],
     "speaker": "ラクティス",
     "speaker_trans": "",
@@ -225,48 +304,154 @@
     ]
   },
   {
-    "scene": 10,
+    "scene": 12,
     "speaker_pos": 783,
+    "speaker_ptr": 1190,
     "msg_positions": [
       788,
-      791,
-      1003,
-      1009,
-      1012,
-      1044,
-      1047,
-      1079,
-      1082,
-      1114,
-      1117
+      791
+    ],
+    "msg_ptrs": [
+      1744,
+      1756
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
     "lines": [
       "了解した。",
-      "では先を急ごう。",
-      "に行き止まりの通路や",
+      "では先を急ごう。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      1009,
+      1012,
+      1023
+    ],
+    "msg_ptrs": [
+      1774,
+      1790,
+      1804
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "強化兵装四式を",
       "手に入れた！",
-      "フレイムダガーを",
-      "手に入れた！",
-      "ローズジストＤＸを",
-      "手に入れた！",
-      "アクアジストＳを",
-      "手に入れた！"
+      "何も入っていないようだ。"
     ],
     "trans": [
       "",
       "",
+      ""
+    ],
+    "line_notes": [
       "",
-      "",
-      "",
-      "",
-      "",
-      "",
+      "중복 호출",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 14,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      1044,
+      1047,
+      1058
+    ],
+    "msg_ptrs": [
+      1830,
+      1790,
+      1804
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "フレイムダガーを",
+      "手に入れた！",
+      "何も入っていないようだ。"
+    ],
+    "trans": [
       "",
       "",
       ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 15,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      1079,
+      1082,
+      1093
+    ],
+    "msg_ptrs": [
+      1848,
+      1790,
+      1804
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "ローズジストＤＸを",
+      "手に入れた！",
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 16,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      1114,
+      1117,
+      1128
+    ],
+    "msg_ptrs": [
+      1868,
+      1790,
+      1804
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "アクアジストＳを",
+      "手に入れた！",
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출",
+      "중복 호출"
     ]
   }
 ]

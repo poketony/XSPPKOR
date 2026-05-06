@@ -2,8 +2,12 @@
   {
     "scene": 0,
     "speaker_pos": 63,
+    "speaker_ptr": 1253,
     "msg_positions": [
       68
+    ],
+    "msg_ptrs": [
+      1261
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -17,8 +21,12 @@
   {
     "scene": 1,
     "speaker_pos": 112,
+    "speaker_ptr": 1267,
     "msg_positions": [
       117
+    ],
+    "msg_ptrs": [
+      1275
     ],
     "speaker": "ケイト",
     "speaker_trans": "",
@@ -32,10 +40,16 @@
   {
     "scene": 2,
     "speaker_pos": 123,
+    "speaker_ptr": 1309,
     "msg_positions": [
       128,
       131,
       134
+    ],
+    "msg_ptrs": [
+      1319,
+      1347,
+      1379
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -53,8 +67,12 @@
   {
     "scene": 3,
     "speaker_pos": 138,
+    "speaker_ptr": 1267,
     "msg_positions": [
       143
+    ],
+    "msg_ptrs": [
+      1403
     ],
     "speaker": "ケイト",
     "speaker_trans": "",
@@ -63,13 +81,20 @@
     ],
     "trans": [
       ""
+    ],
+    "line_notes": [
+      "중복 호출"
     ]
   },
   {
     "scene": 4,
     "speaker_pos": 166,
+    "speaker_ptr": 1309,
     "msg_positions": [
       171
+    ],
+    "msg_ptrs": [
+      1411
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -83,8 +108,12 @@
   {
     "scene": 5,
     "speaker_pos": 177,
+    "speaker_ptr": 1267,
     "msg_positions": [
       182
+    ],
+    "msg_ptrs": [
+      1429
     ],
     "speaker": "ケイト",
     "speaker_trans": "",
@@ -98,6 +127,7 @@
   {
     "scene": 6,
     "speaker_pos": 186,
+    "speaker_ptr": 1309,
     "msg_positions": [
       191,
       194,
@@ -107,6 +137,16 @@
       207,
       211,
       214
+    ],
+    "msg_ptrs": [
+      1439,
+      1457,
+      1479,
+      1509,
+      1533,
+      1561,
+      1583,
+      1609
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -134,8 +174,12 @@
   {
     "scene": 7,
     "speaker_pos": 218,
+    "speaker_ptr": 1267,
     "msg_positions": [
       223
+    ],
+    "msg_ptrs": [
+      1403
     ],
     "speaker": "ケイト",
     "speaker_trans": "",
@@ -144,14 +188,22 @@
     ],
     "trans": [
       ""
+    ],
+    "line_notes": [
+      "중복 호출"
     ]
   },
   {
     "scene": 8,
     "speaker_pos": 234,
+    "speaker_ptr": 1309,
     "msg_positions": [
       239,
       242
+    ],
+    "msg_ptrs": [
+      1631,
+      1653
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -167,8 +219,12 @@
   {
     "scene": 9,
     "speaker_pos": 246,
+    "speaker_ptr": 1253,
     "msg_positions": [
       251
+    ],
+    "msg_ptrs": [
+      1689
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -182,8 +238,12 @@
   {
     "scene": 10,
     "speaker_pos": 260,
+    "speaker_ptr": 1309,
     "msg_positions": [
       265
+    ],
+    "msg_ptrs": [
+      1701
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -197,8 +257,12 @@
   {
     "scene": 11,
     "speaker_pos": 271,
+    "speaker_ptr": 1253,
     "msg_positions": [
       276
+    ],
+    "msg_ptrs": [
+      1713
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -212,21 +276,19 @@
   {
     "scene": 12,
     "speaker_pos": 297,
+    "speaker_ptr": 1309,
     "msg_positions": [
-      302,
-      333,
-      538
+      302
+    ],
+    "msg_ptrs": [
+      1723
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
     "lines": [
-      "私も行くわ──",
-      "２番の子供はトリアージ赤。",
-      "フィラキシーショックを"
+      "私も行くわ──"
     ],
     "trans": [
-      "",
-      "",
       ""
     ]
   }

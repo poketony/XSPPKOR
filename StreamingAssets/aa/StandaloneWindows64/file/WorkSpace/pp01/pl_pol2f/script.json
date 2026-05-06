@@ -2,34 +2,62 @@
   {
     "scene": 0,
     "speaker_pos": -1,
+    "speaker_ptr": -1,
     "msg_positions": [
       205,
-      208,
-      214,
-      217
+      208
+    ],
+    "msg_ptrs": [
+      533,
+      571
     ],
     "speaker": "",
     "speaker_trans": "",
     "lines": [
       "『許可なく屋上への立ち入りを禁ずる』",
-      "と書かれた立て札がある。",
-      "キーロックがかかっている。",
-      "中には入れないようだ。"
+      "と書かれた立て札がある。"
     ],
     "trans": [
-      "",
-      "",
       "",
       ""
     ]
   },
   {
     "scene": 1,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      214,
+      217
+    ],
+    "msg_ptrs": [
+      597,
+      625
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "キーロックがかかっている。",
+      "中には入れないようだ。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 2,
     "speaker_pos": 236,
+    "speaker_ptr": 649,
     "msg_positions": [
       239,
       242,
       245
+    ],
+    "msg_ptrs": [
+      657,
+      693,
+      719
     ],
     "speaker": "クリス",
     "speaker_trans": "",
@@ -45,11 +73,16 @@
     ]
   },
   {
-    "scene": 2,
+    "scene": 3,
     "speaker_pos": 252,
+    "speaker_ptr": 649,
     "msg_positions": [
       255,
       258
+    ],
+    "msg_ptrs": [
+      747,
+      783
     ],
     "speaker": "クリス",
     "speaker_trans": "",
@@ -63,12 +96,18 @@
     ]
   },
   {
-    "scene": 3,
+    "scene": 4,
     "speaker_pos": 282,
+    "speaker_ptr": 809,
     "msg_positions": [
       285,
       288,
       291
+    ],
+    "msg_ptrs": [
+      821,
+      845,
+      879
     ],
     "speaker": "ビクトリア",
     "speaker_trans": "",
@@ -84,11 +123,16 @@
     ]
   },
   {
-    "scene": 4,
+    "scene": 5,
     "speaker_pos": 298,
+    "speaker_ptr": 809,
     "msg_positions": [
       301,
       304
+    ],
+    "msg_ptrs": [
+      917,
+      945
     ],
     "speaker": "ビクトリア",
     "speaker_trans": "",
@@ -102,12 +146,18 @@
     ]
   },
   {
-    "scene": 5,
+    "scene": 6,
     "speaker_pos": 328,
+    "speaker_ptr": 965,
     "msg_positions": [
       331,
       334,
       337
+    ],
+    "msg_ptrs": [
+      975,
+      997,
+      1033
     ],
     "speaker": "ハースト",
     "speaker_trans": "",
@@ -123,12 +173,18 @@
     ]
   },
   {
-    "scene": 6,
+    "scene": 7,
     "speaker_pos": 344,
+    "speaker_ptr": 965,
     "msg_positions": [
       347,
       350,
       353
+    ],
+    "msg_ptrs": [
+      1063,
+      1099,
+      1113
     ],
     "speaker": "ハースト",
     "speaker_trans": "",

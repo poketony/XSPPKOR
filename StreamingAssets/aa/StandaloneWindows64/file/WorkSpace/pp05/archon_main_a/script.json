@@ -2,9 +2,14 @@
   {
     "scene": 0,
     "speaker_pos": -1,
+    "speaker_ptr": -1,
     "msg_positions": [
       43,
       46
+    ],
+    "msg_ptrs": [
+      989,
+      1016
     ],
     "speaker": "",
     "speaker_trans": "",
@@ -20,9 +25,14 @@
   {
     "scene": 1,
     "speaker_pos": 93,
+    "speaker_ptr": 1046,
     "msg_positions": [
       98,
       101
+    ],
+    "msg_ptrs": [
+      1054,
+      1064
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -38,10 +48,16 @@
   {
     "scene": 2,
     "speaker_pos": 105,
+    "speaker_ptr": 1098,
     "msg_positions": [
       110,
       113,
       116
+    ],
+    "msg_ptrs": [
+      1106,
+      1114,
+      1148
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -59,30 +75,33 @@
   {
     "scene": 3,
     "speaker_pos": 120,
+    "speaker_ptr": 1178,
     "msg_positions": [
-      125,
-      258,
-      269
+      125
+    ],
+    "msg_ptrs": [
+      1186
     ],
     "speaker": "メリス",
     "speaker_trans": "",
     "lines": [
-      "はい！",
-      "か！？",
-      "か！？"
+      "はい！"
     ],
     "trans": [
-      "",
-      "",
       ""
     ]
   },
   {
     "scene": 4,
     "speaker_pos": 664,
+    "speaker_ptr": 1194,
     "msg_positions": [
       667,
       670
+    ],
+    "msg_ptrs": [
+      1208,
+      1238
     ],
     "speaker": "連邦特殊警官",
     "speaker_trans": "",
@@ -98,9 +117,14 @@
   {
     "scene": 5,
     "speaker_pos": 690,
+    "speaker_ptr": 1194,
     "msg_positions": [
       693,
       696
+    ],
+    "msg_ptrs": [
+      1256,
+      1270
     ],
     "speaker": "連邦特殊警官",
     "speaker_trans": "",
@@ -116,9 +140,14 @@
   {
     "scene": 6,
     "speaker_pos": 716,
+    "speaker_ptr": 1194,
     "msg_positions": [
       719,
       722
+    ],
+    "msg_ptrs": [
+      1288,
+      1314
     ],
     "speaker": "連邦特殊警官",
     "speaker_trans": "",
@@ -134,11 +163,18 @@
   {
     "scene": 7,
     "speaker_pos": 742,
+    "speaker_ptr": 1344,
     "msg_positions": [
       745,
       748,
       751,
       754
+    ],
+    "msg_ptrs": [
+      1352,
+      1360,
+      1382,
+      1410
     ],
     "speaker": "リック",
     "speaker_trans": "",
@@ -158,10 +194,16 @@
   {
     "scene": 8,
     "speaker_pos": 774,
+    "speaker_ptr": 1194,
     "msg_positions": [
       777,
       780,
       783
+    ],
+    "msg_ptrs": [
+      1438,
+      1444,
+      1454
     ],
     "speaker": "連邦特殊警官",
     "speaker_trans": "",
@@ -179,10 +221,16 @@
   {
     "scene": 9,
     "speaker_pos": 803,
+    "speaker_ptr": 1194,
     "msg_positions": [
       806,
       809,
       812
+    ],
+    "msg_ptrs": [
+      1486,
+      1518,
+      1530
     ],
     "speaker": "連邦特殊警官",
     "speaker_trans": "",
@@ -200,30 +248,107 @@
   {
     "scene": 10,
     "speaker_pos": 832,
+    "speaker_ptr": 1194,
     "msg_positions": [
       835,
-      838,
-      872,
-      875,
-      886,
-      907,
-      910,
-      921,
-      942,
-      945,
-      956
+      838
+    ],
+    "msg_ptrs": [
+      1544,
+      1558
     ],
     "speaker": "連邦特殊警官",
     "speaker_trans": "",
     "lines": [
       "くだらんな。",
-      "お前達に何が出来るというのだ！",
+      "お前達に何が出来るというのだ！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      872,
+      875,
+      886
+    ],
+    "msg_ptrs": [
+      1590,
+      1606,
+      1620
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "バトルスーツを",
       "手に入れた！",
-      "何も入っていないようだ。",
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      907,
+      910,
+      921
+    ],
+    "msg_ptrs": [
+      1646,
+      1606,
+      1620
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ローズジストＤＸを",
       "手に入れた！",
-      "何も入っていないようだ。",
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      942,
+      945,
+      956
+    ],
+    "msg_ptrs": [
+      1666,
+      1606,
+      1620
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "アクアローズを",
       "手に入れた！",
       "何も入っていないようだ。"
@@ -231,22 +356,23 @@
     "trans": [
       "",
       "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출",
+      "중복 호출"
     ]
   },
   {
-    "scene": 11,
+    "scene": 14,
     "speaker_pos": 977,
+    "speaker_ptr": 1098,
     "msg_positions": [
       982
+    ],
+    "msg_ptrs": [
+      1682
     ],
     "speaker": "ジャン",
     "speaker_trans": "",

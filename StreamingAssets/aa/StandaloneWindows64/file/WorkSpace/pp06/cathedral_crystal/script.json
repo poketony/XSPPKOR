@@ -2,23 +2,35 @@
   {
     "scene": 0,
     "speaker_pos": 92,
+    "speaker_ptr": 805,
     "msg_positions": [
+      97,
       100
+    ],
+    "msg_ptrs": [
+      813,
+      837
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
     "lines": [
+      "収まった──ようだな。",
       "しかし──"
     ],
     "trans": [
+      "",
       ""
     ]
   },
   {
     "scene": 1,
     "speaker_pos": 120,
+    "speaker_ptr": 849,
     "msg_positions": [
       125
+    ],
+    "msg_ptrs": [
+      857
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -32,19 +44,29 @@
   {
     "scene": 2,
     "speaker_pos": 129,
+    "speaker_ptr": 805,
     "msg_positions": [
+      134,
       137,
       140,
       143
     ],
+    "msg_ptrs": [
+      879,
+      893,
+      919,
+      935
+    ],
     "speaker": "ジャン",
     "speaker_trans": "",
     "lines": [
+      "あ、ああ──",
       "いや、今はヴォイジャーを",
       "挙げることこそ",
       "我々のせねばならん事だ──"
     ],
     "trans": [
+      "",
       "",
       "",
       ""
@@ -53,8 +75,12 @@
   {
     "scene": 3,
     "speaker_pos": 147,
+    "speaker_ptr": 849,
     "msg_positions": [
       152
+    ],
+    "msg_ptrs": [
+      963
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -67,7 +93,27 @@
   },
   {
     "scene": 4,
+    "speaker_pos": 156,
+    "speaker_ptr": 805,
+    "msg_positions": [
+      161
+    ],
+    "msg_ptrs": [
+      989
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "！？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 5,
     "speaker_pos": 165,
+    "speaker_ptr": 849,
     "msg_positions": [
       170,
       173,
@@ -80,6 +126,19 @@
       196,
       200,
       203
+    ],
+    "msg_ptrs": [
+      995,
+      1009,
+      1035,
+      1049,
+      1065,
+      1099,
+      1113,
+      1141,
+      1165,
+      1189,
+      1217
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -111,11 +170,58 @@
     ]
   },
   {
-    "scene": 5,
+    "scene": 6,
+    "speaker_pos": 207,
+    "speaker_ptr": 805,
+    "msg_positions": [
+      212
+    ],
+    "msg_ptrs": [
+      1239
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "メリス──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 219,
+    "speaker_ptr": 805,
+    "msg_positions": [
+      224,
+      227
+    ],
+    "msg_ptrs": [
+      1251,
+      1265
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ありがとう。",
+      "俺は良い部下を持った──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 8,
     "speaker_pos": 707,
+    "speaker_ptr": 1291,
     "msg_positions": [
       712,
       715
+    ],
+    "msg_ptrs": [
+      1299,
+      1307
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -129,19 +235,28 @@
     ]
   },
   {
-    "scene": 6,
+    "scene": 9,
     "speaker_pos": 719,
+    "speaker_ptr": 805,
     "msg_positions": [
+      724,
       727,
       730
+    ],
+    "msg_ptrs": [
+      1339,
+      1347,
+      1371
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
     "lines": [
+      "くっ！",
       "シャロン、ホアキン――",
       "どこにいるんだ――"
     ],
     "trans": [
+      "",
       "",
       ""
     ]

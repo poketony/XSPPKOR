@@ -1,24 +1,13 @@
 [
   {
     "scene": 0,
-    "speaker_pos": -1,
-    "msg_positions": [
-      447
-    ],
-    "speaker": "",
-    "speaker_trans": "",
-    "lines": [
-      ":!"
-    ],
-    "trans": [
-      ""
-    ]
-  },
-  {
-    "scene": 1,
     "speaker_pos": 509,
+    "speaker_ptr": 1307,
     "msg_positions": [
       514
+    ],
+    "msg_ptrs": [
+      1315
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -30,11 +19,16 @@
     ]
   },
   {
-    "scene": 2,
+    "scene": 1,
     "speaker_pos": 523,
+    "speaker_ptr": 1307,
     "msg_positions": [
       528,
       531
+    ],
+    "msg_ptrs": [
+      1343,
+      1371
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -48,10 +42,14 @@
     ]
   },
   {
-    "scene": 3,
+    "scene": 2,
     "speaker_pos": 540,
+    "speaker_ptr": 1401,
     "msg_positions": [
       545
+    ],
+    "msg_ptrs": [
+      1409
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -63,10 +61,14 @@
     ]
   },
   {
-    "scene": 4,
+    "scene": 3,
     "speaker_pos": 549,
+    "speaker_ptr": 1307,
     "msg_positions": [
       554
+    ],
+    "msg_ptrs": [
+      1423
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -78,11 +80,16 @@
     ]
   },
   {
-    "scene": 5,
+    "scene": 4,
     "speaker_pos": 574,
+    "speaker_ptr": 1307,
     "msg_positions": [
       579,
       582
+    ],
+    "msg_ptrs": [
+      1429,
+      1455
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -96,58 +103,41 @@
     ]
   },
   {
-    "scene": 6,
+    "scene": 5,
     "speaker_pos": 586,
+    "speaker_ptr": 1401,
     "msg_positions": [
       591,
       594,
-      597,
-      610,
-      626,
-      634,
-      642,
-      663,
-      676,
-      689,
-      702,
-      710
+      597
+    ],
+    "msg_ptrs": [
+      1465,
+      1497,
+      1523
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
     "lines": [
       "お前の目の前の床はトラップだ。",
       "迂闊にその床の上を通れば",
-      "ダメージを受ける事になるぞ！",
-      "リス",
-      "リス",
-      "リス",
-      "リス",
-      "リス",
-      "リス",
-      "リス",
-      "リス",
-      "リス"
+      "ダメージを受ける事になるぞ！"
     ],
     "trans": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       "",
       "",
       ""
     ]
   },
   {
-    "scene": 7,
+    "scene": 6,
     "speaker_pos": 719,
+    "speaker_ptr": 1307,
     "msg_positions": [
       724
+    ],
+    "msg_ptrs": [
+      1553
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -159,8 +149,9 @@
     ]
   },
   {
-    "scene": 8,
+    "scene": 7,
     "speaker_pos": 728,
+    "speaker_ptr": 1401,
     "msg_positions": [
       733,
       736,
@@ -170,6 +161,16 @@
       749,
       752,
       755
+    ],
+    "msg_ptrs": [
+      1559,
+      1573,
+      1603,
+      1633,
+      1655,
+      1683,
+      1707,
+      1737
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -195,11 +196,16 @@
     ]
   },
   {
-    "scene": 9,
+    "scene": 8,
     "speaker_pos": 775,
+    "speaker_ptr": 1753,
     "msg_positions": [
       780,
       783
+    ],
+    "msg_ptrs": [
+      1761,
+      1783
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -213,12 +219,18 @@
     ]
   },
   {
-    "scene": 10,
+    "scene": 9,
     "speaker_pos": 792,
+    "speaker_ptr": 1307,
     "msg_positions": [
       797,
       800,
       803
+    ],
+    "msg_ptrs": [
+      1815,
+      1839,
+      1869
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -234,10 +246,14 @@
     ]
   },
   {
-    "scene": 11,
+    "scene": 10,
     "speaker_pos": 807,
+    "speaker_ptr": 1753,
     "msg_positions": [
       812
+    ],
+    "msg_ptrs": [
+      1899
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -249,10 +265,14 @@
     ]
   },
   {
-    "scene": 12,
+    "scene": 11,
     "speaker_pos": 818,
+    "speaker_ptr": 1401,
     "msg_positions": [
       823
+    ],
+    "msg_ptrs": [
+      1921
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -264,42 +284,118 @@
     ]
   },
   {
-    "scene": 13,
+    "scene": 12,
     "speaker_pos": 827,
+    "speaker_ptr": 1307,
     "msg_positions": [
-      832,
-      1147,
-      1150,
-      1176,
-      1182,
-      1185,
-      1211,
-      1217,
-      1220
+      832
+    ],
+    "msg_ptrs": [
+      1951
     ],
     "speaker": "メリス",
     "speaker_trans": "",
     "lines": [
-      "はい！",
+      "はい！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      1147,
+      1150,
+      1161
+    ],
+    "msg_ptrs": [
+      1959,
+      1975,
+      1989
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ゼータジストを",
       "手に入れた！",
-      "桙ﾉしか",
-      "エクストラジストを",
-      "手に入れた！",
-      "桙ﾉしか",
-      "スペーステントを",
-      "手に入れた！"
+      "何も入っていないようだ。"
     ],
     "trans": [
       "",
       "",
+      ""
+    ],
+    "line_notes": [
       "",
-      "",
-      "",
-      "",
+      "중복 호출",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 14,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      1182,
+      1185,
+      1196
+    ],
+    "msg_ptrs": [
+      2015,
+      1975,
+      1989
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "エクストラジストを",
+      "手に入れた！",
+      "何も入っていないようだ。"
+    ],
+    "trans": [
       "",
       "",
       ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 15,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      1217,
+      1220,
+      1231
+    ],
+    "msg_ptrs": [
+      2035,
+      1975,
+      1989
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "スペーステントを",
+      "手に入れた！",
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출",
+      "중복 호출"
     ]
   }
 ]

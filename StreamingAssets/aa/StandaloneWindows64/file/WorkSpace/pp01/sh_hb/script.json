@@ -2,49 +2,197 @@
   {
     "scene": 0,
     "speaker_pos": -1,
+    "speaker_ptr": -1,
     "msg_positions": [
       199,
-      202,
-      212,
-      236,
-      239,
-      249,
-      273,
-      276,
-      286,
-      310,
-      313,
-      323
+      202
+    ],
+    "msg_ptrs": [
+      328,
+      344
     ],
     "speaker": "",
     "speaker_trans": "",
     "lines": [
       "ローズジストを",
-      "手に入れた！",
-      "何も入っていないようだ。",
-      "防護服を",
-      "手に入れた！",
-      "何も入っていないようだ。",
-      "ケルバージストを",
-      "手に入れた！",
-      "何も入っていないようだ。",
-      "アクアジストSを",
-      "手に入れた！",
-      "何も入っていないようだ。"
+      "手に入れた！"
     ],
     "trans": [
       "",
+      ""
+    ],
+    "line_notes": [
       "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      212
+    ],
+    "msg_ptrs": [
+      358
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      ""
+    ],
+    "line_notes": [
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      236,
+      239
+    ],
+    "msg_ptrs": [
+      384,
+      344
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "防護服を",
+      "手に入れた！"
+    ],
+    "trans": [
       "",
       ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      249
+    ],
+    "msg_ptrs": [
+      358
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      ""
+    ],
+    "line_notes": [
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      273,
+      276
+    ],
+    "msg_ptrs": [
+      394,
+      344
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "ケルバージストを",
+      "手に入れた！"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      286
+    ],
+    "msg_ptrs": [
+      358
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      ""
+    ],
+    "line_notes": [
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      310,
+      313
+    ],
+    "msg_ptrs": [
+      412,
+      344
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "アクアジストSを",
+      "手に入れた！"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      323
+    ],
+    "msg_ptrs": [
+      358
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      ""
+    ],
+    "line_notes": [
+      "중복 호출"
     ]
   }
 ]

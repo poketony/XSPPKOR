@@ -2,11 +2,18 @@
   {
     "scene": 0,
     "speaker_pos": 78,
+    "speaker_ptr": 192,
     "msg_positions": [
       83,
       86,
       89,
       92
+    ],
+    "msg_ptrs": [
+      204,
+      218,
+      252,
+      288
     ],
     "speaker": "マッカラム",
     "speaker_trans": "",
@@ -26,11 +33,18 @@
   {
     "scene": 1,
     "speaker_pos": 96,
+    "speaker_ptr": 312,
     "msg_positions": [
       101,
       104,
       107,
       110
+    ],
+    "msg_ptrs": [
+      320,
+      350,
+      362,
+      388
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -50,11 +64,18 @@
   {
     "scene": 2,
     "speaker_pos": 114,
+    "speaker_ptr": 192,
     "msg_positions": [
       119,
       122,
       125,
       128
+    ],
+    "msg_ptrs": [
+      424,
+      440,
+      458,
+      478
     ],
     "speaker": "マッカラム",
     "speaker_trans": "",
@@ -74,6 +95,7 @@
   {
     "scene": 3,
     "speaker_pos": 135,
+    "speaker_ptr": 192,
     "msg_positions": [
       140,
       143,
@@ -83,6 +105,16 @@
       156,
       159,
       162
+    ],
+    "msg_ptrs": [
+      512,
+      528,
+      552,
+      582,
+      598,
+      610,
+      628,
+      652
     ],
     "speaker": "マッカラム",
     "speaker_trans": "",

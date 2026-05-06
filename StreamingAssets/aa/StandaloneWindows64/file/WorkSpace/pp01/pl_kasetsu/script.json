@@ -2,9 +2,14 @@
   {
     "scene": 0,
     "speaker_pos": 72,
+    "speaker_ptr": 142,
     "msg_positions": [
       75,
       78
+    ],
+    "msg_ptrs": [
+      154,
+      184
     ],
     "speaker": "スティーブ",
     "speaker_trans": "",
@@ -20,10 +25,16 @@
   {
     "scene": 1,
     "speaker_pos": 85,
+    "speaker_ptr": 142,
     "msg_positions": [
       88,
       91,
       94
+    ],
+    "msg_ptrs": [
+      220,
+      242,
+      268
     ],
     "speaker": "スティーブ",
     "speaker_trans": "",

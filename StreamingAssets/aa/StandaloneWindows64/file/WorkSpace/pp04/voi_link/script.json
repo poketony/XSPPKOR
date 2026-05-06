@@ -2,48 +2,220 @@
   {
     "scene": 0,
     "speaker_pos": -1,
+    "speaker_ptr": -1,
     "msg_positions": [
       30,
-      35,
-      41,
-      46,
-      52,
-      57,
-      63,
-      68,
-      73,
-      78,
-      94,
-      99,
-      123,
-      128,
-      133,
-      139,
-      144,
-      163,
-      168,
-      173
+      35
+    ],
+    "msg_ptrs": [
+      226,
+      234
     ],
     "speaker": "",
     "speaker_trans": "",
     "lines": [
       "ジャン",
-      "──お前は一体？",
+      "──お前は一体？"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      41,
+      46
+    ],
+    "msg_ptrs": [
+      252,
+      266
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ヴォイジャー",
-      "汝もまた、安らぎを欲する者──",
+      "汝もまた、安らぎを欲する者──"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      52,
+      57
+    ],
+    "msg_ptrs": [
+      226,
+      298
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ジャン",
-      "貴様が──ヴォイジャーか！？",
+      "貴様が──ヴォイジャーか！？"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      63,
+      68,
+      73,
+      78
+    ],
+    "msg_ptrs": [
+      252,
+      328,
+      346,
+      362
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ヴォイジャー",
       "汝が欲するのなら",
       "我も汝に与えん",
-      "とこしえの安らぎを──",
+      "とこしえの安らぎを──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      94,
+      99
+    ],
+    "msg_ptrs": [
+      226,
+      386
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ジャン",
-      "待て！貴様に聞きたいことが──",
+      "待て！貴様に聞きたいことが──"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      123,
+      128,
+      133
+    ],
+    "msg_ptrs": [
+      226,
+      418,
+      432
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ジャン",
       "エーリッヒ？",
-      "何故お前がここに？",
+      "何故お前がここに？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      139,
+      144
+    ],
+    "msg_ptrs": [
+      452,
+      464
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "エーリッヒ",
-      "──",
+      "──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      163,
+      168,
+      173
+    ],
+    "msg_ptrs": [
+      226,
+      470,
+      480
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ジャン",
       "おいっ！",
       "エーリッヒ、どこに行く！？"
@@ -51,22 +223,10 @@
     "trans": [
       "",
       "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
       "",
       ""
     ]

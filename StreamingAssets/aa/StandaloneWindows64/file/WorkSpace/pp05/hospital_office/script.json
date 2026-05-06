@@ -2,8 +2,12 @@
   {
     "scene": 0,
     "speaker_pos": -1,
+    "speaker_ptr": -1,
     "msg_positions": [
       26
+    ],
+    "msg_ptrs": [
+      1264
     ],
     "speaker": "",
     "speaker_trans": "",
@@ -17,8 +21,12 @@
   {
     "scene": 1,
     "speaker_pos": 35,
+    "speaker_ptr": 1295,
     "msg_positions": [
       38
+    ],
+    "msg_ptrs": [
+      1303
     ],
     "speaker": "エディ",
     "speaker_trans": "",
@@ -32,8 +40,12 @@
   {
     "scene": 2,
     "speaker_pos": 42,
+    "speaker_ptr": 1329,
     "msg_positions": [
       47
+    ],
+    "msg_ptrs": [
+      1339
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -47,9 +59,14 @@
   {
     "scene": 3,
     "speaker_pos": 54,
+    "speaker_ptr": 1295,
     "msg_positions": [
       57,
       60
+    ],
+    "msg_ptrs": [
+      1375,
+      1385
     ],
     "speaker": "エディ",
     "speaker_trans": "",
@@ -65,8 +82,12 @@
   {
     "scene": 4,
     "speaker_pos": 66,
+    "speaker_ptr": 1329,
     "msg_positions": [
       71
+    ],
+    "msg_ptrs": [
+      1415
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -80,8 +101,12 @@
   {
     "scene": 5,
     "speaker_pos": 78,
+    "speaker_ptr": 1295,
     "msg_positions": [
       81
+    ],
+    "msg_ptrs": [
+      1437
     ],
     "speaker": "エディ",
     "speaker_trans": "",
@@ -95,8 +120,27 @@
   {
     "scene": 6,
     "speaker_pos": 101,
+    "speaker_ptr": 1329,
     "msg_positions": [
-      106,
+      106
+    ],
+    "msg_ptrs": [
+      1457
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "さて──と"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
       134,
       137,
       141,
@@ -122,23 +166,39 @@
       207,
       210,
       214,
-      217,
-      229,
-      232,
-      235,
-      238,
-      242,
-      245,
-      248,
-      252,
-      255,
-      258,
-      265
+      217
     ],
-    "speaker": "シャロン",
+    "msg_ptrs": [
+      1469,
+      1485,
+      1519,
+      1541,
+      1565,
+      1595,
+      1631,
+      1667,
+      1693,
+      1723,
+      1751,
+      1781,
+      1813,
+      1849,
+      1879,
+      1897,
+      1925,
+      1941,
+      1973,
+      2005,
+      2033,
+      2059,
+      2091,
+      2121,
+      2157,
+      2171
+    ],
+    "speaker": "",
     "speaker_trans": "",
     "lines": [
-      "さて──と",
       "『メリスさんに",
       "　伝えて欲しいことがあるの──』",
       "『先日依頼されていた",
@@ -164,32 +224,9 @@
       "　ヴォイジャーである可能性は",
       "　きわめて高いんじゃないかしら？』",
       "『それじゃあ",
-      "　メリスさんによろしく伝えてね。』",
-      "『ジャン──私はこの後",
-      "　巡礼会議に参加するわ。",
-      "　何かあったら",
-      "　連絡はそこにお願い。』",
-      "『あなたは参加に反対するかも",
-      "　知れないけど、ゾハルとは何なのか",
-      "　この目で確かめてくる。』",
-      "『貴方達の捜査に",
-      "　役立つかもしれない。",
-      "　頑張って──隊長さん。』",
-      "{クこれで帰りますんで──"
+      "　メリスさんによろしく伝えてね。』"
     ],
     "trans": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       "",
       "",
       "",
@@ -219,10 +256,69 @@
     ]
   },
   {
-    "scene": 7,
+    "scene": 8,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      229,
+      232,
+      235,
+      238,
+      242,
+      245,
+      248,
+      252,
+      255,
+      258
+    ],
+    "msg_ptrs": [
+      2207,
+      2231,
+      2257,
+      2273,
+      2299,
+      2329,
+      2365,
+      2393,
+      2411,
+      2435
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "『ジャン──私はこの後",
+      "　巡礼会議に参加するわ。",
+      "　何かあったら",
+      "　連絡はそこにお願い。』",
+      "『あなたは参加に反対するかも",
+      "　知れないけど、ゾハルとは何なのか",
+      "　この目で確かめてくる。』",
+      "『貴方達の捜査に",
+      "　役立つかもしれない。",
+      "　頑張って──隊長さん。』"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 9,
     "speaker_pos": 281,
+    "speaker_ptr": 1329,
     "msg_positions": [
       286
+    ],
+    "msg_ptrs": [
+      2463
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -234,13 +330,20 @@
     ]
   },
   {
-    "scene": 8,
+    "scene": 10,
     "speaker_pos": 306,
+    "speaker_ptr": 2483,
     "msg_positions": [
       309,
       312,
       315,
       318
+    ],
+    "msg_ptrs": [
+      2491,
+      2513,
+      2533,
+      2553
     ],
     "speaker": "ビーン",
     "speaker_trans": "",
@@ -258,10 +361,14 @@
     ]
   },
   {
-    "scene": 9,
+    "scene": 11,
     "speaker_pos": 325,
+    "speaker_ptr": 2483,
     "msg_positions": [
       328
+    ],
+    "msg_ptrs": [
+      2569
     ],
     "speaker": "ビーン",
     "speaker_trans": "",
@@ -273,11 +380,16 @@
     ]
   },
   {
-    "scene": 10,
+    "scene": 12,
     "speaker_pos": 334,
+    "speaker_ptr": 1329,
     "msg_positions": [
       339,
       342
+    ],
+    "msg_ptrs": [
+      2605,
+      2619
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -291,14 +403,22 @@
     ]
   },
   {
-    "scene": 11,
+    "scene": 13,
     "speaker_pos": 346,
+    "speaker_ptr": 2483,
     "msg_positions": [
       351,
       354,
       358,
       361,
       364
+    ],
+    "msg_ptrs": [
+      2647,
+      2657,
+      2687,
+      2705,
+      2727
     ],
     "speaker": "ビーン",
     "speaker_trans": "",
@@ -318,10 +438,14 @@
     ]
   },
   {
-    "scene": 12,
+    "scene": 14,
     "speaker_pos": 368,
+    "speaker_ptr": 1329,
     "msg_positions": [
       373
+    ],
+    "msg_ptrs": [
+      2751
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -333,10 +457,14 @@
     ]
   },
   {
-    "scene": 13,
+    "scene": 15,
     "speaker_pos": 377,
+    "speaker_ptr": 2483,
     "msg_positions": [
       382
+    ],
+    "msg_ptrs": [
+      2769
     ],
     "speaker": "ビーン",
     "speaker_trans": "",
@@ -348,10 +476,14 @@
     ]
   },
   {
-    "scene": 14,
+    "scene": 16,
     "speaker_pos": 386,
+    "speaker_ptr": 1329,
     "msg_positions": [
       391
+    ],
+    "msg_ptrs": [
+      2785
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -363,8 +495,9 @@
     ]
   },
   {
-    "scene": 15,
+    "scene": 17,
     "speaker_pos": 395,
+    "speaker_ptr": 2483,
     "msg_positions": [
       400,
       403,
@@ -373,6 +506,15 @@
       413,
       416,
       419
+    ],
+    "msg_ptrs": [
+      2795,
+      2803,
+      2817,
+      2845,
+      2867,
+      2893,
+      2921
     ],
     "speaker": "ビーン",
     "speaker_trans": "",
@@ -396,12 +538,18 @@
     ]
   },
   {
-    "scene": 16,
+    "scene": 18,
     "speaker_pos": 423,
+    "speaker_ptr": 1329,
     "msg_positions": [
       428,
       431,
       434
+    ],
+    "msg_ptrs": [
+      2955,
+      2981,
+      2997
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -417,10 +565,14 @@
     ]
   },
   {
-    "scene": 17,
+    "scene": 19,
     "speaker_pos": 438,
+    "speaker_ptr": 2483,
     "msg_positions": [
       443
+    ],
+    "msg_ptrs": [
+      3027
     ],
     "speaker": "ビーン",
     "speaker_trans": "",
@@ -432,30 +584,56 @@
     ]
   },
   {
-    "scene": 18,
+    "scene": 20,
     "speaker_pos": 447,
+    "speaker_ptr": 1329,
     "msg_positions": [
-      452,
-      477
+      452
+    ],
+    "msg_ptrs": [
+      3053
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
     "lines": [
-      "──ええ、お疲れ様。",
-      "メールを送信いたします。"
+      "──ええ、お疲れ様。"
     ],
     "trans": [
-      "",
       ""
     ]
   },
   {
-    "scene": 19,
+    "scene": 21,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      477
+    ],
+    "msg_ptrs": [
+      3075
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "メールを送信いたします。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 22,
     "speaker_pos": 498,
+    "speaker_ptr": 1329,
     "msg_positions": [
       503,
       506,
       509
+    ],
+    "msg_ptrs": [
+      3101,
+      3113,
+      3123
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -471,41 +649,21 @@
     ]
   },
   {
-    "scene": 20,
+    "scene": 23,
     "speaker_pos": 518,
+    "speaker_ptr": 1329,
     "msg_positions": [
-      523,
-      823,
-      1109,
-      1128,
-      1142,
-      1156,
-      1177,
-      1189,
-      1199
+      523
+    ],
+    "msg_ptrs": [
+      3153
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
     "lines": [
-      "こんな、まさか──",
-      "ﾈいですか？",
-      "病院　事務室",
-      "ャーである可能性は",
-      "よいよ怪物とのご対面ね──",
-      "けど",
-      "─",
-      "たは参加に反対するかも",
-      "たは参加に反対するかも"
+      "こんな、まさか──"
     ],
     "trans": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       ""
     ]
   }

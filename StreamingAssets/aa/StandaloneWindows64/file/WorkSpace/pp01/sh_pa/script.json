@@ -2,8 +2,12 @@
   {
     "scene": 0,
     "speaker_pos": 76,
+    "speaker_ptr": 920,
     "msg_positions": [
       81
+    ],
+    "msg_ptrs": [
+      928
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -17,8 +21,12 @@
   {
     "scene": 1,
     "speaker_pos": 87,
+    "speaker_ptr": 946,
     "msg_positions": [
       92
+    ],
+    "msg_ptrs": [
+      954
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -32,10 +40,16 @@
   {
     "scene": 2,
     "speaker_pos": 98,
+    "speaker_ptr": 960,
     "msg_positions": [
       103,
       106,
       109
+    ],
+    "msg_ptrs": [
+      970,
+      1000,
+      1018
     ],
     "speaker": "パウエル",
     "speaker_trans": "",
@@ -53,8 +67,12 @@
   {
     "scene": 3,
     "speaker_pos": 115,
+    "speaker_ptr": 946,
     "msg_positions": [
       120
+    ],
+    "msg_ptrs": [
+      1040
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -67,18 +85,42 @@
   },
   {
     "scene": 4,
-    "speaker_pos": 147,
+    "speaker_pos": 154,
+    "speaker_ptr": 920,
     "msg_positions": [
-      159,
+      159
+    ],
+    "msg_ptrs": [
+      1058
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "！！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 165,
+    "speaker_ptr": 960,
+    "msg_positions": [
       170,
       173,
       176,
       179
     ],
-    "speaker": "れば──",
+    "msg_ptrs": [
+      1064,
+      1078,
+      1096,
+      1104
+    ],
+    "speaker": "パウエル",
     "speaker_trans": "",
     "lines": [
-      "！！",
       "や、やめろ。",
       "来るんじゃない！",
       "頼む。",
@@ -88,17 +130,20 @@
       "",
       "",
       "",
-      "",
       ""
     ]
   },
   {
-    "scene": 5,
-    "speaker_pos": 186,
+    "scene": 6,
+    "speaker_pos": 203,
+    "speaker_ptr": 1124,
     "msg_positions": [
       208
     ],
-    "speaker": "れば──",
+    "msg_ptrs": [
+      1134
+    ],
+    "speaker": "コーデル",
     "speaker_trans": "",
     "lines": [
       "よう──"
@@ -108,10 +153,14 @@
     ]
   },
   {
-    "scene": 6,
+    "scene": 7,
     "speaker_pos": 214,
+    "speaker_ptr": 920,
     "msg_positions": [
       219
+    ],
+    "msg_ptrs": [
+      1144
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -123,12 +172,18 @@
     ]
   },
   {
-    "scene": 7,
+    "scene": 8,
     "speaker_pos": 223,
+    "speaker_ptr": 1124,
     "msg_positions": [
       228,
       231,
       234
+    ],
+    "msg_ptrs": [
+      1152,
+      1164,
+      1200
     ],
     "speaker": "コーデル",
     "speaker_trans": "",
@@ -144,12 +199,18 @@
     ]
   },
   {
-    "scene": 8,
+    "scene": 9,
     "speaker_pos": 238,
+    "speaker_ptr": 920,
     "msg_positions": [
       243,
       246,
       249
+    ],
+    "msg_ptrs": [
+      1228,
+      1242,
+      1260
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -165,18 +226,22 @@
     ]
   },
   {
-    "scene": 9,
+    "scene": 10,
     "speaker_pos": 253,
+    "speaker_ptr": 1124,
     "msg_positions": [
       258,
       261,
       265,
       268,
-      271,
-      296,
-      317,
-      333,
-      336
+      271
+    ],
+    "msg_ptrs": [
+      1290,
+      1310,
+      1332,
+      1350,
+      1378
     ],
     "speaker": "コーデル",
     "speaker_trans": "",
@@ -185,17 +250,9 @@
       "あんたは止めたよな。",
       "だが危険を承知で",
       "先走ったのもあんただよな！",
-      "出世したくて功を急いだんだろ！？",
-      "れば──",
-      "行動は敵に筒抜けのようだ。",
-      "た、隊長！",
-      "──今のは一体？"
+      "出世したくて功を急いだんだろ！？"
     ],
     "trans": [
-      "",
-      "",
-      "",
-      "",
       "",
       "",
       "",
@@ -204,13 +261,43 @@
     ]
   },
   {
-    "scene": 10,
+    "scene": 11,
+    "speaker_pos": 328,
+    "speaker_ptr": 920,
+    "msg_positions": [
+      333,
+      336
+    ],
+    "msg_ptrs": [
+      1412,
+      1424
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "た、隊長！",
+      "──今のは一体？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 12,
     "speaker_pos": 340,
+    "speaker_ptr": 946,
     "msg_positions": [
       345,
       348,
       351,
       354
+    ],
+    "msg_ptrs": [
+      1442,
+      1474,
+      1500,
+      1526
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -228,8 +315,28 @@
     ]
   },
   {
-    "scene": 11,
+    "scene": 13,
+    "speaker_pos": 358,
+    "speaker_ptr": 920,
+    "msg_positions": [
+      363
+    ],
+    "msg_ptrs": [
+      1542
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "私、あの人を死なせてしまった──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 14,
     "speaker_pos": 367,
+    "speaker_ptr": 946,
     "msg_positions": [
       372,
       375,
@@ -238,6 +345,15 @@
       385,
       388,
       391
+    ],
+    "msg_ptrs": [
+      1576,
+      1586,
+      1610,
+      1628,
+      1662,
+      1688,
+      1712
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -261,10 +377,33 @@
     ]
   },
   {
-    "scene": 12,
+    "scene": 15,
+    "speaker_pos": 395,
+    "speaker_ptr": 920,
+    "msg_positions": [
+      400
+    ],
+    "msg_ptrs": [
+      1734
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "は、はい──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 16,
     "speaker_pos": 411,
+    "speaker_ptr": 1748,
     "msg_positions": [
       416
+    ],
+    "msg_ptrs": [
+      1760
     ],
     "speaker": "ラクティス",
     "speaker_trans": "",
@@ -276,30 +415,27 @@
     ]
   },
   {
-    "scene": 13,
+    "scene": 17,
     "speaker_pos": 422,
+    "speaker_ptr": 946,
     "msg_positions": [
       427,
       430,
-      433,
-      735,
-      791,
-      801
+      433
+    ],
+    "msg_ptrs": [
+      1770,
+      1786,
+      1820
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
     "lines": [
       "分かっている。",
       "我々の行動は敵に筒抜けのようだ。",
-      "急いだほうがよさそうだ。",
-      "んだ！",
-      "んだ！",
-      "んだ！"
+      "急いだほうがよさそうだ。"
     ],
     "trans": [
-      "",
-      "",
-      "",
       "",
       "",
       ""

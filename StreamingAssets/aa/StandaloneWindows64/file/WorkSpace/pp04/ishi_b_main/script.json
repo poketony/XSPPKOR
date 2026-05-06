@@ -1,24 +1,23 @@
 [
   {
     "scene": 0,
-    "speaker_pos": 15,
+    "speaker_pos": 1258,
+    "speaker_ptr": 4338,
     "msg_positions": [
-      131,
-      263,
-      839,
-      970
+      1263,
+      1266
     ],
-    "speaker": "ん行きしょう！",
+    "msg_ptrs": [
+      4346,
+      4358
+    ],
+    "speaker": "メリス",
     "speaker_trans": "",
     "lines": [
-      "しかないんじゃないか？",
-      "B、クラウスという男について",
-      "―",
-      "先を急ぐぞ。"
+      "――子供？",
+      "これもクラウスの記憶の一部なの？"
     ],
     "trans": [
-      "",
-      "",
       "",
       ""
     ]
@@ -26,8 +25,12 @@
   {
     "scene": 1,
     "speaker_pos": 1272,
+    "speaker_ptr": 4392,
     "msg_positions": [
       1277
+    ],
+    "msg_ptrs": [
+      4400
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -41,9 +44,14 @@
   {
     "scene": 2,
     "speaker_pos": 1283,
+    "speaker_ptr": 4414,
     "msg_positions": [
       1286,
       1289
+    ],
+    "msg_ptrs": [
+      4424,
+      4442
     ],
     "speaker": "エイミー",
     "speaker_trans": "",
@@ -59,9 +67,14 @@
   {
     "scene": 3,
     "speaker_pos": 1295,
+    "speaker_ptr": 4464,
     "msg_positions": [
       1300,
       1303
+    ],
+    "msg_ptrs": [
+      4476,
+      4500
     ],
     "speaker": "ラクティス",
     "speaker_trans": "",
@@ -77,10 +90,16 @@
   {
     "scene": 4,
     "speaker_pos": 1309,
+    "speaker_ptr": 4392,
     "msg_positions": [
       1314,
       1317,
       1320
+    ],
+    "msg_ptrs": [
+      4520,
+      4552,
+      4580
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -98,8 +117,12 @@
   {
     "scene": 5,
     "speaker_pos": 1326,
+    "speaker_ptr": 4600,
     "msg_positions": [
       1329
+    ],
+    "msg_ptrs": [
+      4610
     ],
     "speaker": "ジェイク",
     "speaker_trans": "",
@@ -108,13 +131,20 @@
     ],
     "trans": [
       ""
+    ],
+    "line_notes": [
+      "중복 호출"
     ]
   },
   {
     "scene": 6,
     "speaker_pos": 1335,
+    "speaker_ptr": 4630,
     "msg_positions": [
       1338
+    ],
+    "msg_ptrs": [
+      4640
     ],
     "speaker": "ニコラス",
     "speaker_trans": "",
@@ -123,16 +153,26 @@
     ],
     "trans": [
       ""
+    ],
+    "line_notes": [
+      "중복 호출"
     ]
   },
   {
     "scene": 7,
     "speaker_pos": 1342,
+    "speaker_ptr": 4392,
     "msg_positions": [
       1347,
       1350,
       1354,
       1357
+    ],
+    "msg_ptrs": [
+      4658,
+      4664,
+      4678,
+      4702
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -147,11 +187,18 @@
       "",
       "",
       ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      "",
+      "",
+      ""
     ]
   },
   {
     "scene": 8,
     "speaker_pos": 1417,
+    "speaker_ptr": 4414,
     "msg_positions": [
       1420,
       1423,
@@ -159,6 +206,14 @@
       1430,
       1433,
       1436
+    ],
+    "msg_ptrs": [
+      4720,
+      4728,
+      4746,
+      4766,
+      4772,
+      4802
     ],
     "speaker": "エイミー",
     "speaker_trans": "",
@@ -182,30 +237,42 @@
   {
     "scene": 9,
     "speaker_pos": 1502,
+    "speaker_ptr": 4414,
     "msg_positions": [
-      1505,
-      1524
+      1505
+    ],
+    "msg_ptrs": [
+      4820
     ],
     "speaker": "エイミー",
     "speaker_trans": "",
     "lines": [
-      "もういいよー。",
-      "、ご褒美にこれあげるね。"
+      "もういいよー。"
     ],
     "trans": [
-      "",
       ""
+    ],
+    "line_notes": [
+      "중복 호출"
     ]
   },
   {
     "scene": 10,
     "speaker_pos": 1594,
+    "speaker_ptr": 4414,
     "msg_positions": [
       1597,
       1600,
       1604,
       1608,
       1611
+    ],
+    "msg_ptrs": [
+      4836,
+      4846,
+      4864,
+      4896,
+      4912
     ],
     "speaker": "エイミー",
     "speaker_trans": "",
@@ -222,13 +289,24 @@
       "",
       "",
       ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      "중복 호출",
+      "",
+      "",
+      "중복 호출"
     ]
   },
   {
     "scene": 11,
     "speaker_pos": 1617,
+    "speaker_ptr": 4926,
     "msg_positions": [
       1622
+    ],
+    "msg_ptrs": [
+      4934
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -242,9 +320,14 @@
   {
     "scene": 12,
     "speaker_pos": 1690,
+    "speaker_ptr": 4630,
     "msg_positions": [
       1693,
       1696
+    ],
+    "msg_ptrs": [
+      4954,
+      4978
     ],
     "speaker": "ニコラス",
     "speaker_trans": "",
@@ -260,30 +343,42 @@
   {
     "scene": 13,
     "speaker_pos": 1779,
+    "speaker_ptr": 4630,
     "msg_positions": [
-      1782,
-      1801
+      1782
+    ],
+    "msg_ptrs": [
+      4820
     ],
     "speaker": "ニコラス",
     "speaker_trans": "",
     "lines": [
-      "もういいよー。",
-      "Nラウスという男について"
+      "もういいよー。"
     ],
     "trans": [
-      "",
       ""
+    ],
+    "line_notes": [
+      "중복 호출"
     ]
   },
   {
     "scene": 14,
     "speaker_pos": 1871,
+    "speaker_ptr": 4630,
     "msg_positions": [
       1874,
       1877,
       1881,
       1885,
       1888
+    ],
+    "msg_ptrs": [
+      4998,
+      5022,
+      5048,
+      5064,
+      4912
     ],
     "speaker": "ニコラス",
     "speaker_trans": "",
@@ -300,14 +395,26 @@
       "",
       "",
       ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      "중복 호출",
+      "",
+      "",
+      "중복 호출"
     ]
   },
   {
     "scene": 15,
     "speaker_pos": 1894,
+    "speaker_ptr": 4926,
     "msg_positions": [
       1899,
       1902
+    ],
+    "msg_ptrs": [
+      5084,
+      5104
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -323,9 +430,14 @@
   {
     "scene": 16,
     "speaker_pos": 1908,
+    "speaker_ptr": 4464,
     "msg_positions": [
       1913,
       1916
+    ],
+    "msg_ptrs": [
+      5136,
+      5146
     ],
     "speaker": "ラクティス",
     "speaker_trans": "",
@@ -341,9 +453,14 @@
   {
     "scene": 17,
     "speaker_pos": 1922,
+    "speaker_ptr": 4926,
     "msg_positions": [
       1927,
       1930
+    ],
+    "msg_ptrs": [
+      5174,
+      5202
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -359,9 +476,14 @@
   {
     "scene": 18,
     "speaker_pos": 1998,
+    "speaker_ptr": 4600,
     "msg_positions": [
       2001,
       2004
+    ],
+    "msg_ptrs": [
+      5238,
+      5262
     ],
     "speaker": "ジェイク",
     "speaker_trans": "",
@@ -377,8 +499,12 @@
   {
     "scene": 19,
     "speaker_pos": 2087,
+    "speaker_ptr": 4600,
     "msg_positions": [
       2090
+    ],
+    "msg_ptrs": [
+      4820
     ],
     "speaker": "ジェイク",
     "speaker_trans": "",
@@ -387,15 +513,24 @@
     ],
     "trans": [
       ""
+    ],
+    "line_notes": [
+      "중복 호출"
     ]
   },
   {
     "scene": 20,
     "speaker_pos": 2179,
+    "speaker_ptr": 4600,
     "msg_positions": [
       2182,
       2185,
       2188
+    ],
+    "msg_ptrs": [
+      5298,
+      5334,
+      5360
     ],
     "speaker": "ジェイク",
     "speaker_trans": "",
@@ -413,9 +548,14 @@
   {
     "scene": 21,
     "speaker_pos": 2192,
+    "speaker_ptr": 4392,
     "msg_positions": [
       2197,
       2200
+    ],
+    "msg_ptrs": [
+      4658,
+      5398
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -426,15 +566,25 @@
     "trans": [
       "",
       ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
     ]
   },
   {
     "scene": 22,
     "speaker_pos": 2204,
+    "speaker_ptr": 4600,
     "msg_positions": [
       2209,
       2213,
       2216
+    ],
+    "msg_ptrs": [
+      5412,
+      5442,
+      4912
     ],
     "speaker": "ジェイク",
     "speaker_trans": "",
@@ -447,13 +597,22 @@
       "",
       "",
       ""
+    ],
+    "line_notes": [
+      "",
+      "",
+      "중복 호출"
     ]
   },
   {
     "scene": 23,
     "speaker_pos": 2238,
+    "speaker_ptr": 4926,
     "msg_positions": [
       2243
+    ],
+    "msg_ptrs": [
+      5452
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -466,9 +625,36 @@
   },
   {
     "scene": 24,
+    "speaker_pos": 2249,
+    "speaker_ptr": 4338,
+    "msg_positions": [
+      2254,
+      2257
+    ],
+    "msg_ptrs": [
+      5480,
+      5512
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "でも、結局クラウスのシャドウは",
+      "見つかりませんでしたね。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 25,
     "speaker_pos": 2263,
+    "speaker_ptr": 4392,
     "msg_positions": [
       2268
+    ],
+    "msg_ptrs": [
+      5538
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -480,12 +666,18 @@
     ]
   },
   {
-    "scene": 25,
+    "scene": 26,
     "speaker_pos": 2274,
+    "speaker_ptr": 4630,
     "msg_positions": [
       2277,
       2280,
       2283
+    ],
+    "msg_ptrs": [
+      5556,
+      5586,
+      5602
     ],
     "speaker": "ニコラス",
     "speaker_trans": "",
@@ -501,12 +693,18 @@
     ]
   },
   {
-    "scene": 26,
+    "scene": 27,
     "speaker_pos": 2287,
+    "speaker_ptr": 4392,
     "msg_positions": [
       2292,
       2295,
       2298
+    ],
+    "msg_ptrs": [
+      5616,
+      5630,
+      5662
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -522,11 +720,16 @@
     ]
   },
   {
-    "scene": 27,
+    "scene": 28,
     "speaker_pos": 2318,
+    "speaker_ptr": 4600,
     "msg_positions": [
       2321,
       2324
+    ],
+    "msg_ptrs": [
+      5680,
+      5694
     ],
     "speaker": "ジェイク",
     "speaker_trans": "",
@@ -540,10 +743,14 @@
     ]
   },
   {
-    "scene": 28,
+    "scene": 29,
     "speaker_pos": 2344,
+    "speaker_ptr": 4630,
     "msg_positions": [
       2347
+    ],
+    "msg_ptrs": [
+      5724
     ],
     "speaker": "ニコラス",
     "speaker_trans": "",
@@ -555,10 +762,14 @@
     ]
   },
   {
-    "scene": 29,
+    "scene": 30,
     "speaker_pos": 2367,
+    "speaker_ptr": 4414,
     "msg_positions": [
       2370
+    ],
+    "msg_ptrs": [
+      5736
     ],
     "speaker": "エイミー",
     "speaker_trans": "",
@@ -570,10 +781,14 @@
     ]
   },
   {
-    "scene": 30,
+    "scene": 31,
     "speaker_pos": 2374,
+    "speaker_ptr": 4392,
     "msg_positions": [
       2379
+    ],
+    "msg_ptrs": [
+      4658
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -582,14 +797,22 @@
     ],
     "trans": [
       ""
+    ],
+    "line_notes": [
+      "중복 호출"
     ]
   },
   {
-    "scene": 31,
+    "scene": 32,
     "speaker_pos": 2383,
+    "speaker_ptr": 4630,
     "msg_positions": [
       2388,
       2391
+    ],
+    "msg_ptrs": [
+      5770,
+      5796
     ],
     "speaker": "ニコラス",
     "speaker_trans": "",
@@ -603,12 +826,41 @@
     ]
   },
   {
-    "scene": 32,
+    "scene": 33,
+    "speaker_pos": 2411,
+    "speaker_ptr": 4338,
+    "msg_positions": [
+      2416,
+      2419
+    ],
+    "msg_ptrs": [
+      5810,
+      5836
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "クラウスが苦しんでるって",
+      "どういうこと？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 34,
     "speaker_pos": 2425,
+    "speaker_ptr": 4464,
     "msg_positions": [
       2430,
       2433,
       2436
+    ],
+    "msg_ptrs": [
+      5852,
+      5862,
+      5878
     ],
     "speaker": "ラクティス",
     "speaker_trans": "",
@@ -624,12 +876,18 @@
     ]
   },
   {
-    "scene": 33,
+    "scene": 35,
     "speaker_pos": 2442,
+    "speaker_ptr": 4392,
     "msg_positions": [
       2447,
       2450,
       2453
+    ],
+    "msg_ptrs": [
+      5912,
+      5924,
+      5946
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -645,11 +903,16 @@
     ]
   },
   {
-    "scene": 34,
+    "scene": 36,
     "speaker_pos": 2662,
+    "speaker_ptr": 4414,
     "msg_positions": [
       2665,
       2668
+    ],
+    "msg_ptrs": [
+      4836,
+      4846
     ],
     "speaker": "エイミー",
     "speaker_trans": "",
@@ -660,32 +923,45 @@
     "trans": [
       "",
       ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      "중복 호출"
     ]
   },
   {
-    "scene": 35,
-    "speaker_pos": 2829,
+    "scene": 37,
+    "speaker_pos": 2902,
+    "speaker_ptr": 4630,
     "msg_positions": [
-      2901,
       2905
     ],
-    "speaker": "､！",
+    "msg_ptrs": [
+      4640
+    ],
+    "speaker": "ニコラス",
     "speaker_trans": "",
     "lines": [
-      "について",
       "早くしようよー。"
     ],
     "trans": [
-      "",
       ""
+    ],
+    "line_notes": [
+      "중복 호출"
     ]
   },
   {
-    "scene": 36,
+    "scene": 38,
     "speaker_pos": 2916,
+    "speaker_ptr": 4630,
     "msg_positions": [
       2919,
       2922
+    ],
+    "msg_ptrs": [
+      4998,
+      5022
     ],
     "speaker": "ニコラス",
     "speaker_trans": "",
@@ -696,67 +972,307 @@
     "trans": [
       "",
       ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      "중복 호출"
     ]
   },
   {
-    "scene": 37,
+    "scene": 39,
     "speaker_pos": 3174,
+    "speaker_ptr": 4600,
     "msg_positions": [
-      3177,
-      3518,
-      3521,
-      3553,
-      3556,
-      3567,
-      3588,
-      3591,
-      3602,
-      3623,
-      3626,
-      3637,
-      3658,
-      3661,
-      3672,
-      3693,
-      3696,
-      3707,
-      3728,
-      3731,
-      3742,
-      3763,
-      3766,
-      3777,
-      3798,
-      3801,
-      3812
+      3177
+    ],
+    "msg_ptrs": [
+      4610
     ],
     "speaker": "ジェイク",
     "speaker_trans": "",
     "lines": [
-      "おじさん、まだー？",
+      "おじさん、まだー？"
+    ],
+    "trans": [
+      ""
+    ],
+    "line_notes": [
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 40,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      3518,
+      3521,
+      3532
+    ],
+    "msg_ptrs": [
+      5960,
+      4912,
+      5980
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "アクアジストＤＸを",
       "手に入れた！",
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 41,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      3553,
+      3556,
+      3567
+    ],
+    "msg_ptrs": [
+      6006,
+      4912,
+      5980
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "デュアルアーマーを",
       "手に入れた！",
-      "何も入っていないようだ。",
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 42,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      3588,
+      3591,
+      3602
+    ],
+    "msg_ptrs": [
+      6026,
+      4912,
+      5980
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "強化兵装五式を",
       "手に入れた！",
-      "何も入っていないようだ。",
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 43,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      3623,
+      3626,
+      3637
+    ],
+    "msg_ptrs": [
+      6042,
+      4912,
+      5980
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "スペーステントを",
       "手に入れた！",
-      "何も入っていないようだ。",
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 44,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      3658,
+      3661,
+      3672
+    ],
+    "msg_ptrs": [
+      6060,
+      4912,
+      5980
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "BGS-A04を",
       "手に入れた！",
-      "何も入っていないようだ。",
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 45,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      3693,
+      3696,
+      3707
+    ],
+    "msg_ptrs": [
+      6071,
+      4912,
+      5980
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ボルテージを",
       "手に入れた！",
-      "何も入っていないようだ。",
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 46,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      3728,
+      3731,
+      3742
+    ],
+    "msg_ptrs": [
+      6085,
+      4912,
+      5980
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "ローズジストＤＸを",
       "手に入れた！",
-      "何も入っていないようだ。",
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 47,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      3763,
+      3766,
+      3777
+    ],
+    "msg_ptrs": [
+      6105,
+      4912,
+      5980
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "アクアジストＳを",
       "手に入れた！",
-      "何も入っていないようだ。",
+      "何も入っていないようだ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출",
+      "중복 호출"
+    ]
+  },
+  {
+    "scene": 48,
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      3798,
+      3801,
+      3812
+    ],
+    "msg_ptrs": [
+      6123,
+      4912,
+      5980
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
       "HMR33BGSを",
       "手に入れた！",
       "何も入っていないようだ。"
@@ -764,31 +1280,12 @@
     "trans": [
       "",
       "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       ""
+    ],
+    "line_notes": [
+      "",
+      "중복 호출",
+      "중복 호출"
     ]
   }
 ]

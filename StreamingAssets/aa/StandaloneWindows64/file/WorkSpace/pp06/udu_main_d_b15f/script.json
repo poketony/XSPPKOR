@@ -1,24 +1,13 @@
 [
   {
     "scene": 0,
-    "speaker_pos": -1,
-    "msg_positions": [
-      31
-    ],
-    "speaker": "",
-    "speaker_trans": "",
-    "lines": [
-      "倒さないことには"
-    ],
-    "trans": [
-      ""
-    ]
-  },
-  {
-    "scene": 1,
     "speaker_pos": 99,
+    "speaker_ptr": 446,
     "msg_positions": [
       104
+    ],
+    "msg_ptrs": [
+      454
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -30,10 +19,14 @@
     ]
   },
   {
-    "scene": 2,
+    "scene": 1,
     "speaker_pos": 120,
+    "speaker_ptr": 468,
     "msg_positions": [
       125
+    ],
+    "msg_ptrs": [
+      476
     ],
     "speaker": "バグス",
     "speaker_trans": "",
@@ -45,12 +38,18 @@
     ]
   },
   {
-    "scene": 3,
+    "scene": 2,
     "speaker_pos": 129,
+    "speaker_ptr": 482,
     "msg_positions": [
       134,
       137,
       140
+    ],
+    "msg_ptrs": [
+      494,
+      504,
+      530
     ],
     "speaker": "ラクティス",
     "speaker_trans": "",
@@ -66,17 +65,22 @@
     ]
   },
   {
-    "scene": 4,
+    "scene": 3,
     "speaker_pos": 146,
+    "speaker_ptr": 558,
     "msg_positions": [
-      154,
-      203
+      151,
+      154
+    ],
+    "msg_ptrs": [
+      566,
+      584
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
     "lines": [
-      "――行くぞ！",
-      "ことには"
+      "そのようだな――",
+      "――行くぞ！"
     ],
     "trans": [
       "",

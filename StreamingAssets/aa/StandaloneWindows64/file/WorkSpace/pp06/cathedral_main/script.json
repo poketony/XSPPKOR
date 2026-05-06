@@ -2,9 +2,14 @@
   {
     "scene": 0,
     "speaker_pos": -1,
+    "speaker_ptr": -1,
     "msg_positions": [
       77,
       80
+    ],
+    "msg_ptrs": [
+      3981,
+      4005
     ],
     "speaker": "",
     "speaker_trans": "",
@@ -20,7 +25,9 @@
   {
     "scene": 1,
     "speaker_pos": 99,
+    "speaker_ptr": 4030,
     "msg_positions": [
+      104,
       107,
       110,
       113,
@@ -35,9 +42,26 @@
       143,
       146
     ],
+    "msg_ptrs": [
+      4042,
+      4078,
+      4110,
+      4142,
+      4172,
+      4204,
+      4222,
+      4242,
+      4262,
+      4286,
+      4312,
+      4336,
+      4368,
+      4400
+    ],
     "speaker": "セルギウス",
     "speaker_trans": "",
     "lines": [
+      "──ユリウスが教皇の座に就いて以来",
       "その軟弱さゆえに我々移民船団は",
       "弱体化の一途を辿らざるを得ない",
       "状況に追い込まれてしまった！",
@@ -65,13 +89,16 @@
       "",
       "",
       "",
+      "",
       ""
     ]
   },
   {
     "scene": 2,
     "speaker_pos": 222,
+    "speaker_ptr": 4030,
     "msg_positions": [
+      227,
       230,
       234,
       237,
@@ -81,9 +108,21 @@
       251,
       254
     ],
+    "msg_ptrs": [
+      4418,
+      4446,
+      4474,
+      4506,
+      4536,
+      4568,
+      4594,
+      4608,
+      4636
+    ],
     "speaker": "セルギウス",
     "speaker_trans": "",
     "lines": [
+      "──さあ、祈りを捧げよう。",
       "神に選ばれしゾハルの民よ。",
       "我らの祈りが神の耳元に届くとき",
       "ゾハルは秘されたその瞳を開き",
@@ -101,12 +140,14 @@
       "",
       "",
       "",
+      "",
       ""
     ]
   },
   {
     "scene": 3,
     "speaker_pos": 258,
+    "speaker_ptr": 4656,
     "msg_positions": [
       263,
       266,
@@ -115,6 +156,15 @@
       276,
       279,
       283
+    ],
+    "msg_ptrs": [
+      4666,
+      4690,
+      4726,
+      4748,
+      4758,
+      4774,
+      4800
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -139,12 +189,38 @@
   },
   {
     "scene": 4,
+    "speaker_pos": 296,
+    "speaker_ptr": 4834,
+    "msg_positions": [
+      301
+    ],
+    "msg_ptrs": [
+      4844
+    ],
+    "speaker": "ホアキン",
+    "speaker_trans": "",
+    "lines": [
+      "ママ──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 5,
     "speaker_pos": 319,
+    "speaker_ptr": 4656,
     "msg_positions": [
       324,
       327,
       330,
       333
+    ],
+    "msg_ptrs": [
+      4854,
+      4868,
+      4896,
+      4918
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -162,13 +238,43 @@
     ]
   },
   {
-    "scene": 5,
+    "scene": 6,
+    "speaker_pos": 337,
+    "speaker_ptr": 4834,
+    "msg_positions": [
+      342,
+      345
+    ],
+    "msg_ptrs": [
+      4934,
+      4952
+    ],
+    "speaker": "ホアキン",
+    "speaker_trans": "",
+    "lines": [
+      "パパがいない時は",
+      "僕がママを守るんだもん。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
     "speaker_pos": 349,
+    "speaker_ptr": 4656,
     "msg_positions": [
       354,
       357,
       360,
       363
+    ],
+    "msg_ptrs": [
+      4978,
+      4992,
+      5020,
+      5040
     ],
     "speaker": "シャロン",
     "speaker_trans": "",
@@ -186,9 +292,11 @@
     ]
   },
   {
-    "scene": 6,
+    "scene": 8,
     "speaker_pos": 433,
+    "speaker_ptr": 4030,
     "msg_positions": [
+      438,
       441,
       444,
       448,
@@ -198,9 +306,21 @@
       461,
       464
     ],
+    "msg_ptrs": [
+      5060,
+      5074,
+      5102,
+      5126,
+      5146,
+      5168,
+      5194,
+      5206,
+      5234
+    ],
     "speaker": "セルギウス",
     "speaker_trans": "",
     "lines": [
+      "あと少しだ。",
       "あと少しで我らの悲願が──",
       "ゾハルの瞳が開かれる。",
       "開かれた瞳は必ずや",
@@ -218,15 +338,21 @@
       "",
       "",
       "",
+      "",
       ""
     ]
   },
   {
-    "scene": 7,
+    "scene": 9,
     "speaker_pos": 491,
+    "speaker_ptr": 5248,
     "msg_positions": [
       494,
       497
+    ],
+    "msg_ptrs": [
+      5258,
+      5266
     ],
     "speaker": "カーター",
     "speaker_trans": "",
@@ -237,13 +363,40 @@
     "trans": [
       "",
       ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
     ]
   },
   {
-    "scene": 8,
+    "scene": 10,
+    "speaker_pos": 501,
+    "speaker_ptr": 4030,
+    "msg_positions": [
+      506
+    ],
+    "msg_ptrs": [
+      5282
+    ],
+    "speaker": "セルギウス",
+    "speaker_trans": "",
+    "lines": [
+      "何事か！？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 11,
     "speaker_pos": 524,
+    "speaker_ptr": 5294,
     "msg_positions": [
       527
+    ],
+    "msg_ptrs": [
+      5304
     ],
     "speaker": "ジャック",
     "speaker_trans": "",
@@ -255,10 +408,14 @@
     ]
   },
   {
-    "scene": 9,
+    "scene": 12,
     "speaker_pos": 532,
+    "speaker_ptr": 5326,
     "msg_positions": [
       535
+    ],
+    "msg_ptrs": [
+      5334
     ],
     "speaker": "ローゼ",
     "speaker_trans": "",
@@ -270,12 +427,18 @@
     ]
   },
   {
-    "scene": 10,
+    "scene": 13,
     "speaker_pos": 556,
+    "speaker_ptr": 5248,
     "msg_positions": [
       559,
       562,
       565
+    ],
+    "msg_ptrs": [
+      5258,
+      5352,
+      5362
     ],
     "speaker": "カーター",
     "speaker_trans": "",
@@ -288,12 +451,38 @@
       "",
       "",
       ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      "",
+      ""
     ]
   },
   {
-    "scene": 11,
-    "speaker_pos": 583,
+    "scene": 14,
+    "speaker_pos": 569,
+    "speaker_ptr": 4030,
     "msg_positions": [
+      574
+    ],
+    "msg_ptrs": [
+      5386
+    ],
+    "speaker": "セルギウス",
+    "speaker_trans": "",
+    "lines": [
+      "どうしたことだ！？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 15,
+    "speaker_pos": 583,
+    "speaker_ptr": 4030,
+    "msg_positions": [
+      588,
       591,
       594,
       597,
@@ -304,9 +493,22 @@
       614,
       617
     ],
+    "msg_ptrs": [
+      5406,
+      5418,
+      5444,
+      5458,
+      5484,
+      5490,
+      5510,
+      5526,
+      5548,
+      5582
+    ],
     "speaker": "セルギウス",
     "speaker_trans": "",
     "lines": [
+      "こんな──",
       "このような事が起きるなど",
       "主の御言には",
       "ただの一言も書かれて──",
@@ -326,21 +528,44 @@
       "",
       "",
       "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "",
+      "",
+      "",
+      "",
+      "중복 호출",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
   {
-    "scene": 12,
+    "scene": 16,
     "speaker_pos": 623,
+    "speaker_ptr": 4030,
     "msg_positions": [
+      628,
       631,
       635,
       638,
       641
     ],
+    "msg_ptrs": [
+      5596,
+      5608,
+      5632,
+      5658,
+      5684
+    ],
     "speaker": "セルギウス",
     "speaker_trans": "",
     "lines": [
+      "まさか──",
       "まさか、ウ・ドゥが──",
       "ウ・ドゥがヴォイジャーに",
       "加担したとでもいうのか！",
@@ -350,15 +575,21 @@
       "",
       "",
       "",
+      "",
       ""
     ]
   },
   {
-    "scene": 13,
+    "scene": 17,
     "speaker_pos": 645,
+    "speaker_ptr": 5248,
     "msg_positions": [
       650,
       653
+    ],
+    "msg_ptrs": [
+      5702,
+      5732
     ],
     "speaker": "カーター",
     "speaker_trans": "",
@@ -372,18 +603,29 @@
     ]
   },
   {
-    "scene": 14,
+    "scene": 18,
     "speaker_pos": 657,
+    "speaker_ptr": 4030,
     "msg_positions": [
+      662,
       665,
       668,
       672,
       675,
       678
     ],
+    "msg_ptrs": [
+      5748,
+      5770,
+      5792,
+      5820,
+      5834,
+      5862
+    ],
     "speaker": "セルギウス",
     "speaker_trans": "",
     "lines": [
+      "──くぅぅぅぅぅっ！",
       "ザルヴァートルめ──",
       "ディミトリ・ユーリエフめ。",
       "そうまでして",
@@ -395,18 +637,46 @@
       "",
       "",
       "",
+      "",
       ""
     ]
   },
   {
-    "scene": 15,
+    "scene": 19,
+    "speaker_pos": 757,
+    "speaker_ptr": 5888,
+    "msg_positions": [
+      762
+    ],
+    "msg_ptrs": [
+      5896
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "遅かった──のか！？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 20,
     "speaker_pos": 782,
+    "speaker_ptr": 5918,
     "msg_positions": [
       787,
       790,
       793,
       797,
       800
+    ],
+    "msg_ptrs": [
+      5926,
+      5936,
+      5958,
+      5980,
+      6008
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -426,26 +696,39 @@
     ]
   },
   {
-    "scene": 16,
+    "scene": 21,
     "speaker_pos": 804,
+    "speaker_ptr": 5888,
     "msg_positions": [
+      809,
       812
+    ],
+    "msg_ptrs": [
+      6042,
+      6052
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
     "lines": [
+      "教皇は？",
       "セルギウスも居ないのか？"
     ],
     "trans": [
+      "",
       ""
     ]
   },
   {
-    "scene": 17,
+    "scene": 22,
     "speaker_pos": 816,
+    "speaker_ptr": 6078,
     "msg_positions": [
       821,
       824
+    ],
+    "msg_ptrs": [
+      6090,
+      6122
     ],
     "speaker": "ラクティス",
     "speaker_trans": "",
@@ -459,26 +742,39 @@
     ]
   },
   {
-    "scene": 18,
+    "scene": 23,
     "speaker_pos": 828,
+    "speaker_ptr": 5888,
     "msg_positions": [
+      833,
       836
+    ],
+    "msg_ptrs": [
+      6142,
+      6176
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
     "lines": [
+      "これもヴォイジャーの仕業なのか？",
       "奴の姿は！？"
     ],
     "trans": [
+      "",
       ""
     ]
   },
   {
-    "scene": 19,
+    "scene": 24,
     "speaker_pos": 840,
+    "speaker_ptr": 5918,
     "msg_positions": [
       845,
       848
+    ],
+    "msg_ptrs": [
+      6190,
+      6198
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -492,10 +788,33 @@
     ]
   },
   {
-    "scene": 20,
+    "scene": 25,
+    "speaker_pos": 852,
+    "speaker_ptr": 5888,
+    "msg_positions": [
+      857
+    ],
+    "msg_ptrs": [
+      6232
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "そうか──！？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 26,
     "speaker_pos": 874,
+    "speaker_ptr": 5918,
     "msg_positions": [
       879
+    ],
+    "msg_ptrs": [
+      5484
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -504,13 +823,20 @@
     ],
     "trans": [
       ""
+    ],
+    "line_notes": [
+      "중복 호출"
     ]
   },
   {
-    "scene": 21,
+    "scene": 27,
     "speaker_pos": 883,
+    "speaker_ptr": 5888,
     "msg_positions": [
       888
+    ],
+    "msg_ptrs": [
+      6248
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -522,14 +848,22 @@
     ]
   },
   {
-    "scene": 22,
+    "scene": 28,
     "speaker_pos": 892,
+    "speaker_ptr": 6078,
     "msg_positions": [
       897,
       900,
       904,
       907,
       910
+    ],
+    "msg_ptrs": [
+      6268,
+      6296,
+      6314,
+      6326,
+      6338
     ],
     "speaker": "ラクティス",
     "speaker_trans": "",
@@ -549,12 +883,18 @@
     ]
   },
   {
-    "scene": 23,
+    "scene": 29,
     "speaker_pos": 914,
+    "speaker_ptr": 5888,
     "msg_positions": [
       919,
       922,
       925
+    ],
+    "msg_ptrs": [
+      6366,
+      6378,
+      6400
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -570,63 +910,27 @@
     ]
   },
   {
-    "scene": 24,
+    "scene": 30,
     "speaker_pos": 929,
+    "speaker_ptr": 5918,
     "msg_positions": [
       934,
       937,
-      940,
-      977,
-      1364,
-      1427,
-      1811,
-      1828,
-      1845,
-      1862,
-      1879,
-      1902,
-      1929,
-      1946,
-      1975,
-      1999,
-      2024
+      940
+    ],
+    "msg_ptrs": [
+      6432,
+      6452,
+      6462
     ],
     "speaker": "メリス",
     "speaker_trans": "",
     "lines": [
       "聖堂全域──いいえ",
       "ゾハルが",
-      "“ウ・ドゥ”に呼応している？",
-      "!",
-      "？",
-      "れもヴォイジャーの仕業なのか？",
-      "に我々と",
-      "に我々と",
-      "に我々と",
-      "に我々と",
-      "に我々と",
-      "に我々と",
-      "に我々と",
-      "に我々と",
-      "に我々と",
-      "に我々と",
-      "に我々と"
+      "“ウ・ドゥ”に呼応している？"
     ],
     "trans": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       "",
       "",
       ""

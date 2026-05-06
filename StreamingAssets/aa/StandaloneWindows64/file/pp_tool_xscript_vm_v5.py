@@ -456,6 +456,117 @@ def rebuild_script(orig_script, json_entries):
     return bytes(new_script)
 
 
+
+# ─── help0.xhf DLL 오프셋 패치 ───────────────────────────────────────────────
+
+# Assembly-CSharp/XenoPPxxCanvas.cs 의 HelpInit()에 들어 있는 원본 section 시작 오프셋.
+# help_offsets.json의 sections와 길이가 반드시 같아야 하며, pp_num에 맞는 배열만 패치한다.
+HELP0_SECTION_OFFSETS_ORIG = {
+    1: [0, 337, 613, 1300, 2945, 3034, 3177, 3310, 4357, 4860, 4979, 5382, 5783, 6352, 7030, 8436, 8801, 9691, 10442, 10708, 11002, 11281, 11570, 11728],
+    2: [0, 337, 613, 1300, 2945, 3034, 3177, 3310, 4357, 4860, 4979, 5382, 5783, 6352, 7030, 8436, 8801, 9691, 10442, 10708, 11025, 11304, 11593, 11751],
+    3: [0, 337, 613, 1300, 2945, 3034, 3177, 3310, 4357, 4860, 4979, 5382, 5783, 6352, 7030, 8436, 8801, 9691, 10442, 10708, 11025, 11304, 11593, 11751],
+    4: [0, 366, 642, 1329, 2974, 3063, 3206, 3339, 4386, 4889, 5008, 5411, 5812, 6381, 7059, 8465, 8830, 9720, 10471, 10737, 11054, 11333, 11622, 11780, 12429],
+    5: [0, 366, 642, 1329, 2974, 3063, 3206, 3339, 4386, 4889, 5008, 5411, 5812, 6381, 7059, 8465, 8830, 9720, 10471, 10737, 11054, 11333, 11622, 11780, 12429],
+    6: [0, 366, 642, 1329, 2974, 3063, 3206, 3339, 3850, 4353, 4472, 4875, 5276, 5845, 6523, 7929, 8294, 9184, 9935, 10201, 10518, 10797, 11086, 11244, 11893],
+}
+
+def _pack_i32_array(vals):
+    return b''.join(struct.pack('<i', int(v)) for v in vals)
+
+def _load_help_offsets_json(path):
+    try:
+        obj = json.load(open(path, encoding='utf-8'))
+    except Exception as e:
+        raise ValueError(f'help_offsets.json 읽기 실패: {e}')
+    vals = obj.get('sections')
+    if not isinstance(vals, list) or not all(isinstance(v, int) for v in vals):
+        raise ValueError('help_offsets.json에는 정수 배열 sections가 필요함')
+    return vals
+
+def _find_help_dir(mod_pp_dir):
+    if not mod_pp_dir:
+        return None
+    cand = os.path.join(mod_pp_dir, 'help0')
+    return cand if os.path.isdir(cand) else None
+
+def _help0_patch_input(pp_num, mod_pp_dir):
+    """help0 DLL 패치 입력 세트가 있으면 (ori,new,offsets_path,new_offsets) 반환."""
+    hdir = _find_help_dir(mod_pp_dir)
+    if not hdir:
+        return None
+    # 주 사용명은 help0.xhf.ori. 사용자가 실수로 help.xhf.ori라고 둔 경우도 받아준다.
+    ori_path = None
+    for name in ('help0.xhf.ori', 'help.xhf.ori'):
+        p = os.path.join(hdir, name)
+        if os.path.exists(p):
+            ori_path = p; break
+    new_path = os.path.join(hdir, 'help0.xhf')
+    off_path = os.path.join(hdir, 'help_offsets.json')
+    if not ori_path:
+        return None
+    if not os.path.exists(new_path):
+        print(f'  [PP{pp_num:02d} help0] help0.xhf 없음 - help0 DLL 패치 건너뜀')
+        return None
+    if not os.path.exists(off_path):
+        print(f'  [PP{pp_num:02d} help0] help_offsets.json 없음 - help0 DLL 패치 건너뜀')
+        return None
+    new_offsets = _load_help_offsets_json(off_path)
+    return ori_path, new_path, off_path, new_offsets
+
+def _patch_help0_offsets_in_dll(dll, pp_num, new_offsets, *, label=''):
+    """Assembly-CSharp.dll 안의 PP별 HelpInit section offset 배열을 패치한다.
+
+    가장 안전한 FieldRVA/raw int32 배열 패턴을 우선 사용한다.
+    원본 배열이 정확히 한 곳에서 발견될 때만 패치하며, 못 찾거나 여러 곳이면 건너뛴다.
+    "무조건 덮어쓰기"를 하지 않는 것이 핵심 안전장치다.
+    """
+    old_offsets = HELP0_SECTION_OFFSETS_ORIG.get(pp_num)
+    if not old_offsets:
+        print(f'  [PP{pp_num:02d} help0] 원본 help0 offset 표 없음 - 건너뜀')
+        return False
+    if len(old_offsets) != len(new_offsets):
+        print(f'  [PP{pp_num:02d} help0] sections 개수 불일치: DLL원본 {len(old_offsets)}개, 새 offsets {len(new_offsets)}개 - 건너뜀')
+        return False
+    old_blob = _pack_i32_array(old_offsets)
+    new_blob = _pack_i32_array(new_offsets)
+    hits = []
+    pos = 0
+    while True:
+        p = bytes(dll).find(old_blob, pos)
+        if p < 0:
+            break
+        hits.append(p)
+        pos = p + 1
+    if len(hits) == 1:
+        p = hits[0]
+        if dll[p:p+len(old_blob)] != old_blob:
+            print(f'  [PP{pp_num:02d} help0] 내부 검증 실패 - 건너뜀')
+            return False
+        dll[p:p+len(old_blob)] = new_blob
+        changed = sum(1 for a, b in zip(old_offsets, new_offsets) if a != b)
+        suffix = f' ({label})' if label else ''
+        print(f'  [PP{pp_num:02d} help0] section offset {changed}/{len(old_offsets)}개 패치 @0x{p:X}{suffix}')
+        return True
+    if len(hits) == 0:
+        print(f'  [PP{pp_num:02d} help0] DLL에서 원본 help0 offset 배열을 찾지 못함 - 건너뜀')
+    else:
+        print(f'  [PP{pp_num:02d} help0] 원본 help0 offset 배열이 {len(hits)}곳에서 발견됨 - 안전을 위해 건너뜀')
+    return False
+
+def patch_help0_from_workspace(dll, pp_num, mod_pp_dir):
+    info = _help0_patch_input(pp_num, mod_pp_dir)
+    if not info:
+        return False
+    ori_path, new_path, off_path, new_offsets = info
+    # 파일 존재와 크기 변경 여부만 로깅한다. offset 패치는 help_offsets.json을 신뢰한다.
+    try:
+        ori_sz = os.path.getsize(ori_path)
+        new_sz = os.path.getsize(new_path)
+        label = f'{os.path.basename(ori_path)} {ori_sz}B -> help0.xhf {new_sz}B'
+    except Exception:
+        label = os.path.basename(off_path)
+    return _patch_help0_offsets_in_dll(dll, pp_num, new_offsets, label=label)
+
 # ─── dll 패치 ─────────────────────────────────────────────────────────────────
 
 _TOUNICODE_TABLE_BASE = None
@@ -609,7 +720,7 @@ def _find_dll_pairs(dll_bytes, pp_num):
 
     return pairs if len(pairs) == n else None
 
-def patch_dll(pp_num, dat_path, dll_path):
+def patch_dll(pp_num, dat_path, dll_path, mod_pp_dir=None):
     chk  = DOWNFILECHK[pp_num]
     dat  = open(dat_path,  'rb').read()
     dll  = bytearray(open(dll_path, 'rb').read())
@@ -617,7 +728,16 @@ def patch_dll(pp_num, dat_path, dll_path):
     pairs = _find_dll_pairs(bytes(dll), pp_num)
 
     if pairs is None:
-        print(f'  [dll] downfilechk 위치를 찾을 수 없음: {dll_path}'); return
+        print(f'  [dll] downfilechk 위치를 찾을 수 없음: {dll_path}')
+        if mod_pp_dir:
+            patch_help0_from_workspace(dll, pp_num, mod_pp_dir)
+        if CHARMAP_PATH and os.path.exists(CHARMAP_PATH):
+            _patch_tounicode(dll, CHARMAP_PATH)
+        else:
+            print('  [dll] CHARMAP_PATH 미설정 - ToUnicode 패치 건너뜀')
+        open(dll_path, 'wb').write(dll)
+        print(f'  [dll] 패치 완료: {os.path.basename(dll_path)}')
+        return
 
     changed = []
     for i, s in enumerate(subs[:len(chk)]):
@@ -637,6 +757,9 @@ def patch_dll(pp_num, dat_path, dll_path):
             struct.pack_into('<i', dll, pairs[fid]['cmp_off'], ab)
             print(f'  [dll] fid={fid:2d} uncomp {du}->{au}  블록 {db}->{ab}')
 
+    if mod_pp_dir:
+        patch_help0_from_workspace(dll, pp_num, mod_pp_dir)
+
     if CHARMAP_PATH and os.path.exists(CHARMAP_PATH):
         _patch_tounicode(dll, CHARMAP_PATH)
     else:
@@ -645,7 +768,7 @@ def patch_dll(pp_num, dat_path, dll_path):
     open(dll_path, 'wb').write(dll)
     print(f'  [dll] 패치 완료: {os.path.basename(dll_path)}')
 
-def find_and_patch_dll(pp_num, dat_out_path):
+def find_and_patch_dll(pp_num, dat_out_path, mod_pp_dir=None):
     global _TOUNICODE_TABLE_BASE
     _TOUNICODE_TABLE_BASE = None  # 파일마다 초기화
     out_dir  = os.path.dirname(os.path.abspath(dat_out_path))
@@ -653,13 +776,13 @@ def find_and_patch_dll(pp_num, dat_out_path):
     orig_path= os.path.join(out_dir, 'Assembly-CSharp.dll')
     if os.path.exists(new_path):
         print(f'\ndll 발견: {new_path}')
-        patch_dll(pp_num, dat_out_path, new_path)
+        patch_dll(pp_num, dat_out_path, new_path, mod_pp_dir)
     elif os.path.exists(orig_path):
         import shutil
         shutil.copy2(orig_path, new_path)
         print(f'\ndll 발견: {orig_path}')
         print(f'  원본 보존 -> {os.path.basename(new_path)} 으로 복사 후 패치')
-        patch_dll(pp_num, dat_out_path, new_path)
+        patch_dll(pp_num, dat_out_path, new_path, mod_pp_dir)
     else:
         print('\n[dll] Assembly-CSharp.dll(.new) 없음 - dll 패치 건너뜀')
 
@@ -756,260 +879,198 @@ def rebuild_pldat_block0(orig_b0, json_entries):
 
 # ─── pl_ 스크립트 파싱/리빌드 ───────────────────────────────────────────────
 
-# pl_ block_0 opcode
-_PL_OP_NAME = 20   # ScrSetName  - 화자 이름
-_PL_OP_MSG  = {4, 7, 26, 27}  # ScrMessage 계열 - 대사
+# v4 VM parser. Keep xscript_vm_parser_core_v5.py beside this file.
+# Validator and pp_tool intentionally share the same core to avoid drift.
+try:
+    from xscript_vm_parser_core_v5 import parse_plscript, extract_raw_strings
+except ImportError:
+    import importlib.util as _iu, os as _os
+    _core_path = _os.path.join(_os.path.dirname(__file__), 'xscript_vm_parser_core_v5.py')
+    _spec = _iu.spec_from_file_location('xscript_vm_parser_core_v5', _core_path)
+    _mod = _iu.module_from_spec(_spec)
+    _spec.loader.exec_module(_mod)
+    parse_plscript = _mod.parse_plscript
+    extract_raw_strings = _mod.extract_raw_strings
 
-def _pl_read_str(data, ptr):
-    """ptr 위치의 null-null 종료 CP932 문자열 읽기."""
+def _zstr_end(data, ptr):
+    """Return end offset including 00 00 terminator for a CP932 double-null string."""
+    if ptr is None or ptr < 0 or ptr >= len(data):
+        return -1
     nul = data.find(b'\x00\x00', ptr)
-    chunk = data[ptr:nul] if nul != -1 else data[ptr:]
-    try:    return chunk.decode(SCRIPT_ENC)
-    except: return chunk.decode(SCRIPT_ENC, errors='replace')
+    return (nul + 2) if nul >= 0 else -1
 
-# opcode 인자 크기 테이블 (바이트 수, opcode 이후)
-# -1 = 가변/복잡 (건너뜀)
-_PL_OP_SIZE = {
-    0:  8,   # ScrSetChar (복잡하지만 대략)
-    1:  8,   # ScrSetObject
-    2:  1,   # ScrExit
-    3:  1,   # ScrSetFade
-    4:  2,   # ScrMessage (short ptr)
-    5:  5,   # ScrFlagOn
-    6:  5,   # ScrFlagOff
-    7:  4,   # ScrMessageY (short+short)
-    11: 8,   # ScrIf (4B+short+short)
-    12: 8,   # ScrElseIf
-    13: 2,   # ScrElse (short)
-    14: 0,   # ScrEndIf
-    15: 2,   # ScrSetBattle
-    16: 2,   # ScrSetVisual
-    17: 4,   # ScrGoto (short+short)
-    18: 2,   # ScrGosub (short)
-    19: 0,   # ScrReturn
-    20: 2,   # ScrSetName (short ptr)
-    21: 0,   # ScrMessageEnd
-    22: 2,
-    23: 2,   # ScrSetPicture
-    24: 4,   # ScrSetPicPos
-    25: 4,
-    26: 4,   # ScrMessageY
-    27: 4,   # ScrMessageY
-    28: 0,   # ScrMessageClear
-    29: 2,
-    30: 2,
-    31: 2,
-    32: 2,
-    33: 2,
-    34: 2,
-    35: 2,
-    36: 2,
-    37: 2,
-    38: 2,
-    39: 2,
-    40: 2,
-    41: 2,
-    42: 2,
-    43: 2,
-    44: 4,
-    45: 4,
-    46: 4,
-    47: 4,
-    48: 4,
-    49: 2,
-    50: 2,
-    51: 2,
-    52: 2,
-    53: 2,
-    54: 2,
-    55: 2,
-    56: 2,
-    57: 2,
-    58: 2,
-    59: 2,
-    60: 2,
-    61: 2,
-    95: 2,
-    102: 2,
-    104: 2,
-    105: 2,
-}
 
-def _pl_scan_opcodes(b0):
-    """
-    block_0 바이트코드를 정확히 순서대로 파싱.
-    반환: [(pos, opcode, arg_bytes), ...]
-    텍스트 영역 시작 전까지만.
-    """
-    # 1패스: opcode 20/4/7/26/27의 포인터 수집 -> text_start 결정
-    ops = []
-    i = 0
-    while i < len(b0) - 1:
-        op = b0[i]
-        size = _PL_OP_SIZE.get(op, -1)
-        if size < 0:
-            # 알 수 없는 opcode -> 1바이트씩 진행
-            i += 1
+def _as_list(v):
+    if v is None:
+        return []
+    if isinstance(v, list):
+        return v
+    return [v]
+
+
+def _manual_ptr_positions_for(entry, idx):
+    """Return pointer operand offsets supplied for manual/raw rescue entries."""
+    # Recommended spelling: manual_ptr_positions: [[123, 456], [789]] or [123, 456]
+    for key in ('manual_ptr_positions', 'ptr_pos_candidates'):
+        if key not in entry:
             continue
-        arg = b0[i+1:i+1+size]
-        ops.append((i, op, arg))
-        i += 1 + size
+        val = entry.get(key)
+        if not isinstance(val, list):
+            continue
+        if not val:
+            continue
+        # list-of-lists, aligned with manual_ptrs/lines
+        if any(isinstance(x, list) for x in val):
+            if idx < len(val):
+                return [int(x) for x in _as_list(val[idx]) if isinstance(x, int) and x >= 0]
+            return []
+        # flat list: use for the first/manual single-line entry
+        if idx == 0:
+            return [int(x) for x in val if isinstance(x, int) and x >= 0]
+    return []
 
-    # text_start = 텍스트 포인터 최솟값 (CP932 유효성 검증)
-    def _is_valid_text_ptr(b0, ptr):
-        """ptr이 실제 CP932 텍스트를 가리키는지 확인."""
-        if ptr <= 0 or ptr >= len(b0) - 1: return False
-        nul = b0.find(b'\x00\x00', ptr)
-        if nul == -1 or nul == ptr: return False
-        chunk = b0[ptr:nul]
-        try: chunk.decode(SCRIPT_ENC); return True
-        except: return False
-
-    ptrs = []
-    for pos, op, arg in ops:
-        if (op == _PL_OP_NAME or op in _PL_OP_MSG) and len(arg) >= 2:
-            ptr = arg[0] | (arg[1]<<8)
-            if _is_valid_text_ptr(b0, ptr):
-                ptrs.append(ptr)
-    if not ptrs: return ops, len(b0)
-    text_start = min(ptrs)
-    # text_start 이전 opcode만 반환
-    return [(pos, op, arg) for pos, op, arg in ops if pos < text_start], text_start
-
-def parse_plscript(b0):
-    """
-    block_0에서 대사를 순서대로 추출.
-    opcode 4/7/26/27(대사)와 20(화자)의 LE 포인터를 전체 구간에서 스캔.
-    포인터가 유효한 CP932 텍스트를 가리키는지로 검증.
-    """
-    def _read(ptr):
-        nul = b0.find(b'\x00\x00', ptr)
-        chunk = b0[ptr:nul] if nul != -1 else b0[ptr:]
-        try: return chunk.decode(SCRIPT_ENC)
-        except: return None
-
-    def _valid_ptr(ptr):
-        if ptr <= 0 or ptr >= len(b0) - 1: return False
-        nul = b0.find(b'\x00\x00', ptr)
-        if nul <= ptr: return False
-        chunk = b0[ptr:nul]
-        # 전체가 CP932로 디코딩 가능하고 제어문자 없어야 함
-        try:
-            txt = chunk.decode(SCRIPT_ENC)
-            # 제어문자(0x00~0x1F)가 포함된 건 바이트코드
-            return not any(ord(c) < 0x20 for c in txt)
-        except: return False
-
-    # 전체 구간에서 opcode 순서대로 이벤트 수집
-    events = []
-    i = 0
-    while i < len(b0) - 2:
-        op = b0[i]
-        if op == 4 or op == 20:
-            ptr = b0[i+1] | (b0[i+2]<<8)
-            ptr_pos = i + 1
-            if _valid_ptr(ptr):
-                txt = _read(ptr)
-                if txt:
-                    events.append((i, op, ptr_pos, ptr, txt))
-            i += 3
-        elif op in (7, 26, 27):
-            if i + 4 < len(b0):
-                ptr = b0[i+3] | (b0[i+4]<<8)
-                ptr_pos = i + 3
-                if _valid_ptr(ptr):
-                    txt = _read(ptr)
-                    if txt:
-                        events.append((i, op, ptr_pos, ptr, txt))
-            i += 5
-        else:
-            i += 1
-
-    # 씬 구성
-    scenes = []
-    current = None
-    for pos, op, ptr_pos, ptr_val, text in events:
-        if op == 20:
-            if current and current['msg_positions']:
-                scenes.append(current)
-            current = {
-                'scene':         len(scenes),
-                'speaker_pos':   ptr_pos,
-                'msg_positions': [],
-                'speaker':       text,
-                'speaker_trans': '',
-                'lines':         [],
-                'trans':         [],
-            }
-        else:
-            if current is None:
-                current = {'scene': 0, 'speaker_pos': -1,
-                           'msg_positions': [], 'speaker': '',
-                           'speaker_trans': '',
-                           'lines': [], 'trans': []}
-            current['msg_positions'].append(ptr_pos)
-            current['lines'].append(text)
-            current['trans'].append('')
-
-    if current and current['msg_positions']:
-        scenes.append(current)
-    return scenes
 
 def rebuild_plscript(orig_b0, json_entries):
     """
-    JSON 번역을 block_0에 반영.
-    번역이 있는 포인터만 파일 끝에 append하고 해당 포인터만 새 주소로 교체.
-    번역 없는 포인터는 원본 주소 그대로 유지.
+    JSON 번역을 block_0에 반영한다.
+
+    일반 추출 항목:
+      - speaker_pos/msg_positions 위치의 2바이트 포인터를 읽는다.
+      - 번역문을 파일 끝에 append하고 해당 포인터를 새 주소로 바꾼다.
+
+    보험 장치 항목(raw_rescue/manual_rescue):
+      - manual_ptrs 또는 msg_ptrs에 적힌 '원문 문자열 오프셋'을 직접 번역 대상으로 삼는다.
+      - manual_ptr_positions 또는 ptr_pos_candidates가 있으면 append + 포인터 갱신.
+      - 포인터 위치를 모르면 원문 위치에 in-place 패치한다. 단, 원문 바이트 길이를 넘으면
+        잘라내지 않고 원문을 보존하며 경고만 출력한다. 긴 번역은 포인터 위치를 추가해야 한다.
     """
-    # 번역 있는 항목만 수집: ptr_val -> 새 인코딩
-    ptr_to_new = {}
+    ptr_to_new = {}          # old text ptr -> encoded translated zstr, append 대상
+    ptr_update_positions = {} # old text ptr -> set(pointer operand offsets)
+    inplace_jobs = []        # (old text ptr, encoded, original text)
+    warnings = []
+
+    def add_append_job(old_ptr, ptr_pos, trans):
+        if old_ptr is None or old_ptr < 0:
+            return
+        if ptr_pos is None or ptr_pos < 0:
+            return
+        if ptr_pos + 1 >= len(orig_b0):
+            warnings.append(f'[manual_rescue] ptr_pos 범위 초과: {ptr_pos}')
+            return
+        ptr_to_new.setdefault(old_ptr, encode_text(trans, CHARMAP_PATH))
+        ptr_update_positions.setdefault(old_ptr, set()).add(ptr_pos)
+
+    def add_inplace_job(old_ptr, trans, orig_line=''):
+        if old_ptr is None or old_ptr < 0:
+            return
+        encoded = encode_text(trans, CHARMAP_PATH)
+        inplace_jobs.append((old_ptr, encoded, orig_line))
+
+    # 1) 일반 VM 추출 항목 처리
     for entry in json_entries:
-        items = []
+        marker = entry.get('marker', '')
+        is_manual = marker in ('manual_rescue', 'raw_rescue') or entry.get('manual_rescue') or entry.get('raw_rescue')
+        if is_manual:
+            continue
+
         if entry.get('speaker_pos', -1) >= 0:
-            items.append((entry['speaker_pos'],
-                          entry.get('speaker', ''),
-                          entry.get('speaker_trans', '')))
-        for ptr_pos, line, tr in zip(
-                entry['msg_positions'], entry['lines'],
-                entry.get('trans', ['']*len(entry['lines']))):
-            items.append((ptr_pos, line, tr))
+            trans = entry.get('speaker_trans', '').strip(' \t\n\r')
+            if trans:
+                ptr_pos = entry['speaker_pos']
+                if ptr_pos + 1 < len(orig_b0):
+                    old_ptr = orig_b0[ptr_pos] | (orig_b0[ptr_pos+1] << 8)
+                    add_append_job(old_ptr, ptr_pos, trans)
 
-        for ptr_pos, orig_line, trans_line in items:
-            trans = trans_line.strip(' \t\n\r')
-            if not trans: continue  # 번역 없으면 건드리지 않음
-            ptr_val = orig_b0[ptr_pos] | (orig_b0[ptr_pos+1]<<8)
-            if ptr_val in ptr_to_new: continue  # 이미 처리됨
-            ptr_to_new[ptr_val] = encode_text(trans, CHARMAP_PATH)
+        for ptr_pos, line, tr in zip(entry.get('msg_positions', []),
+                                    entry.get('lines', []),
+                                    entry.get('trans', [''] * len(entry.get('lines', [])))):
+            trans = tr.strip(' \t\n\r') if isinstance(tr, str) else ''
+            if not trans or ptr_pos is None or ptr_pos < 0:
+                continue
+            if ptr_pos + 1 >= len(orig_b0):
+                warnings.append(f'[repack] msg ptr_pos 범위 초과: {ptr_pos}')
+                continue
+            old_ptr = orig_b0[ptr_pos] | (orig_b0[ptr_pos+1] << 8)
+            add_append_job(old_ptr, ptr_pos, trans)
 
-    if not ptr_to_new: return bytes(orig_b0)
-
-    # 번역된 텍스트를 파일 끝에 append
-    new_pool_start = len(orig_b0)
-    new_pool = bytearray()
-    new_ptr_map = {}
-    for old_ptr, encoded in sorted(ptr_to_new.items()):
-        new_ptr_map[old_ptr] = new_pool_start + len(new_pool)
-        new_pool += encoded
-
-    new_b0 = bytearray(orig_b0) + new_pool
-
-    # 번역된 포인터만 새 주소로 교체 (번역 없는 건 원본 유지)
+    # 2) manual_rescue/raw_rescue 보험 항목 처리
     for entry in json_entries:
-        items = []
-        if entry.get('speaker_pos', -1) >= 0:
-            items.append((entry['speaker_pos'],
-                          entry.get('speaker_trans', '')))
-        for ptr_pos, tr in zip(entry['msg_positions'],
-                               entry.get('trans', ['']*len(entry['msg_positions']))):
-            items.append((ptr_pos, tr))
+        marker = entry.get('marker', '')
+        is_manual = marker in ('manual_rescue', 'raw_rescue') or entry.get('manual_rescue') or entry.get('raw_rescue')
+        if not is_manual:
+            continue
 
-        for ptr_pos, trans_line in items:
-            if not trans_line.strip(' \t\n\r'): continue  # 번역 없으면 포인터 유지
-            old_ptr = orig_b0[ptr_pos] | (orig_b0[ptr_pos+1]<<8)
-            if old_ptr in new_ptr_map:
-                new_ptr = new_ptr_map[old_ptr]
-                new_b0[ptr_pos]   = new_ptr & 0xFF
+        manual_ptrs = entry.get('manual_ptrs')
+        if manual_ptrs is None:
+            manual_ptrs = entry.get('msg_ptrs', [])
+        manual_ptrs = [int(x) for x in _as_list(manual_ptrs) if isinstance(x, int) or (isinstance(x, str) and x.isdigit())]
+
+        lines = entry.get('lines', [''] * len(manual_ptrs))
+        trans_list = entry.get('trans', [''] * len(lines))
+        n = min(len(manual_ptrs), len(lines), len(trans_list))
+        for i in range(n):
+            old_ptr = manual_ptrs[i]
+            tr = trans_list[i]
+            trans = tr.strip(' \t\n\r') if isinstance(tr, str) else ''
+            if not trans:
+                continue
+            pos_list = _manual_ptr_positions_for(entry, i)
+            # msg_positions may also be supplied directly for manual entries.
+            if not pos_list and i < len(entry.get('msg_positions', [])):
+                mp = entry.get('msg_positions', [])[i]
+                if isinstance(mp, int) and mp >= 0:
+                    pos_list = [mp]
+            if pos_list:
+                for ptr_pos in pos_list:
+                    add_append_job(old_ptr, ptr_pos, trans)
+            else:
+                add_inplace_job(old_ptr, trans, lines[i])
+
+    new_b0 = bytearray(orig_b0)
+
+    # 3) 포인터 위치를 아는 항목: 파일 끝에 append 후 포인터 갱신
+    if ptr_to_new:
+        new_pool_start = len(new_b0)
+        new_pool = bytearray()
+        new_ptr_map = {}
+        for old_ptr, encoded in sorted(ptr_to_new.items()):
+            new_ptr_map[old_ptr] = new_pool_start + len(new_pool)
+            new_pool += encoded
+        new_b0 += new_pool
+
+        for old_ptr, positions in ptr_update_positions.items():
+            if old_ptr not in new_ptr_map:
+                continue
+            new_ptr = new_ptr_map[old_ptr]
+            if new_ptr > 0xFFFF:
+                warnings.append(f'[repack] 새 포인터가 16비트 범위 초과: old_ptr={old_ptr}, new_ptr={new_ptr}')
+                continue
+            for ptr_pos in sorted(positions):
+                if ptr_pos + 1 >= len(new_b0):
+                    warnings.append(f'[repack] ptr_pos 범위 초과: {ptr_pos}')
+                    continue
+                new_b0[ptr_pos] = new_ptr & 0xFF
                 new_b0[ptr_pos+1] = (new_ptr >> 8) & 0xFF
+
+    # 4) 포인터 위치를 모르는 manual_rescue: 원문 문자열 위치에 직접 패치
+    for old_ptr, encoded, orig_line in inplace_jobs:
+        end = _zstr_end(orig_b0, old_ptr)
+        if end < 0:
+            warnings.append(f'[manual_rescue] 원문 문자열 종료를 찾지 못함: ptr={old_ptr}')
+            continue
+        orig_size = end - old_ptr
+        if len(encoded) > orig_size:
+            warnings.append(
+                f'[manual_rescue] ptr={old_ptr} in-place 공간 부족: '
+                f'원문 {orig_size}B, 번역 {len(encoded)}B. '
+                f'manual_ptr_positions를 추가해야 반영 가능. text={orig_line!r}'
+            )
+            continue
+        patched = encoded + (b'\x00' * (orig_size - len(encoded)))
+        new_b0[old_ptr:old_ptr+orig_size] = patched
+
+    for w in warnings:
+        print('  ' + w)
 
     return bytes(new_b0)
 
@@ -1163,7 +1224,7 @@ def cmd_repack(pp_num, orig_dat_path, mod_dir, out_dat_path):
 
     # dll 패치는 repack_all에서 일괄 처리. 단독 repack 시에는 여기서 패치.
     if _patch_dll_on_repack:
-        find_and_patch_dll(pp_num, out_dat_path)
+        find_and_patch_dll(pp_num, out_dat_path, mod_dir)
 
 
 # ─── verify ───────────────────────────────────────────────────────────────────
@@ -1261,6 +1322,8 @@ def cmd_repack_all(orig_base_dir, mod_base_dir, out_base_dir, dll_path=None):
         pairs = _find_dll_pairs(bytes(dll), pp)
         if pairs is None:
             print(f'  [PP{pp:02d}] downfilechk 위치 찾기 실패')
+            mod_pp_dir = os.path.join(mod_base_dir, f'pp{pp:02d}')
+            patch_help0_from_workspace(dll, pp, mod_pp_dir)
             continue
         changed = 0
         for i, s in enumerate(subs[:len(chk)]):
@@ -1274,6 +1337,11 @@ def cmd_repack_all(orig_base_dir, mod_base_dir, out_base_dir, dll_path=None):
                 struct.pack_into('<i', dll, p['cmp_off'], act_blk)
                 changed += 1
         print(f'  [PP{pp:02d}] downfilechk {changed}개 수정')
+
+        # 같은 PP 작업 폴더에 help0.xhf.ori/help0.xhf/help_offsets.json이 있으면
+        # 해당 PP의 HelpInit section offset 배열만 패치한다.
+        mod_pp_dir = os.path.join(mod_base_dir, f'pp{pp:02d}')
+        patch_help0_from_workspace(dll, pp, mod_pp_dir)
 
     # ToUnicode 패치 (한 번만)
     if CHARMAP_PATH and os.path.exists(CHARMAP_PATH):

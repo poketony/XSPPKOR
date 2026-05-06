@@ -2,22 +2,25 @@
   {
     "scene": 0,
     "speaker_pos": -1,
+    "speaker_ptr": -1,
     "msg_positions": [
-      235,
       497,
       500,
       511
     ],
+    "msg_ptrs": [
+      608,
+      619,
+      633
+    ],
     "speaker": "",
     "speaker_trans": "",
     "lines": [
-      "エレベーターは故障しているようだ。",
       "BGS-A03を",
       "手に入れた！",
       "何も入っていないようだ。"
     ],
     "trans": [
-      "",
       "",
       "",
       ""

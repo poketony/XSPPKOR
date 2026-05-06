@@ -2,9 +2,14 @@
   {
     "scene": 0,
     "speaker_pos": 221,
+    "speaker_ptr": 312,
     "msg_positions": [
       224,
       227
+    ],
+    "msg_ptrs": [
+      324,
+      358
     ],
     "speaker": "リチャード",
     "speaker_trans": "",
@@ -20,10 +25,16 @@
   {
     "scene": 1,
     "speaker_pos": 233,
+    "speaker_ptr": 378,
     "msg_positions": [
       236,
       239,
       242
+    ],
+    "msg_ptrs": [
+      388,
+      420,
+      434
     ],
     "speaker": "ダニエル",
     "speaker_trans": "",
@@ -41,11 +52,18 @@
   {
     "scene": 2,
     "speaker_pos": 248,
+    "speaker_ptr": 466,
     "msg_positions": [
       251,
       254,
       257,
       260
+    ],
+    "msg_ptrs": [
+      476,
+      512,
+      552,
+      570
     ],
     "speaker": "ヘンリー",
     "speaker_trans": "",
@@ -65,11 +83,18 @@
   {
     "scene": 3,
     "speaker_pos": 266,
+    "speaker_ptr": 610,
     "msg_positions": [
       269,
       272,
       276,
       279
+    ],
+    "msg_ptrs": [
+      622,
+      650,
+      684,
+      710
     ],
     "speaker": "ウィリアム",
     "speaker_trans": "",

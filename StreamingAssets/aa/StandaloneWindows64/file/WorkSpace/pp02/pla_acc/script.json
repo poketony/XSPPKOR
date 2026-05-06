@@ -2,9 +2,14 @@
   {
     "scene": 0,
     "speaker_pos": 116,
+    "speaker_ptr": 1440,
     "msg_positions": [
       121,
       124
+    ],
+    "msg_ptrs": [
+      1450,
+      1458
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
@@ -20,10 +25,16 @@
   {
     "scene": 1,
     "speaker_pos": 130,
+    "speaker_ptr": 1440,
     "msg_positions": [
       135,
       138,
       141
+    ],
+    "msg_ptrs": [
+      1478,
+      1506,
+      1522
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
@@ -41,28 +52,35 @@
   {
     "scene": 2,
     "speaker_pos": 145,
+    "speaker_ptr": 1542,
     "msg_positions": [
-      150,
-      200
+      150
+    ],
+    "msg_ptrs": [
+      1550
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
     "lines": [
-      "ああ。頼む。",
-      "nエル！"
+      "ああ。頼む。"
     ],
     "trans": [
-      "",
       ""
     ]
   },
   {
     "scene": 3,
     "speaker_pos": 220,
+    "speaker_ptr": 1440,
     "msg_positions": [
       225,
       228,
       231
+    ],
+    "msg_ptrs": [
+      1564,
+      1576,
+      1604
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
@@ -80,9 +98,14 @@
   {
     "scene": 4,
     "speaker_pos": 235,
+    "speaker_ptr": 1542,
     "msg_positions": [
       240,
       243
+    ],
+    "msg_ptrs": [
+      1624,
+      1640
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -98,10 +121,16 @@
   {
     "scene": 5,
     "speaker_pos": 247,
+    "speaker_ptr": 1440,
     "msg_positions": [
       252,
       255,
       258
+    ],
+    "msg_ptrs": [
+      1672,
+      1698,
+      1718
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
@@ -119,10 +148,16 @@
   {
     "scene": 6,
     "speaker_pos": 262,
+    "speaker_ptr": 1542,
     "msg_positions": [
       267,
       270,
       273
+    ],
+    "msg_ptrs": [
+      1744,
+      1754,
+      1774
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -140,8 +175,12 @@
   {
     "scene": 7,
     "speaker_pos": 279,
+    "speaker_ptr": 1796,
     "msg_positions": [
       284
+    ],
+    "msg_ptrs": [
+      1808
     ],
     "speaker": "ラクティス",
     "speaker_trans": "",
@@ -155,6 +194,7 @@
   {
     "scene": 8,
     "speaker_pos": 288,
+    "speaker_ptr": 1542,
     "msg_positions": [
       293,
       296,
@@ -162,6 +202,14 @@
       303,
       306,
       309
+    ],
+    "msg_ptrs": [
+      1830,
+      1842,
+      1876,
+      1910,
+      1930,
+      1950
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -185,12 +233,20 @@
   {
     "scene": 9,
     "speaker_pos": 329,
+    "speaker_ptr": 1440,
     "msg_positions": [
       334,
       337,
       340,
       344,
       347
+    ],
+    "msg_ptrs": [
+      1970,
+      1990,
+      2008,
+      2032,
+      2052
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
@@ -212,33 +268,54 @@
   {
     "scene": 10,
     "speaker_pos": 351,
+    "speaker_ptr": 1542,
     "msg_positions": [
-      356,
-      373,
-      380,
-      394
+      356
+    ],
+    "msg_ptrs": [
+      2080
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
     "lines": [
-      "了解、始めよう。",
-      "唐lえると",
-      "唐lえると",
-      "nエル！"
+      "了解、始めよう。"
     ],
     "trans": [
-      "",
-      "",
-      "",
       ""
     ]
   },
   {
     "scene": 11,
     "speaker_pos": 411,
+    "speaker_ptr": 1796,
     "msg_positions": [
       416,
-      419,
+      419
+    ],
+    "msg_ptrs": [
+      2098,
+      2110
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "ミハエル！",
+      "さっきのデータ、どこまで取れた！？"
+    ],
+    "trans": [
+      "",
+      ""
+    ],
+    "line_notes": [
+      "중복 호출",
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": 425,
+    "speaker_ptr": 1440,
+    "msg_positions": [
       430,
       433,
       436,
@@ -249,11 +326,20 @@
       453,
       456
     ],
-    "speaker": "ラクティス",
+    "msg_ptrs": [
+      2146,
+      2166,
+      2196,
+      2224,
+      2258,
+      2290,
+      2310,
+      2326,
+      2358
+    ],
+    "speaker": "ミハエル",
     "speaker_trans": "",
     "lines": [
-      "ミハエル！",
-      "さっきのデータ、どこまで取れた！？",
       "──トレースログが",
       "途中で焼かれてしまってるから",
       "何処まで取れているやら──",
@@ -273,14 +359,13 @@
       "",
       "",
       "",
-      "",
-      "",
       ""
     ]
   },
   {
-    "scene": 12,
+    "scene": 13,
     "speaker_pos": 460,
+    "speaker_ptr": 1542,
     "msg_positions": [
       465,
       468,
@@ -289,6 +374,15 @@
       478,
       481,
       484
+    ],
+    "msg_ptrs": [
+      2378,
+      2392,
+      2418,
+      2436,
+      2470,
+      2504,
+      2534
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -312,8 +406,9 @@
     ]
   },
   {
-    "scene": 13,
+    "scene": 14,
     "speaker_pos": 490,
+    "speaker_ptr": 1796,
     "msg_positions": [
       495,
       498,
@@ -327,6 +422,20 @@
       525,
       528,
       531
+    ],
+    "msg_ptrs": [
+      2562,
+      2574,
+      2592,
+      2626,
+      2638,
+      2658,
+      2678,
+      2690,
+      2716,
+      2750,
+      2776,
+      2810
     ],
     "speaker": "ラクティス",
     "speaker_trans": "",
@@ -360,12 +469,18 @@
     ]
   },
   {
-    "scene": 14,
+    "scene": 15,
     "speaker_pos": 535,
+    "speaker_ptr": 1542,
     "msg_positions": [
       540,
       543,
       546
+    ],
+    "msg_ptrs": [
+      2822,
+      2834,
+      2852
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -381,11 +496,16 @@
     ]
   },
   {
-    "scene": 15,
+    "scene": 16,
     "speaker_pos": 550,
+    "speaker_ptr": 1796,
     "msg_positions": [
       555,
       558
+    ],
+    "msg_ptrs": [
+      2876,
+      2884
     ],
     "speaker": "ラクティス",
     "speaker_trans": "",
@@ -399,8 +519,9 @@
     ]
   },
   {
-    "scene": 16,
+    "scene": 17,
     "speaker_pos": 562,
+    "speaker_ptr": 1440,
     "msg_positions": [
       567,
       572,
@@ -408,6 +529,14 @@
       579,
       582,
       585
+    ],
+    "msg_ptrs": [
+      2908,
+      2928,
+      2964,
+      2998,
+      3010,
+      3042
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
@@ -429,11 +558,16 @@
     ]
   },
   {
-    "scene": 17,
+    "scene": 18,
     "speaker_pos": 589,
+    "speaker_ptr": 3068,
     "msg_positions": [
       594,
       597
+    ],
+    "msg_ptrs": [
+      3076,
+      3106
     ],
     "speaker": "メリス",
     "speaker_trans": "",
@@ -447,13 +581,20 @@
     ]
   },
   {
-    "scene": 18,
+    "scene": 19,
     "speaker_pos": 601,
+    "speaker_ptr": 1542,
     "msg_positions": [
       606,
       609,
       612,
       615
+    ],
+    "msg_ptrs": [
+      3130,
+      3148,
+      3172,
+      3194
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -471,10 +612,14 @@
     ]
   },
   {
-    "scene": 19,
+    "scene": 20,
     "speaker_pos": 626,
+    "speaker_ptr": 3214,
     "msg_positions": [
       631
+    ],
+    "msg_ptrs": [
+      3226
     ],
     "speaker": "エーリッヒ",
     "speaker_trans": "",
@@ -486,13 +631,20 @@
     ]
   },
   {
-    "scene": 20,
+    "scene": 21,
     "speaker_pos": 637,
+    "speaker_ptr": 3214,
     "msg_positions": [
       642,
       645,
       648,
       651
+    ],
+    "msg_ptrs": [
+      3238,
+      3270,
+      3300,
+      3324
     ],
     "speaker": "エーリッヒ",
     "speaker_trans": "",
@@ -510,12 +662,18 @@
     ]
   },
   {
-    "scene": 21,
+    "scene": 22,
     "speaker_pos": 655,
+    "speaker_ptr": 1440,
     "msg_positions": [
       660,
       663,
       666
+    ],
+    "msg_ptrs": [
+      3360,
+      3370,
+      3388
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
@@ -531,8 +689,9 @@
     ]
   },
   {
-    "scene": 22,
+    "scene": 23,
     "speaker_pos": 672,
+    "speaker_ptr": 3214,
     "msg_positions": [
       677,
       680,
@@ -541,6 +700,15 @@
       690,
       693,
       696
+    ],
+    "msg_ptrs": [
+      3414,
+      3448,
+      3470,
+      3496,
+      3532,
+      3554,
+      3576
     ],
     "speaker": "エーリッヒ",
     "speaker_trans": "",
@@ -564,13 +732,20 @@
     ]
   },
   {
-    "scene": 23,
+    "scene": 24,
     "speaker_pos": 700,
+    "speaker_ptr": 1440,
     "msg_positions": [
       705,
       708,
       711,
       714
+    ],
+    "msg_ptrs": [
+      3610,
+      3620,
+      3652,
+      3678
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
@@ -588,14 +763,22 @@
     ]
   },
   {
-    "scene": 24,
+    "scene": 25,
     "speaker_pos": 718,
+    "speaker_ptr": 3214,
     "msg_positions": [
       723,
       726,
       729,
       733,
       736
+    ],
+    "msg_ptrs": [
+      3692,
+      3728,
+      3750,
+      3778,
+      3810
     ],
     "speaker": "エーリッヒ",
     "speaker_trans": "",
@@ -615,10 +798,14 @@
     ]
   },
   {
-    "scene": 25,
+    "scene": 26,
     "speaker_pos": 740,
+    "speaker_ptr": 1440,
     "msg_positions": [
       745
+    ],
+    "msg_ptrs": [
+      3838
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
@@ -630,10 +817,14 @@
     ]
   },
   {
-    "scene": 26,
+    "scene": 27,
     "speaker_pos": 749,
+    "speaker_ptr": 1542,
     "msg_positions": [
       754
+    ],
+    "msg_ptrs": [
+      3844
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -645,10 +836,14 @@
     ]
   },
   {
-    "scene": 27,
+    "scene": 28,
     "speaker_pos": 760,
+    "speaker_ptr": 1542,
     "msg_positions": [
       765
+    ],
+    "msg_ptrs": [
+      3866
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -660,13 +855,20 @@
     ]
   },
   {
-    "scene": 28,
+    "scene": 29,
     "speaker_pos": 769,
+    "speaker_ptr": 3214,
     "msg_positions": [
       774,
       777,
       780,
       783
+    ],
+    "msg_ptrs": [
+      3902,
+      3934,
+      3956,
+      3988
     ],
     "speaker": "エーリッヒ",
     "speaker_trans": "",
@@ -684,10 +886,14 @@
     ]
   },
   {
-    "scene": 29,
+    "scene": 30,
     "speaker_pos": 787,
+    "speaker_ptr": 1440,
     "msg_positions": [
       792
+    ],
+    "msg_ptrs": [
+      4018
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
@@ -699,13 +905,20 @@
     ]
   },
   {
-    "scene": 30,
+    "scene": 31,
     "speaker_pos": 796,
+    "speaker_ptr": 1542,
     "msg_positions": [
       801,
       804,
       807,
       810
+    ],
+    "msg_ptrs": [
+      4044,
+      4068,
+      4088,
+      4114
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -723,11 +936,16 @@
     ]
   },
   {
-    "scene": 31,
+    "scene": 32,
     "speaker_pos": 814,
+    "speaker_ptr": 1440,
     "msg_positions": [
       819,
       822
+    ],
+    "msg_ptrs": [
+      4138,
+      4148
     ],
     "speaker": "ミハエル",
     "speaker_trans": "",
@@ -741,8 +959,9 @@
     ]
   },
   {
-    "scene": 32,
+    "scene": 33,
     "speaker_pos": 828,
+    "speaker_ptr": 1542,
     "msg_positions": [
       833,
       836,
@@ -754,8 +973,20 @@
       856,
       859,
       862,
-      865,
-      1199
+      865
+    ],
+    "msg_ptrs": [
+      4176,
+      4202,
+      4228,
+      2098,
+      4252,
+      4282,
+      4310,
+      4328,
+      4338,
+      4366,
+      4388
     ],
     "speaker": "ジャン",
     "speaker_trans": "",
@@ -770,8 +1001,7 @@
       "急げよ！",
       "私は部長に巡礼会議までの間",
       "Ｕ．Ｍ．Ｎ．リンクの",
-      "制限を進言する。",
-      "nックされて"
+      "制限を進言する。"
     ],
     "trans": [
       "",
@@ -779,6 +1009,18 @@
       "",
       "",
       "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "line_notes": [
+      "",
+      "",
+      "",
+      "중복 호출",
       "",
       "",
       "",
