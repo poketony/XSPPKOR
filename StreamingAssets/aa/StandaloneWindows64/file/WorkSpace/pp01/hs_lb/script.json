@@ -1,0 +1,224 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": 42,
+    "msg_positions": [
+      47,
+      50,
+      53
+    ],
+    "speaker": "リチャード",
+    "speaker_trans": "",
+    "lines": [
+      "チーフ！！",
+      "こちらの警官は脳幹反射消失。",
+      "蘇生続行しますか？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 62,
+    "msg_positions": [
+      67
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "──どうやら無理そうね。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 73,
+    "msg_positions": [
+      78
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "３番、そっちは？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 84,
+    "msg_positions": [
+      89,
+      92
+    ],
+    "speaker": "エディ",
+    "speaker_trans": "",
+    "lines": [
+      "２番の女児、心停止！",
+      "ＡＥＤを使用します！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 98,
+    "msg_positions": [
+      103
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "あなた！！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 107,
+    "msg_positions": [
+      112
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "！！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 116,
+    "msg_positions": [
+      121,
+      124,
+      127,
+      130
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "ＡＥＤを使用するわ。",
+      "モニターを見ていて──",
+      "一時救命は連邦警察学校で",
+      "習ってるでしょ？"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 134,
+    "msg_positions": [
+      139
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "分かった。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 148,
+    "msg_positions": [
+      153,
+      156,
+      159
+    ],
+    "speaker": "エディ",
+    "speaker_trans": "",
+    "lines": [
+      "ＡＥＤ",
+      "４００ジュールまで実行しました！",
+      "効果ありません！！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 165,
+    "msg_positions": [
+      170
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "エピネフリンは？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 176,
+    "msg_positions": [
+      181
+    ],
+    "speaker": "エディ",
+    "speaker_trans": "",
+    "lines": [
+      "駄目です──反応なし。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 185,
+    "msg_positions": [
+      190,
+      193
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "まったく、なんて日なの",
+      "こんなに子供が死ぬなんて──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": 199,
+    "msg_positions": [
+      204
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "──"
+    ],
+    "trans": [
+      ""
+    ]
+  }
+]

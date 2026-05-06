@@ -1,0 +1,242 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": -1,
+    "msg_positions": [
+      224
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "取り調べ室は使用中のようだ。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 243,
+    "msg_positions": [
+      248
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "今は、任務を最優先しなくては――"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 273,
+    "msg_positions": [
+      276,
+      279
+    ],
+    "speaker": "ドウェイン",
+    "speaker_trans": "",
+    "lines": [
+      "あれ？",
+      "ジュースが出てこないぞ！？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 283,
+    "msg_positions": [
+      286
+    ],
+    "speaker": "『故障中』",
+    "speaker_trans": "",
+    "lines": [
+      "と書かれた貼り紙が貼られている。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 293,
+    "msg_positions": [
+      296,
+      299,
+      302
+    ],
+    "speaker": "ドウェイン",
+    "speaker_trans": "",
+    "lines": [
+      "何回、お金を入れても",
+      "ジュースが出てこないじゃないか！",
+      "一体どうなってんだ～！！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 306,
+    "msg_positions": [
+      309,
+      312
+    ],
+    "speaker": "『故障中』",
+    "speaker_trans": "",
+    "lines": [
+      "と書かれた貼り紙には",
+      "気づいていないようだ。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 336,
+    "msg_positions": [
+      339,
+      342,
+      345,
+      348
+    ],
+    "speaker": "リサ",
+    "speaker_trans": "",
+    "lines": [
+      "戦闘中に",
+      "アイテムの【エスケープボール】か",
+      "エーテルの【グッバイ】を使うと",
+      "逃走することができますよ。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 355,
+    "msg_positions": [
+      358,
+      361,
+      364,
+      367
+    ],
+    "speaker": "リサ",
+    "speaker_trans": "",
+    "lines": [
+      "敵には、苦手な攻撃があるんですよ。",
+      "例えば、炎が苦手な敵に炎系の攻撃を",
+      "仕掛けると大ダメージを与えることが",
+      "できますよ。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 391,
+    "msg_positions": [
+      394,
+      397,
+      400,
+      403
+    ],
+    "speaker": "ジェシー",
+    "speaker_trans": "",
+    "lines": [
+      "この子、色々と知ってるのよねぇ――",
+      "私なんか",
+      "エーテルはレベルが上がると覚えていく",
+      "ってことぐらいしか知らないわ。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 410,
+    "msg_positions": [
+      413,
+      416,
+      419,
+      422
+    ],
+    "speaker": "ジェシー",
+    "speaker_trans": "",
+    "lines": [
+      "私も負けないように勉強する事にしたわ。",
+      "今日は",
+      "必殺技もレベルが上がると増えていく",
+      "ってことを覚えたわ。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 461,
+    "msg_positions": [
+      464,
+      467,
+      470
+    ],
+    "speaker": "ステイシー",
+    "speaker_trans": "",
+    "lines": [
+      "ここは星団連邦警察アルコーン支署です。",
+      "あっ、特捜班の方でしたか。",
+      "ご活躍、期待しております。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 477,
+    "msg_positions": [
+      480,
+      483,
+      486
+    ],
+    "speaker": "ステイシー",
+    "speaker_trans": "",
+    "lines": [
+      "負傷者の方は、救命施設に",
+      "運ばれていきました。",
+      "まさか、こんなに負傷者が出るなんて――"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  }
+]

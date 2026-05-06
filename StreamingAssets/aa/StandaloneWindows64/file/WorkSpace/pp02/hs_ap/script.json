@@ -1,0 +1,167 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": 31,
+    "msg_positions": [
+      36,
+      39
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "Ｕ．Ｍ．Ｎ．起因の変死例１４５８。",
+      "エーリッヒ・ウェーバー、２８歳。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 45,
+    "msg_positions": [
+      50,
+      53,
+      56
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "──連邦警察",
+      "第１８７５",
+      "特殊作戦司令部分遣隊に所属。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 62,
+    "msg_positions": [
+      67,
+      70,
+      73,
+      76
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "死因はＵ．Ｍ．Ｎ．内に構築された",
+      "仮想空間におけるマクロファージから",
+      "受けたダメージによる",
+      "フィードバック外傷反応。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 82,
+    "msg_positions": [
+      87
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "死亡時刻は──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 105,
+    "msg_positions": [
+      110
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "！！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 121,
+    "msg_positions": [
+      126,
+      129
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "蘇生！？",
+      "あり得ない──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 138,
+    "msg_positions": [
+      143
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "完全な全身死状態だったはず──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 154,
+    "msg_positions": [
+      159,
+      162
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "検死室よりドクターコール！！",
+      "死亡誤認の恐れあり！！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 169,
+    "msg_positions": [
+      174,
+      177,
+      180
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "そこの貴方！",
+      "貴方の容体では二次治療が必要です。",
+      "無理して起き上がらないで！！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  }
+]

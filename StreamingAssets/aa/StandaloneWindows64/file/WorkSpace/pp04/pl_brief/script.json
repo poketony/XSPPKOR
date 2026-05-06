@@ -1,0 +1,401 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": 57,
+    "msg_positions": [
+      62,
+      66,
+      69,
+      72,
+      75
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "なんとか見つからずに済んだ様だな。",
+      "よし、早速だが",
+      "ミハエルはダイブ準備を急いでくれ。",
+      "エーリッヒはバグスに",
+      "６種兵装の準備を頼む！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 79,
+    "msg_positions": [
+      96
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "了解しました。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 100,
+    "msg_positions": [
+      105,
+      108,
+      151,
+      154
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "すまんな――",
+      "よろしく頼む。",
+      "　　　　　　 連邦警察支署",
+      "　　　　 ブリーフィングルーム"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 166,
+    "msg_positions": [
+      171,
+      174,
+      177
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "──隊長。",
+      "隊長はあの男がヴォイジャーだと",
+      "思いますか？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 183,
+    "msg_positions": [
+      188,
+      191,
+      194,
+      197
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "おそらく違うな。",
+      "お前達も聞いていただろう？",
+      "あの男もまた、ヴォイジャーに",
+      "利用されていたに過ぎん。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 205,
+    "msg_positions": [
+      210
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "お前はどう思う？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 216,
+    "msg_positions": [
+      221,
+      224,
+      227,
+      230
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "これまで分析されている",
+      "ヴォイジャー像から見ても",
+      "追い詰められて命を絶つというのは",
+      "奴らしからぬ行動です。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 236,
+    "msg_positions": [
+      244,
+      247,
+      250
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "いくら有能であっても",
+      "単独で船上パーティーを",
+      "ハッキングしたとは思えないしね。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 269,
+    "msg_positions": [
+      274
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "それに？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 280,
+    "msg_positions": [
+      288,
+      291,
+      297,
+      300,
+      303
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "トレースログのパターンには",
+      "明らかに第三者の干渉があった。",
+      "俺はどうも、第三者のパターンに",
+      "ヴォイジャーっぽさを感じるんだ。",
+      "勘に過ぎないけどさ。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 309,
+    "msg_positions": [
+      314
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "勘、ねえ──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 322,
+    "msg_positions": [
+      327,
+      330
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "いや、その勘──",
+      "正しいかもしれんぞ。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": 336,
+    "msg_positions": [
+      341
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "──えっ？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": 774,
+    "msg_positions": [
+      779,
+      783,
+      786,
+      789
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "クラウスの遺体か。",
+      "この男が",
+      "本当にヴォイジャーかどうか",
+      "必ず突き止めなければ――"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 14,
+    "speaker_pos": 795,
+    "msg_positions": [
+      800,
+      803,
+      806
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "何度も言うけど",
+      "死体へのダイブはとても危険よ。",
+      "時間は厳守して頂戴。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 15,
+    "speaker_pos": 810,
+    "msg_positions": [
+      815,
+      818,
+      821
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ああ、わかっている。",
+      "すまない――",
+      "君にまで迷惑をかけてしまったな。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 16,
+    "speaker_pos": 825,
+    "msg_positions": [
+      830,
+      833,
+      836
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "かまわないわ。",
+      "私も、また犠牲者が出るのを",
+      "見たくないもの。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 17,
+    "speaker_pos": 847,
+    "msg_positions": [
+      855,
+      858
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "こっちはもう用意できてますよ。",
+      "ログインしますか？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 18,
+    "speaker_pos": 882,
+    "msg_positions": [
+      887,
+      890
+    ],
+    "speaker": "エーリッヒ",
+    "speaker_trans": "",
+    "lines": [
+      "残された時間は長くはありません。",
+      "急いで準備して下さい。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 19,
+    "speaker_pos": 901,
+    "msg_positions": [
+      906
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "今、ここから離れるわけにはいかん。"
+    ],
+    "trans": [
+      ""
+    ]
+  }
+]

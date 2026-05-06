@@ -1,0 +1,341 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": 31,
+    "msg_positions": [
+      36
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 55,
+    "msg_positions": [
+      60
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "さっきは手伝ってくれてありがとう。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 64,
+    "msg_positions": [
+      69
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "いや、役に立ったのなら幸いだ。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 73,
+    "msg_positions": [
+      78
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "貴方の部下、残念だったわね。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 82,
+    "msg_positions": [
+      87
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ああ。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 96,
+    "msg_positions": [
+      101
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "──で、子供の患者達は？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 105,
+    "msg_positions": [
+      110
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "結局、誰一人助からなかったわ──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 119,
+    "msg_positions": [
+      124,
+      127,
+      130
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "──クソッ！！",
+      "ナノ技術が安価に供給されていれば",
+      "もっと多くの命が助かるのに──"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 136,
+    "msg_positions": [
+      141
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "意外に乱暴な言葉を使うんだな──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 145,
+    "msg_positions": [
+      150,
+      153
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "──失礼",
+      "子供が死ぬと、現状に苛立つのよ。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 157,
+    "msg_positions": [
+      162,
+      165,
+      168,
+      171
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "最新医療は腐った金持ちが",
+      "延齢する為にあるんじゃない──",
+      "もっと技術が現場に開放されて",
+      "しかるべきだわ！！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 175,
+    "msg_positions": [
+      180,
+      183,
+      186
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "貴方は、あんな小さな子供達が",
+      "死んで行く姿を見ても",
+      "何も感じない？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": 192,
+    "msg_positions": [
+      197
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "──動揺してはいるが"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": 203,
+    "msg_positions": [
+      208
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "顔に出ないんだ──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 14,
+    "speaker_pos": 212,
+    "msg_positions": [
+      217,
+      220
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "──タフなのね。",
+      "それともそんなフリをしてるだけ？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 15,
+    "speaker_pos": 224,
+    "msg_positions": [
+      229
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "自分でも分からない──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 16,
+    "speaker_pos": 233,
+    "msg_positions": [
+      238
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "不思議な人──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 17,
+    "speaker_pos": 244,
+    "msg_positions": [
+      249,
+      252,
+      266
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "部下の手当てをありがとう──",
+      "検死報告書の件をお願いします。",
+      "ドクター──"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 18,
+    "speaker_pos": 289,
+    "msg_positions": [
+      294,
+      297
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "ロサス。",
+      "シャロン・ロサスよ。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 19,
+    "speaker_pos": 301,
+    "msg_positions": [
+      306,
+      309
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "お願いします。",
+      "ドクター・ロサス──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  }
+]

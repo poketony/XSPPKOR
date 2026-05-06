@@ -1,0 +1,203 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": -1,
+    "msg_positions": [
+      44
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "　　　　 連警付属病院　検死室"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 61,
+    "msg_positions": [
+      66
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "待って。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 70,
+    "msg_positions": [
+      75
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "どうした？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 79,
+    "msg_positions": [
+      84
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "私も立会います。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 88,
+    "msg_positions": [
+      93
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "──！？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 97,
+    "msg_positions": [
+      102,
+      105,
+      108
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "科学捜査課に知人がいるから",
+      "学術上急ぎで必要な実験だと",
+      "説明するわ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 112,
+    "msg_positions": [
+      117,
+      120,
+      123
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "君を巻き込む訳にはいかない。",
+      "ここで時間を稼いでくれるだけでも",
+      "充分にありがたい。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 127,
+    "msg_positions": [
+      132,
+      135,
+      138
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "部屋を在室状態でロックして",
+      "いるふりをするわ。",
+      "怠け癖のある同僚がよく使う手なの。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 142,
+    "msg_positions": [
+      147
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "なぜ手を貸してくれる？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 151,
+    "msg_positions": [
+      156,
+      159
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "医師として",
+      "危険なダイブを見過ごせない。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 163,
+    "msg_positions": [
+      168
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "本当にいいのか？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 172,
+    "msg_positions": [
+      177
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "ええ。"
+    ],
+    "trans": [
+      ""
+    ]
+  }
+]

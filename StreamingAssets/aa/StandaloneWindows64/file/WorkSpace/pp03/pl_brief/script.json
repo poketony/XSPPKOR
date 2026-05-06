@@ -1,0 +1,350 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": -1,
+    "msg_positions": [
+      20,
+      23
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "　　　　　　 連邦警察支署",
+      "　　　　 ブリーフィングルーム"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 35,
+    "msg_positions": [
+      43
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "また人を死なせてしまうなんて──！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 47,
+    "msg_positions": [
+      52
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 56,
+    "msg_positions": [
+      61
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "──隊長。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 65,
+    "msg_positions": [
+      70
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "──？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 74,
+    "msg_positions": [
+      79,
+      82
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "隊長はあの男がヴォイジャーだと",
+      "思いますか？"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 86,
+    "msg_positions": [
+      91,
+      94,
+      97,
+      100
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "おそらく違うな。",
+      "お前達も聞いていただろう？",
+      "あの男もまた、ヴォイジャーに",
+      "利用されていたに過ぎん。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 106,
+    "msg_positions": [
+      111
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "お前はどう思う？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 115,
+    "msg_positions": [
+      120,
+      124,
+      127,
+      130,
+      133
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "そうですね──",
+      "これまで分析されている",
+      "ヴォイジャー像から見ても",
+      "追い詰められて命を絶つというのは",
+      "奴らしからぬ行動です。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 137,
+    "msg_positions": [
+      142,
+      145,
+      148,
+      152,
+      155,
+      158,
+      161
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "──そうそう。",
+      "それにオペレータ的な見地から",
+      "ものを言わせてもらえば",
+      "クラウスって男が",
+      "いくら有能であっても",
+      "単独で船上パーティーを",
+      "ハッキングしたとは思えないしね。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 165,
+    "msg_positions": [
+      170,
+      173,
+      176,
+      180,
+      183
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "──でも、クラウスって",
+      "トーレ財団の会長の",
+      "御曹司なんでしょ？",
+      "財団の内部事情に通じていたっていう",
+      "可能性は高いんじゃないかしら？"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 189,
+    "msg_positions": [
+      194,
+      197,
+      200,
+      204,
+      207,
+      210,
+      213
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "クラウスがトーレ一族から",
+      "追放されたのは",
+      "もう十年近く昔の話だ。",
+      "逆に、奴の素行から見て",
+      "財団の内部情報からは最も",
+      "遠ざけられていたんじゃないかな。",
+      "それに──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": 217,
+    "msg_positions": [
+      222
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "それに？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": 226,
+    "msg_positions": [
+      231,
+      234,
+      237,
+      241,
+      244,
+      247
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "仮想空間にリライトがあった時",
+      "トレースログのパターンには",
+      "明らかに第三者の干渉があった。",
+      "俺はどうも、第三者のパターンに",
+      "ヴォイジャーっぽさを感じるんだ。",
+      "勘に過ぎないけどさ。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 14,
+    "speaker_pos": 251,
+    "msg_positions": [
+      256
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "勘、ねえ──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 15,
+    "speaker_pos": 262,
+    "msg_positions": [
+      267,
+      270
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "いや、その勘──",
+      "正しいかもしれんぞ。"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 16,
+    "speaker_pos": 274,
+    "msg_positions": [
+      279
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "──えっ？"
+    ],
+    "trans": [
+      ""
+    ]
+  }
+]

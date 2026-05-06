@@ -1,0 +1,119 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": 88,
+    "msg_positions": [
+      93,
+      96,
+      99,
+      102
+    ],
+    "speaker": "ビンセント",
+    "speaker_trans": "",
+    "lines": [
+      "特捜班だかなんだか知らねぇが",
+      "偉そうにしやがって――",
+      "だいたい、俺ら現場の叩き上げから",
+      "言わせりゃあ――"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 106,
+    "msg_positions": [
+      111
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "――"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 118,
+    "msg_positions": [
+      123,
+      126,
+      129
+    ],
+    "speaker": "ビンセント",
+    "speaker_trans": "",
+    "lines": [
+      "おい、知ってるか？",
+      "特捜班のミッション",
+      "相当な数の死傷者が出たって話だ──"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 133,
+    "msg_positions": [
+      138
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "――"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 162,
+    "msg_positions": [
+      167,
+      170,
+      173
+    ],
+    "speaker": "リック",
+    "speaker_trans": "",
+    "lines": [
+      "あっ――",
+      "な、な、な、何か",
+      "ご、御用でありますか、そ、捜査官殿！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 180,
+    "msg_positions": [
+      185,
+      188,
+      191
+    ],
+    "speaker": "リック",
+    "speaker_trans": "",
+    "lines": [
+      "そ、そ、捜査官殿！？",
+      "なんでもお仲間の一人が",
+      "お、大怪我をされたとか──"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  }
+]

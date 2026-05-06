@@ -1,0 +1,233 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": 63,
+    "msg_positions": [
+      68
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 112,
+    "msg_positions": [
+      117
+    ],
+    "speaker": "ケイト",
+    "speaker_trans": "",
+    "lines": [
+      "先生、優先度の判定お願いします。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 123,
+    "msg_positions": [
+      128,
+      131,
+      134
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "２番の子供はトリアージ赤。",
+      "物理外傷はこちらへ、意識外傷は",
+      "ビラヤト先生に回して！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 138,
+    "msg_positions": [
+      143
+    ],
+    "speaker": "ケイト",
+    "speaker_trans": "",
+    "lines": [
+      "はい！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 166,
+    "msg_positions": [
+      171
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "ちょっと待って！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 177,
+    "msg_positions": [
+      182
+    ],
+    "speaker": "ケイト",
+    "speaker_trans": "",
+    "lines": [
+      "はい！？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 186,
+    "msg_positions": [
+      191,
+      194,
+      197,
+      201,
+      204,
+      207,
+      211,
+      214
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "５番の警官だけど",
+      "フィードバックによる",
+      "物理外傷がひどいみたいね──",
+      "過去の症例を検索したら",
+      "アナフィラキシーショックを",
+      "起こす可能性があるわ",
+      "麻酔は笑気ガスの鎮静法を",
+      "使うように伝えて！！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 218,
+    "msg_positions": [
+      223
+    ],
+    "speaker": "ケイト",
+    "speaker_trans": "",
+    "lines": [
+      "はい！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 234,
+    "msg_positions": [
+      239,
+      242
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "貴方と同じ制服の人は",
+      "さっき隣の部屋に運ばれてきたわ──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 246,
+    "msg_positions": [
+      251
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "すまない。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 260,
+    "msg_positions": [
+      265
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "待って！！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 271,
+    "msg_positions": [
+      276
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "──ん？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": 297,
+    "msg_positions": [
+      302,
+      333,
+      538
+    ],
+    "speaker": "シャロン",
+    "speaker_trans": "",
+    "lines": [
+      "私も行くわ──",
+      "２番の子供はトリアージ赤。",
+      "フィラキシーショックを"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  }
+]

@@ -1,0 +1,203 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": 41,
+    "msg_positions": [
+      49,
+      52,
+      55
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "やっとここまで来ましたね。",
+      "後は、遺体を",
+      "ブリーフィングルームまで運べば――"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 59,
+    "msg_positions": [
+      64,
+      67,
+      70,
+      73
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "ああ。",
+      "しかし",
+      "我々の独断で行っていることだ。",
+      "署内でも穏便に済ませなければ。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 77,
+    "msg_positions": [
+      82,
+      85,
+      88
+    ],
+    "speaker": "エーリッヒ",
+    "speaker_trans": "",
+    "lines": [
+      "つまり",
+      "署員達にも見つからないように",
+      "行動しろということですね？"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 92,
+    "msg_positions": [
+      97
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "その通りだ。"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 101,
+    "msg_positions": [
+      109
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "夜勤の連中もけっこういるんですよ！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 113,
+    "msg_positions": [
+      118,
+      121,
+      124,
+      127
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "うーん。",
+      "やっぱり、ブリーフィングルームまで",
+      "見つからずにっていうのは",
+      "難しいんじゃ――"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 131,
+    "msg_positions": [
+      136,
+      139,
+      142
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "メリスさん",
+      "そんな弱気でどうするんですか？",
+      "なんとかなりますよ！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 146,
+    "msg_positions": [
+      169,
+      172,
+      175
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "そういうことだ。",
+      "時間がない――",
+      "ブリーフィングルームに向かうぞ！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 559,
+    "msg_positions": [
+      564,
+      567
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "くっ！",
+      "気づかれたか――"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 587,
+    "msg_positions": [
+      592,
+      595,
+      598
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "エレベータ―には",
+      "監視カメラがついてるはずだ。",
+      "使うのはよした方がいい。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  }
+]

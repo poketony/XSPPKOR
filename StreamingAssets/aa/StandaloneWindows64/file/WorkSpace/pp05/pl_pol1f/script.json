@@ -1,0 +1,428 @@
+[
+  {
+    "scene": 0,
+    "speaker_pos": 59,
+    "msg_positions": [
+      64
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "おめでとうございます！！"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 1,
+    "speaker_pos": 70,
+    "msg_positions": [
+      77
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "？"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 2,
+    "speaker_pos": 81,
+    "msg_positions": [
+      86,
+      89
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "決まってるじゃないですか。",
+      "御結婚ですよ！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 106,
+    "msg_positions": [
+      111,
+      114,
+      117
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "──隊長？",
+      "我々は連警６局の特捜班ですよ！",
+      "隠し事なんか通用しませんよ──"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 4,
+    "speaker_pos": 123,
+    "msg_positions": [
+      128,
+      131,
+      134,
+      138,
+      141
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "情報収集の手順は",
+      "全て隊長から",
+      "叩き込まれたものですから。",
+      "恨むのなら",
+      "御自分を恨むべきですね──"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 5,
+    "speaker_pos": 145,
+    "msg_positions": [
+      150,
+      153,
+      156,
+      160
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "ラクティスの言う通り！",
+      "こそこそ入籍しちゃうなんて",
+      "ずるいですよ。",
+      "お式はいつなんです？"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 6,
+    "speaker_pos": 164,
+    "msg_positions": [
+      172
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "彼女が──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 7,
+    "speaker_pos": 176,
+    "msg_positions": [
+      181,
+      184,
+      187
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "",
+    "lines": [
+      "データバンクにあった",
+      "古い映画に、ウェディング・ドレスは",
+      "女性の夢とありました。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 8,
+    "speaker_pos": 200,
+    "msg_positions": [
+      205,
+      208,
+      211
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "そうですよぉ。",
+      "二度目だからお祝いしないなんて",
+      "可哀相！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 9,
+    "speaker_pos": 215,
+    "msg_positions": [
+      220,
+      223,
+      226,
+      229
+    ],
+    "speaker": "ジャン",
+    "speaker_trans": "",
+    "lines": [
+      "そうか──",
+      "では、落ち着いたらパーティでも──",
+      "その件については",
+      "また改めて、通達する。"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 10,
+    "speaker_pos": 249,
+    "msg_positions": [
+      254,
+      259
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "あーあ",
+      "なんだか羨ましくなってきちゃった！"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 11,
+    "speaker_pos": 279,
+    "msg_positions": [
+      284,
+      287,
+      290,
+      293
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "じゃあさ、じゃあさ",
+      "俺なんかどう！？",
+      "俺と結婚すればきっと",
+      "幸せな家庭を作れるぜ！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 12,
+    "speaker_pos": 299,
+    "msg_positions": [
+      304,
+      307,
+      310
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "何言ってるのよ。",
+      "私が憧れてるのは、隊長みたいな",
+      "物静かでしっかりしたタイプよ。"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 13,
+    "speaker_pos": 314,
+    "msg_positions": [
+      319,
+      325,
+      328,
+      331,
+      334
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "ひでぇなぁ──",
+      "──そうだ！！",
+      "デートくらいならいいだろ？",
+      "一緒にアルコーンの夜景を見ながら",
+      "ワイングラスでも傾けようぜ！！"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 14,
+    "speaker_pos": 338,
+    "msg_positions": [
+      343,
+      346,
+      349
+    ],
+    "speaker": "メリス",
+    "speaker_trans": "",
+    "lines": [
+      "しつっこいわねぇ！！",
+      "そんなんだから",
+      "女の子にもてないのよ！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 15,
+    "speaker_pos": 369,
+    "msg_positions": [
+      374
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "玉砕だな──"
+    ],
+    "trans": [
+      ""
+    ]
+  },
+  {
+    "scene": 16,
+    "speaker_pos": 380,
+    "msg_positions": [
+      385,
+      388,
+      391
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "いいんだよ！！",
+      "こういった波乱があってこそ",
+      "愛は育まれていくものなんだ！！"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 17,
+    "speaker_pos": 395,
+    "msg_positions": [
+      400,
+      403
+    ],
+    "speaker": "ラクティス",
+    "speaker_trans": "",
+    "lines": [
+      "──やはり",
+      "人間の思考はよく分からんな──"
+    ],
+    "trans": [
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 18,
+    "speaker_pos": 409,
+    "msg_positions": [
+      414,
+      417,
+      420
+    ],
+    "speaker": "エーリッヒ",
+    "speaker_trans": "",
+    "lines": [
+      "無理もない。",
+      "同じ人間でもこいつの考えは",
+      "理解できん──"
+    ],
+    "trans": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "scene": 19,
+    "speaker_pos": 426,
+    "msg_positions": [
+      431,
+      456,
+      466,
+      476,
+      491,
+      496,
+      528,
+      531,
+      552
+    ],
+    "speaker": "ミハエル",
+    "speaker_trans": "",
+    "lines": [
+      "言ってろよ！！",
+      "籍しちゃうなんて",
+      "結婚ですよ！",
+      "籍しちゃうなんて",
+      "結婚ですよ！",
+      "。",
+      "ﾍ、隊長みたいな",
+      "7",
+      "？"
+    ],
+    "trans": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+]
