@@ -55,33 +55,48 @@
     "speaker_ptr": 967,
     "msg_positions": [
       120,
-      123,
-      136,
-      139
+      123
     ],
     "msg_ptrs": [
       1083,
-      1095,
-      1137,
-      1145
+      1095
     ],
     "speaker": "ジャン",
     "speaker_trans": "얀",
     "lines": [
       "──そうか",
-      "そのまま状況確認を続行してくれ。",
+      "そのまま状況確認を続行してくれ。"
+    ],
+    "trans": [
+      "……그런가.",
+      "그대로 상황 확인을 계속해 다오."
+    ]
+  },
+  {
+    "scene": 3,
+    "speaker_pos": 131,
+    "speaker_ptr": 1129,
+    "msg_positions": [
+      136,
+      139
+    ],
+    "msg_ptrs": [
+      1137,
+      1145
+    ],
+    "speaker": "バグス",
+    "speaker_trans": "벅스",
+    "lines": [
       "あれ？",
       "あれれ？？"
     ],
     "trans": [
-      "……그런가.",
-      "그대로 상황 확인을 계속해 다오.",
       "어라?",
       "어라라??"
     ]
   },
   {
-    "scene": 3,
+    "scene": 4,
     "speaker_pos": 145,
     "speaker_ptr": 967,
     "msg_positions": [
@@ -100,7 +115,7 @@
     ]
   },
   {
-    "scene": 4,
+    "scene": 5,
     "speaker_pos": 158,
     "speaker_ptr": 1129,
     "msg_positions": [
@@ -123,7 +138,7 @@
     ]
   },
   {
-    "scene": 5,
+    "scene": 6,
     "speaker_pos": 170,
     "speaker_ptr": 967,
     "msg_positions": [
@@ -146,7 +161,7 @@
     ]
   },
   {
-    "scene": 6,
+    "scene": 7,
     "speaker_pos": 182,
     "speaker_ptr": 927,
     "msg_positions": [
@@ -169,7 +184,7 @@
     ]
   },
   {
-    "scene": 7,
+    "scene": 8,
     "speaker_pos": 194,
     "speaker_ptr": 1309,
     "msg_positions": [
@@ -188,7 +203,7 @@
     ]
   },
   {
-    "scene": 8,
+    "scene": 9,
     "speaker_pos": 201,
     "speaker_ptr": 967,
     "msg_positions": [
@@ -207,7 +222,7 @@
     ]
   },
   {
-    "scene": 9,
+    "scene": 10,
     "speaker_pos": 210,
     "speaker_ptr": 1309,
     "msg_positions": [
@@ -226,7 +241,7 @@
     ]
   },
   {
-    "scene": 10,
+    "scene": 11,
     "speaker_pos": 219,
     "speaker_ptr": 927,
     "msg_positions": [
@@ -245,7 +260,7 @@
     ]
   },
   {
-    "scene": 11,
+    "scene": 12,
     "speaker_pos": 226,
     "speaker_ptr": 1309,
     "msg_positions": [
@@ -268,7 +283,7 @@
     ]
   },
   {
-    "scene": 12,
+    "scene": 13,
     "speaker_pos": 236,
     "speaker_ptr": 927,
     "msg_positions": [
@@ -291,7 +306,7 @@
     ]
   },
   {
-    "scene": 13,
+    "scene": 14,
     "speaker_pos": 246,
     "speaker_ptr": 1309,
     "msg_positions": [
@@ -326,7 +341,7 @@
     ]
   },
   {
-    "scene": 14,
+    "scene": 15,
     "speaker_pos": 282,
     "speaker_ptr": 967,
     "msg_positions": [
@@ -349,7 +364,7 @@
     ]
   },
   {
-    "scene": 15,
+    "scene": 16,
     "speaker_pos": 294,
     "speaker_ptr": 927,
     "msg_positions": [
@@ -392,7 +407,7 @@
     ]
   },
   {
-    "scene": 16,
+    "scene": 17,
     "speaker_pos": 322,
     "speaker_ptr": 967,
     "msg_positions": [
@@ -427,7 +442,7 @@
     ]
   },
   {
-    "scene": 17,
+    "scene": 18,
     "speaker_pos": 344,
     "speaker_ptr": 927,
     "msg_positions": [
@@ -454,7 +469,7 @@
     ]
   },
   {
-    "scene": 18,
+    "scene": 19,
     "speaker_pos": 359,
     "speaker_ptr": 967,
     "msg_positions": [
@@ -473,7 +488,7 @@
     ]
   },
   {
-    "scene": 19,
+    "scene": 20,
     "speaker_pos": 368,
     "speaker_ptr": 927,
     "msg_positions": [
@@ -504,7 +519,7 @@
     ]
   },
   {
-    "scene": 20,
+    "scene": 21,
     "speaker_pos": 386,
     "speaker_ptr": 967,
     "msg_positions": [
@@ -523,7 +538,7 @@
     ]
   },
   {
-    "scene": 21,
+    "scene": 22,
     "speaker_pos": 395,
     "speaker_ptr": 927,
     "msg_positions": [
@@ -542,7 +557,7 @@
     ]
   },
   {
-    "scene": 22,
+    "scene": 23,
     "speaker_pos": 404,
     "speaker_ptr": 967,
     "msg_positions": [
@@ -565,7 +580,7 @@
     ]
   },
   {
-    "scene": 23,
+    "scene": 24,
     "speaker_pos": 416,
     "speaker_ptr": 927,
     "msg_positions": [
@@ -592,7 +607,7 @@
     ]
   },
   {
-    "scene": 24,
+    "scene": 25,
     "speaker_pos": 431,
     "speaker_ptr": 967,
     "msg_positions": [
@@ -611,55 +626,26 @@
     ]
   },
   {
-    "scene": 25,
-    "speaker_pos": -1,
-    "speaker_ptr": -1,
-    "msg_positions": [
-      81
-    ],
-    "msg_ptrs": [
-      937
-    ],
-    "speaker": "",
-    "speaker_trans": "",
-    "lines": [
-      "──隊長！"
-    ],
-    "trans": [
-      "……대장님!"
-    ],
-    "line_notes": [
-      "원문 문자열 풀에 있으나 VM 포인터 미검출 - 확인 필요"
-    ],
-    "raw_rescue": true,
-    "ptr_pos_candidates": [
-      81
-    ]
-  },
-  {
     "scene": 26,
-    "speaker_pos": -1,
-    "speaker_ptr": -1,
+    "speaker_pos": 78,
+    "speaker_ptr": 927,
     "msg_positions": [
+      81,
       84
     ],
     "msg_ptrs": [
+      937,
       949
     ],
-    "speaker": "",
-    "speaker_trans": "",
+    "speaker": "ミハエル",
+    "speaker_trans": "미하엘",
     "lines": [
+      "──隊長！",
       "聞こえますか！？"
     ],
     "trans": [
+      "……대장님!",
       "들리십니까!?"
-    ],
-    "line_notes": [
-      "원문 문자열 풀에 있으나 VM 포인터 미검출 - 확인 필요"
-    ],
-    "raw_rescue": true,
-    "ptr_pos_candidates": [
-      84
     ]
   }
 ]
