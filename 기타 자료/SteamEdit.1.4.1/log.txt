@@ -1,0 +1,20 @@
+-------------------------------------------------------------------
+2026년 5월 13일 수요일 - 오후 2:18:25
+STARTING UP: "C:\Users\JO\Desktop\SteamEdit.1.4.1\SteamEdit.exe" 
+[Update] Checking for updates...
+Missing AppInfoPath. Looking for default location.
+  Got steam path from registry: c:\program files (x86)\steam
+Initializing SteamData:
+  AppInfoPath: c:\program files (x86)\steam\appcache\appinfo.vdf
+  DataDirectory: C:\Users\JO\Desktop\SteamEdit.1.4.1
+  Loading AppInfo: c:\program files (x86)\steam\appcache\appinfo.vdf
+  Loading Mods: C:\Users\JO\Desktop\SteamEdit.1.4.1\mods.dat
+  SteamData initialized!
+[Update] Nothing to update!
+Steam processes: 1
+Closing Steam
+Saving Mods:
+  Mods saved
+Saving SteamData:
+  AppInfo saved
+Starting Steam

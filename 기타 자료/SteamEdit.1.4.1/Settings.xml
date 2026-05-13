@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <EnableCompleted>True</EnableCompleted>
+  <EnableHidden>True</EnableHidden>
+  <ReplaceLocalizedNames>False</ReplaceLocalizedNames>
+  <PassThroughArguments></PassThroughArguments>
+  <Filters>Game, Application, Video</Filters>
+  <FiltersShowEntries>All</FiltersShowEntries>
+  <EnableAutoUpdate>True</EnableAutoUpdate>
+  <AutoUpdateFeed></AutoUpdateFeed>
+  <AppInfoPath>c:\program files (x86)\steam\appcache\appinfo.vdf</AppInfoPath>
+  <ModsLocation></ModsLocation>
+  <ShownVersion>1.4.1</ShownVersion>
+  <WindowLocationX>194</WindowLocationX>
+  <WindowLocationY>63</WindowLocationY>
+  <WindowSizeX>2147483647</WindowSizeX>
+  <WindowSizeY>2147483647</WindowSizeY>
+  <MainWindowSplitter>2147483647</MainWindowSplitter>
+</Settings>

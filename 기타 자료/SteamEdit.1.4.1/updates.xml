@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feed BaseUrl="http://files.tg-software.com/steam_edit/">
+  <Tasks>
+    <FileUpdateTask localPath="License.txt" lastModified="133883321929647265" fileSize="850" version="0.0.0.0">
+      <Conditions>
+        <FileExistsCondition type="or-not" />
+        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="A127737541D33A9996B61439D9C966E277E3B5629AFDEE09FA4E2AA3A5B9B7C9" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="NAppUpdate.Framework.dll" lastModified="133520427668377037" fileSize="171008" version="0.5.1.0">
+      <Conditions>
+        <FileExistsCondition type="or-not" />
+        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="B46AAE1C69D17A4A45B1C7D9BC4284AAF27C644F222297E64D1B471ABA31FE91" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="ReleaseNotes.txt" lastModified="133914207276584210" fileSize="7039" version="0.0.0.0">
+      <Conditions>
+        <FileExistsCondition type="or-not" />
+        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="0C26F977523E43E117A11472B9CDF1025A1DC7BACB89024607FE77C684998B05" />
+      </Conditions>
+    </FileUpdateTask>
+    <FileUpdateTask localPath="SteamEdit.exe" lastModified="133914207785761106" fileSize="284160" version="1.4.1.0">
+      <Conditions>
+        <FileExistsCondition type="or-not" />
+        <FileChecksumCondition type="or-not" checksumType="sha256" checksum="06B8FC14C6B0C2774206320EEB774E0F38B6FBB859D43559A9216287929555F0" />
+      </Conditions>
+    </FileUpdateTask>
+  </Tasks>
+</Feed>

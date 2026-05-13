@@ -1,0 +1,130 @@
+﻿SteamEdit Release Notes
+
+----
+
+v1.4.1 - May 11, 2025
+- What's new:
+    - Added option to remove localized names from all games, regardless of whether they've been modified directly.
+        Disabled by default.
+- Fixed issues:
+    - Fixed issue where `-autofix` stopped working in v1.4. There's always something :p
+
+v1.4 - May 4, 2025
+- What's new:
+    - New main window interface. App list should have fewer oddities and weirdness than the previous drop-down. Can
+        filter out entries by text as well as by whether they're modified.
+    - Moved app "type" filters into pop-out menu, less clutter in the main screen.
+    - Added ability to change an app's type.
+    - Added "passthrough arguments" to settings window. This works in addition to the previous '--' command line
+        passthrough mechanism.
+    - Added "appinfo path" to settings window. Requires restarting SteamEdit to use a new location.
+- Fixed issues:
+    - Improved general usability of app list. Shouldn't have as much problems with games that appear multiple times (for
+        example Grand Theft Auto III).
+- Known issues:
+    - Launch Editor can be weird. Might show items that don't appear when running from Steam (apparently there can be
+        platform-specific stuff in there that SteamEdit doesn't do anything about). Reordering the top item can leave
+        the text greyed out (top item label isn't editable, but that stays with it when reordering). I've heard about
+        launch edits maybe not getting restored properly. Path handling is all wrong. It's "experimental" anyways.
+
+v1.3.7 - April 4, 2025
+- Fixed issues:
+    - Fixed an issue where SteamEdit would remove localized names from all games, even if the game wasn't modified.
+
+v1.3.6 - July 6, 2024
+- Fixed issues:
+    - ... Fix crash on saving mods that might have been broken by the last bunch of updates...
+
+v1.3.5 - July 6, 2024
+- Fixed issues:
+    - Maybe this one's okay? Fixed crash when loading mods that were made with 1.3.3/1.3.4, but with appinfo prior to
+      0x07564429. Or something.
+
+v1.3.4 - July 5, 2024
+- Fixed issues:
+    - Hopefully fixed crash on reverting modifications made after previous update. Those mods can't be cleanly reverted,
+      but SteamEdit should offer to just remove the entry and let Steam refresh it on the next launch.
+
+v1.3.3 - June 30, 2024
+- What's new:
+    - Add support for appinfo.vdf 0x07564429, from new Beta client
+    - Add support for "passthrough" command line arguments. If '--' is found of the SteamEdit command line, everything
+      after it will be ignored by SteamEdit and instead passed through when launching Steam.
+- Fixed issues:
+    - Improved the error message shown when a new appinfo.vdf version comes along.
+    - SteamEdit should no longer show an error message if it fails to check for updates (for example, if it has no
+      internet connection). It will only be written to the log, and be less intrusive.
+    - When skipping an "Updates are ready to install" prompt, the SteamEdit main window should now come to focus.
+    - Fixed an issue where SteamEdit could crash on 'OverflowException'.
+
+v1.3.2 - March 12, 2023
+- Fixed issues:
+    - Fixed error when trying to Revert a modified entry.
+
+v1.3.1 - December 10, 2022
+- What's new:
+    - Add support for appinfo.vdf 0x07564428, introduced in Beta client
+    - Add 'beta' filter.
+- Fixed issues:
+    - Check for updates earlier in application startup, so an error reading appinfo doesn't prevent updating.
+
+v1.3 - June 14, 2020
+- What's new:
+    - Add '-silent' command line argument, so start Steam in the background.
+    - Add music filter, can contain game soundtracks.
+- Fixed issues:
+    - Some games with localized names would not show their edits in Steam.
+
+v1.2 - December 22, 2019
+- What's new:
+    - Option to remove games from Steam's built-in VR category.
+    - Ability to set location of appinfo.vdf file, in case SteamEdit can't find it.
+    - Remember position and size of main window.
+- Fixed issues:
+    - When app selection dropdown is open, PgUp/PgDn should scroll in pages, instead of moving by single items.
+- Known issues:
+    - UI doesn't look great at high DPI settings.
+    - Sometimes after manually typing text into the Games list textbox, it can remain selected when returning focus to
+      the list textbox. Can make it difficult to navigate games normally again.
+    - If two games have the same name, selecting one of those two can be difficult.
+    - When rearranging launch items, if the first item (the one with greyed out title) is moved down, it stays greyed
+      out and the new top does not get a default title.
+    - When setting a new executable for a launch item, it might not be relative to the correct install folder, if the
+      game is installed somewhere other than the default "Program Files\Steam\steamapps" location.
+    - Sorting in Games list might not match Steam's sorting in all cases.
+
+v1.1.2 - August 2, 2018
+- Hotfix release
+    - Fix bug where clearing a game's name would result in it not being visible in SteamEdit anymore.
+
+v1.1.1 - June 24, 2017
+- Hotfix release
+    - Users were reporting crashes at startup and when saving changes. I wasn't able to reproduce the problem, but this
+      release should help in the situations I know of.
+
+v1.1 - May 28, 2017
+- What's new:
+    - Filters for different types of entries. Instead of just seeing games can now see games, applications, videos, and
+      more.
+    - Expose "controller support" setting.
+    - Batch operation for "controller support", to change all games from a specific setting to a different one.
+    - "autofix" command has "-forcestart" option, to start steam even if it isn't already running.
+- Fixed issues:
+    - Possible case where edited "launch" items could end up in wrong order.
+- Known issues:
+    - UI doesn't look great at high DPI settings.
+    - Sometimes after manually typing text into the Games list textbox, it can remain selected when returning focus to
+      the list textbox. Can make it difficult to navigate games normally again.
+    - If two games have the same name, selecting one of those two can be difficult.
+    - When rearranging launch items, if the first item (the one with greyed out title) is moved down, it stays greyed
+      out and the new top does not get a default title.
+    - When setting a new executable for a launch item, it might not be relative to the correct install folder, if the
+      game is installed somewhere other than the default "Program Files\Steam\steamapps" location.
+
+v1.0 - May 13, 2017
+- Initial release
+- Supports appinfo.vdf 0x07564427 (Introduced early January 2017).
+- Known issues:
+    - UI doesn't look great at high DPI settings.
+    - Sometimes after manually typing text into the Games list textbox, it can remain selected when returning focus to
+      the list textbox. Can make it difficult to navigate games normally again.
