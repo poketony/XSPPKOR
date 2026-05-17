@@ -1,0 +1,110 @@
+[PP04.DrawBattleAnalyze]
+analyze_text_y_padding = 4
+
+[PP04.DrawBattleEnemyArea]
+enemy_special_name_y = 125
+
+[PP04.DrawBattleEnemyMenu]
+enemy_attack_detail_y_base_normal = 190
+enemy_attack_detail_y_base_special = 190
+enemy_name_y = 170
+
+[PP04.DrawBattleEtherMenu]
+ether_menu_text_y_base = 170
+
+[PP04.DrawBattleEtherMenu2]
+ether_selected_text_y = 170
+
+[PP04.DrawBattleEtherName]
+ether_name_y = 125
+
+[PP04.DrawBattleItemMenu]
+item_menu_text_y_base = 170
+
+[PP04.DrawBattleItemMenu2]
+item_selected_text_y = 170
+
+[PP04.DrawBattleItemName]
+item_name_y = 125
+
+[PP04.DrawBattleMenu]
+attack_menu_text_y_base = 170
+
+[PP04.DrawBattleMenu2]
+attack_selected_text_y_base = 170
+
+[PP04.DrawBattleNoEffect]
+message_y = 125
+
+[PP04.DrawBattleNoEtherExec]
+message_y = 125
+
+[PP04.DrawBattleNoGoodbye]
+message_y = 125
+
+[PP04.DrawBattlePsychoPocket]
+psychopocket_message_y = 125
+
+[PP04.DrawBattleRootMenu]
+root_menu_text_y_base = 170
+
+[PP04.DrawBattleSpName]
+player_special_name_y_subtract = 1
+
+[PP04.DrawBattleStatus]
+player_status_name_y_add = 4
+
+[PP04.DrawMapMenuChara]
+header_level_y_add = 6
+header_name_y_add = 6
+move_character_x_offset = 42
+role_x_offset = 59
+
+[PP04.DrawMapMenuConfig]
+config_desc_y = 185
+config_list_y_base = 96
+config_value_y_base_onoff = 96
+config_value_y_base_sound = 96
+
+[PP04.DrawMapMenuEquip]
+armor_label_y = 145
+armor_name_y = 163
+equip_desc_y = 223
+equip_empty_line1_y = 94
+equip_empty_line2_y = 107
+equip_list_y_base = 94
+header_level_y = 26
+header_name_y = 26
+reserve_x_offset = 59
+reserve_y = 65
+special_desc_y = 215
+special_list_y_base = 102
+weapon_label_y = 105
+weapon_name_y = 123
+
+[PP04.DrawMapMenuEther]
+ether_cost_y_base = 69
+ether_desc_y = 209
+ether_empty_y = 69
+ether_ep_shortage_y = 114
+ether_list_y_base = 69
+
+[PP04.DrawMapMenuItem]
+item_count_y_base = 70
+item_desc_y = 209
+item_empty_y = 70
+item_list_y_base = 70
+
+[PP04.DrawResultItemGet]
+result_item_list_y_base = 111
+result_item_none_y = 111
+result_item_title_y = 83
+
+[PP04.DrawTalk]
+talk_base_x = 30
+talk_face_x_indent = 0
+
+[PP04.DrawTalk2]
+talk2_text_x_end_default = 40
+talk2_text_x_last_default = 40
+talk2_text_x_progress_default = 40

@@ -1,0 +1,40 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0/win-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {},
+    ".NETCoreApp,Version=v7.0/win-x64": {
+      "dll_ui_tool/1.0.0": {
+        "dependencies": {
+          "dnlib": "4.4.0.0"
+        },
+        "runtime": {
+          "dll_ui_tool.dll": {}
+        }
+      },
+      "dnlib/4.4.0.0": {
+        "runtime": {
+          "dnlib.dll": {
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dll_ui_tool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "dnlib/4.4.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

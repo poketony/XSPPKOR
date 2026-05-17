@@ -1,0 +1,675 @@
+# Xenosaga PP UI text coordinate values
+# Decimal integers only. Every key here is importable.
+
+[PP01.DrawBattleAnalyze]
+analyze_text_y_padding = 4
+
+[PP01.DrawBattleEnemyArea]
+enemy_special_name_y = 125
+
+[PP01.DrawBattleEnemyMenu]
+enemy_attack_detail_y_base_normal = 190
+enemy_attack_detail_y_base_special = 190
+enemy_name_y = 170
+
+[PP01.DrawBattleEtherMenu]
+ether_menu_text_y_base = 170
+
+[PP01.DrawBattleEtherMenu2]
+ether_selected_text_y = 170
+
+[PP01.DrawBattleEtherName]
+ether_name_y = 125
+
+[PP01.DrawBattleItemMenu]
+item_menu_text_y_base = 170
+
+[PP01.DrawBattleItemMenu2]
+item_selected_text_y = 170
+
+[PP01.DrawBattleItemName]
+item_name_y = 125
+
+[PP01.DrawBattleMenu]
+attack_menu_text_y_base = 170
+
+[PP01.DrawBattleMenu2]
+attack_selected_text_y_base = 170
+
+[PP01.DrawBattleNoEffect]
+message_y = 125
+
+[PP01.DrawBattleNoEtherExec]
+message_y = 125
+
+[PP01.DrawBattleNoGoodbye]
+message_y = 125
+
+[PP01.DrawBattlePsychoPocket]
+psychopocket_message_y = 125
+
+[PP01.DrawBattleRootMenu]
+root_menu_text_y_base = 170
+
+[PP01.DrawBattleSpName]
+player_special_name_y_subtract = 1
+
+[PP01.DrawBattleStatus]
+player_status_name_y_add = 4
+
+[PP01.DrawMapMenuChara]
+header_level_y_add = 6
+header_name_y_add = 6
+move_character_x_offset = 42
+role_x_offset = 59
+
+[PP01.DrawMapMenuConfig]
+config_desc_y = 185
+config_list_y_base = 96
+config_value_y_base_onoff = 96
+config_value_y_base_sound = 96
+
+[PP01.DrawMapMenuEquip]
+armor_label_y = 145
+armor_name_y = 163
+equip_desc_y = 223
+equip_empty_line1_y = 94
+equip_empty_line2_y = 107
+equip_list_y_base = 94
+header_level_y = 26
+header_name_y = 26
+reserve_x_offset = 59
+reserve_y = 65
+special_desc_y = 215
+special_list_y_base = 102
+weapon_label_y = 105
+weapon_name_y = 123
+
+[PP01.DrawMapMenuEther]
+ether_cost_y_base = 69
+ether_desc_y = 209
+ether_empty_y = 69
+ether_ep_shortage_y = 114
+ether_list_y_base = 69
+
+[PP01.DrawMapMenuItem]
+item_count_y_base = 70
+item_desc_y = 209
+item_empty_y = 70
+item_list_y_base = 70
+
+[PP01.DrawResultItemGet]
+result_item_list_y_base = 110
+result_item_none_y = 111
+result_item_title_y = 83
+
+[PP01.DrawTalk]
+talk_base_x = 30
+talk_face_x_indent = 0
+
+[PP01.DrawTalk2]
+talk2_text_x_end_default = 40
+talk2_text_x_last_default = 40
+talk2_text_x_progress_default = 40
+
+[PP02.DrawBattleAnalyze]
+analyze_text_y_padding = 4
+
+[PP02.DrawBattleEnemyArea]
+enemy_special_name_y = 125
+
+[PP02.DrawBattleEnemyMenu]
+enemy_attack_detail_y_base_normal = 190
+enemy_attack_detail_y_base_special = 190
+enemy_name_y = 170
+
+[PP02.DrawBattleEtherMenu]
+ether_menu_text_y_base = 170
+
+[PP02.DrawBattleEtherMenu2]
+ether_selected_text_y = 170
+
+[PP02.DrawBattleEtherName]
+ether_name_y = 125
+
+[PP02.DrawBattleItemMenu]
+item_menu_text_y_base = 170
+
+[PP02.DrawBattleItemMenu2]
+item_selected_text_y = 170
+
+[PP02.DrawBattleItemName]
+item_name_y = 125
+
+[PP02.DrawBattleMenu]
+attack_menu_text_y_base = 170
+
+[PP02.DrawBattleMenu2]
+attack_selected_text_y_base = 170
+
+[PP02.DrawBattleNoEffect]
+message_y = 125
+
+[PP02.DrawBattleNoEtherExec]
+message_y = 125
+
+[PP02.DrawBattleNoGoodbye]
+message_y = 125
+
+[PP02.DrawBattlePsychoPocket]
+psychopocket_message_y = 125
+
+[PP02.DrawBattleRootMenu]
+root_menu_text_y_base = 170
+
+[PP02.DrawBattleSpName]
+player_special_name_y_subtract = 1
+
+[PP02.DrawBattleStatus]
+player_status_name_y_add = 4
+
+[PP02.DrawMapMenuChara]
+header_level_y_add = 6
+header_name_y_add = 6
+move_character_x_offset = 42
+role_x_offset = 59
+
+[PP02.DrawMapMenuConfig]
+config_desc_y = 185
+config_list_y_base = 96
+config_value_y_base_onoff = 96
+config_value_y_base_sound = 96
+
+[PP02.DrawMapMenuEquip]
+armor_label_y = 145
+armor_name_y = 163
+equip_desc_y = 223
+equip_empty_line1_y = 94
+equip_empty_line2_y = 107
+equip_list_y_base = 94
+header_level_y = 26
+header_name_y = 26
+reserve_x_offset = 59
+reserve_y = 65
+special_desc_y = 215
+special_list_y_base = 102
+weapon_label_y = 105
+weapon_name_y = 123
+
+[PP02.DrawMapMenuEther]
+ether_cost_y_base = 69
+ether_desc_y = 209
+ether_empty_y = 69
+ether_ep_shortage_y = 114
+ether_list_y_base = 69
+
+[PP02.DrawMapMenuItem]
+item_count_y_base = 70
+item_desc_y = 209
+item_empty_y = 70
+item_list_y_base = 70
+
+[PP02.DrawResultItemGet]
+result_item_list_y_base = 111
+result_item_none_y = 111
+result_item_title_y = 83
+
+[PP02.DrawTalk]
+talk_base_x = 30
+talk_face_x_indent = 0
+
+[PP02.DrawTalk2]
+talk2_text_x_end_default = 40
+talk2_text_x_last_default = 40
+talk2_text_x_progress_default = 40
+
+[PP03.DrawBattleAnalyze]
+analyze_text_y_padding = 4
+
+[PP03.DrawBattleEnemyArea]
+enemy_special_name_y = 125
+
+[PP03.DrawBattleEnemyMenu]
+enemy_attack_detail_y_base_normal = 190
+enemy_attack_detail_y_base_special = 190
+enemy_name_y = 170
+
+[PP03.DrawBattleEtherMenu]
+ether_menu_text_y_base = 170
+
+[PP03.DrawBattleEtherMenu2]
+ether_selected_text_y = 170
+
+[PP03.DrawBattleEtherName]
+ether_name_y = 125
+
+[PP03.DrawBattleItemMenu]
+item_menu_text_y_base = 170
+
+[PP03.DrawBattleItemMenu2]
+item_selected_text_y = 170
+
+[PP03.DrawBattleItemName]
+item_name_y = 125
+
+[PP03.DrawBattleMenu]
+attack_menu_text_y_base = 170
+
+[PP03.DrawBattleMenu2]
+attack_selected_text_y_base = 170
+
+[PP03.DrawBattleNoEffect]
+message_y = 125
+
+[PP03.DrawBattleNoEtherExec]
+message_y = 125
+
+[PP03.DrawBattleNoGoodbye]
+message_y = 125
+
+[PP03.DrawBattlePsychoPocket]
+psychopocket_message_y = 125
+
+[PP03.DrawBattleRootMenu]
+root_menu_text_y_base = 170
+
+[PP03.DrawBattleSpName]
+player_special_name_y_subtract = 1
+
+[PP03.DrawBattleStatus]
+player_status_name_y_add = 4
+
+[PP03.DrawMapMenuChara]
+header_level_y_add = 6
+header_name_y_add = 6
+move_character_x_offset = 42
+role_x_offset = 59
+
+[PP03.DrawMapMenuConfig]
+config_desc_y = 185
+config_list_y_base = 96
+config_value_y_base_onoff = 96
+config_value_y_base_sound = 96
+
+[PP03.DrawMapMenuEquip]
+armor_label_y = 145
+armor_name_y = 163
+equip_desc_y = 223
+equip_empty_line1_y = 94
+equip_empty_line2_y = 107
+equip_list_y_base = 94
+header_level_y = 26
+header_name_y = 26
+reserve_x_offset = 59
+reserve_y = 65
+special_desc_y = 215
+special_list_y_base = 102
+weapon_label_y = 105
+weapon_name_y = 123
+
+[PP03.DrawMapMenuEther]
+ether_cost_y_base = 69
+ether_desc_y = 209
+ether_empty_y = 69
+ether_ep_shortage_y = 114
+ether_list_y_base = 69
+
+[PP03.DrawMapMenuItem]
+item_count_y_base = 70
+item_desc_y = 209
+item_empty_y = 70
+item_list_y_base = 70
+
+[PP03.DrawResultItemGet]
+result_item_list_y_base = 111
+result_item_none_y = 111
+result_item_title_y = 83
+
+[PP03.DrawTalk]
+talk_base_x = 30
+talk_face_x_indent = 0
+
+[PP03.DrawTalk2]
+talk2_text_x_end_default = 40
+talk2_text_x_last_default = 40
+talk2_text_x_progress_default = 40
+
+[PP04.DrawBattleAnalyze]
+analyze_text_y_padding = 4
+
+[PP04.DrawBattleEnemyArea]
+enemy_special_name_y = 125
+
+[PP04.DrawBattleEnemyMenu]
+enemy_attack_detail_y_base_normal = 190
+enemy_attack_detail_y_base_special = 190
+enemy_name_y = 170
+
+[PP04.DrawBattleEtherMenu]
+ether_menu_text_y_base = 170
+
+[PP04.DrawBattleEtherMenu2]
+ether_selected_text_y = 170
+
+[PP04.DrawBattleEtherName]
+ether_name_y = 125
+
+[PP04.DrawBattleItemMenu]
+item_menu_text_y_base = 170
+
+[PP04.DrawBattleItemMenu2]
+item_selected_text_y = 170
+
+[PP04.DrawBattleItemName]
+item_name_y = 125
+
+[PP04.DrawBattleMenu]
+attack_menu_text_y_base = 170
+
+[PP04.DrawBattleMenu2]
+attack_selected_text_y_base = 170
+
+[PP04.DrawBattleNoEffect]
+message_y = 125
+
+[PP04.DrawBattleNoEtherExec]
+message_y = 125
+
+[PP04.DrawBattleNoGoodbye]
+message_y = 125
+
+[PP04.DrawBattlePsychoPocket]
+psychopocket_message_y = 125
+
+[PP04.DrawBattleRootMenu]
+root_menu_text_y_base = 170
+
+[PP04.DrawBattleSpName]
+player_special_name_y_subtract = 1
+
+[PP04.DrawBattleStatus]
+player_status_name_y_add = 4
+
+[PP04.DrawMapMenuChara]
+header_level_y_add = 6
+header_name_y_add = 6
+move_character_x_offset = 42
+role_x_offset = 59
+
+[PP04.DrawMapMenuConfig]
+config_desc_y = 185
+config_list_y_base = 96
+config_value_y_base_onoff = 96
+config_value_y_base_sound = 96
+
+[PP04.DrawMapMenuEquip]
+armor_label_y = 145
+armor_name_y = 163
+equip_desc_y = 223
+equip_empty_line1_y = 94
+equip_empty_line2_y = 107
+equip_list_y_base = 94
+header_level_y = 26
+header_name_y = 26
+reserve_x_offset = 59
+reserve_y = 65
+special_desc_y = 215
+special_list_y_base = 102
+weapon_label_y = 105
+weapon_name_y = 123
+
+[PP04.DrawMapMenuEther]
+ether_cost_y_base = 69
+ether_desc_y = 209
+ether_empty_y = 69
+ether_ep_shortage_y = 114
+ether_list_y_base = 69
+
+[PP04.DrawMapMenuItem]
+item_count_y_base = 70
+item_desc_y = 209
+item_empty_y = 70
+item_list_y_base = 70
+
+[PP04.DrawResultItemGet]
+result_item_list_y_base = 111
+result_item_none_y = 111
+result_item_title_y = 83
+
+[PP04.DrawTalk]
+talk_base_x = 30
+talk_face_x_indent = 0
+
+[PP04.DrawTalk2]
+talk2_text_x_end_default = 40
+talk2_text_x_last_default = 40
+talk2_text_x_progress_default = 40
+
+[PP05.DrawBattleAnalyze]
+analyze_text_y_padding = 4
+
+[PP05.DrawBattleEnemyArea]
+enemy_special_name_y = 125
+
+[PP05.DrawBattleEnemyMenu]
+enemy_attack_detail_y_base_normal = 190
+enemy_attack_detail_y_base_special = 190
+enemy_name_y = 170
+
+[PP05.DrawBattleEtherMenu]
+ether_menu_text_y_base = 170
+
+[PP05.DrawBattleEtherMenu2]
+ether_selected_text_y = 170
+
+[PP05.DrawBattleEtherName]
+ether_name_y = 125
+
+[PP05.DrawBattleItemMenu]
+item_menu_text_y_base = 170
+
+[PP05.DrawBattleItemMenu2]
+item_selected_text_y = 170
+
+[PP05.DrawBattleItemName]
+item_name_y = 125
+
+[PP05.DrawBattleMenu]
+attack_menu_text_y_base = 170
+
+[PP05.DrawBattleMenu2]
+attack_selected_text_y_base = 170
+
+[PP05.DrawBattleNoEffect]
+message_y = 125
+
+[PP05.DrawBattleNoEtherExec]
+message_y = 125
+
+[PP05.DrawBattleNoGoodbye]
+message_y = 125
+
+[PP05.DrawBattlePsychoPocket]
+psychopocket_message_y = 125
+
+[PP05.DrawBattleRootMenu]
+root_menu_text_y_base = 170
+
+[PP05.DrawBattleSpName]
+player_special_name_y_subtract = 1
+
+[PP05.DrawBattleStatus]
+player_status_name_y_add = 4
+
+[PP05.DrawMapMenuChara]
+header_level_y_add = 6
+header_name_y_add = 6
+move_character_x_offset = 42
+role_x_offset = 59
+
+[PP05.DrawMapMenuConfig]
+config_desc_y = 185
+config_list_y_base = 96
+config_value_y_base_onoff = 96
+config_value_y_base_sound = 96
+
+[PP05.DrawMapMenuEquip]
+armor_label_y = 145
+armor_name_y = 163
+equip_desc_y = 223
+equip_empty_line1_y = 94
+equip_empty_line2_y = 107
+equip_list_y_base = 94
+header_level_y = 26
+header_name_y = 26
+reserve_x_offset = 59
+reserve_y = 65
+special_desc_y = 215
+special_list_y_base = 102
+weapon_label_y = 105
+weapon_name_y = 123
+
+[PP05.DrawMapMenuEther]
+ether_cost_y_base = 69
+ether_desc_y = 209
+ether_empty_y = 69
+ether_ep_shortage_y = 114
+ether_list_y_base = 69
+
+[PP05.DrawMapMenuItem]
+item_count_y_base = 70
+item_desc_y = 209
+item_empty_y = 70
+item_list_y_base = 70
+
+[PP05.DrawResultItemGet]
+result_item_list_y_base = 111
+result_item_none_y = 111
+result_item_title_y = 83
+
+[PP05.DrawTalk]
+talk_base_x = 30
+talk_face_x_indent = 0
+
+[PP05.DrawTalk2]
+talk2_text_x_end_default = 40
+talk2_text_x_last_default = 40
+talk2_text_x_progress_default = 40
+
+[PP06.DrawBattleAnalyze]
+analyze_text_y_padding = 4
+
+[PP06.DrawBattleEnemyArea]
+enemy_special_name_y = 125
+
+[PP06.DrawBattleEnemyMenu]
+enemy_attack_detail_y_base_normal = 190
+enemy_attack_detail_y_base_special = 190
+enemy_name_y = 170
+
+[PP06.DrawBattleEtherMenu]
+ether_menu_text_y_base = 170
+
+[PP06.DrawBattleEtherMenu2]
+ether_selected_text_y = 170
+
+[PP06.DrawBattleEtherName]
+ether_name_y = 125
+
+[PP06.DrawBattleItemMenu]
+item_menu_text_y_base = 170
+
+[PP06.DrawBattleItemMenu2]
+item_selected_text_y = 170
+
+[PP06.DrawBattleItemName]
+item_name_y = 125
+
+[PP06.DrawBattleMenu]
+attack_menu_text_y_base = 170
+
+[PP06.DrawBattleMenu2]
+attack_selected_text_y_base = 170
+
+[PP06.DrawBattleNoEffect]
+message_y = 125
+
+[PP06.DrawBattleNoEtherExec]
+message_y = 125
+
+[PP06.DrawBattleNoGoodbye]
+message_y = 125
+
+[PP06.DrawBattlePsychoPocket]
+psychopocket_message_y = 125
+
+[PP06.DrawBattleRootMenu]
+root_menu_text_y_base = 170
+
+[PP06.DrawBattleSpName]
+player_special_name_y_subtract = 1
+
+[PP06.DrawBattleStatus]
+player_status_name_y_add = 4
+
+[PP06.DrawMapMenuChara]
+header_level_y_add = 6
+header_name_y_add = 6
+move_character_x_offset = 42
+role_x_offset = 59
+
+[PP06.DrawMapMenuConfig]
+config_desc_y = 185
+config_list_y_base = 96
+config_value_y_base_onoff = 96
+config_value_y_base_sound = 96
+
+[PP06.DrawMapMenuEquip]
+armor_label_y = 145
+armor_name_y = 163
+equip_desc_y = 223
+equip_empty_line1_y = 94
+equip_empty_line2_y = 107
+equip_list_y_base = 94
+header_level_y = 26
+header_name_y = 26
+reserve_x_offset = 59
+reserve_y = 65
+special_desc_y = 215
+special_list_y_base = 102
+weapon_label_y = 105
+weapon_name_y = 123
+
+[PP06.DrawMapMenuEther]
+ether_cost_y_base = 69
+ether_desc_y = 209
+ether_empty_y = 69
+ether_ep_shortage_y = 114
+ether_list_y_base = 69
+
+[PP06.DrawMapMenuItem]
+item_count_y_base = 70
+item_desc_y = 209
+item_empty_y = 70
+item_list_y_base = 70
+
+[PP06.DrawResultItemGet]
+result_item_list_y_base = 111
+result_item_none_y = 111
+result_item_title_y = 83
+
+[PP06.DrawTalk]
+talk_base_x = 30
+talk_face_x_indent = 0
+
+[PP06.DrawTalk2]
+talk2_text_x_end_default = 40
+talk2_text_x_end_visual15_16 = 0
+talk2_text_x_end_visual17_19 = 80
+talk2_text_x_last_default = 40
+talk2_text_x_last_visual15_16 = 0
+talk2_text_x_last_visual17_19 = 80
+talk2_text_x_progress_default = 40
+talk2_text_x_progress_visual15_16 = 0
+talk2_text_x_progress_visual17_19 = 80
+
