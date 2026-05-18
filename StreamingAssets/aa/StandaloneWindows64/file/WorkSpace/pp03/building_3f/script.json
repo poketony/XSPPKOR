@@ -25,5 +25,31 @@
       "손에 넣었다!",
       "아무것도 들어 있지 않은 것 같다."
     ]
+  },
+  {
+    "scene": 1,
+    "marker": "raw_opcode_rescue",
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      204
+    ],
+    "msg_ptrs": [
+      396
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "エレベーターは故障しているようだ。"
+    ],
+    "trans": [
+      "엘리베이터는 고장 난 것 같다."
+    ],
+    "line_notes": [
+      "raw opcode rescue: opcode=0x04 pos=0x00CC ptr=0x018C"
+    ],
+    "ptr_positions": [
+      204
+    ]
   }
 ]

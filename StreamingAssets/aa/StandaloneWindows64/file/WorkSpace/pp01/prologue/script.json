@@ -624,5 +624,31 @@
     ],
     "_inline_start": 676,
     "_inline_size": 28
+  },
+  {
+    "scene": 31,
+    "marker": "raw_opcode_rescue",
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      10
+    ],
+    "msg_ptrs": [
+      646
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "　　　　　　惑星アブラクサス"
+    ],
+    "trans": [
+      "　　　　　　행성 아브락사스"
+    ],
+    "line_notes": [
+      "raw opcode rescue: opcode=0x1B pos=0x000A ptr=0x0286"
+    ],
+    "ptr_positions": [
+      10
+    ]
   }
 ]

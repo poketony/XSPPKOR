@@ -62,5 +62,31 @@
       "중복 호출",
       "중복 호출"
     ]
+  },
+  {
+    "scene": 2,
+    "marker": "raw_opcode_rescue",
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      208
+    ],
+    "msg_ptrs": [
+      373
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "エレベーターは故障しているようだ。"
+    ],
+    "trans": [
+      "엘리베이터는 고장 난 것 같다."
+    ],
+    "line_notes": [
+      "raw opcode rescue: opcode=0x04 pos=0x00D0 ptr=0x0175"
+    ],
+    "ptr_positions": [
+      208
+    ]
   }
 ]

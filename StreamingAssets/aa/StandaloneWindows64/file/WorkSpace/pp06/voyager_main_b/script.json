@@ -148,5 +148,37 @@
       "중복 호출",
       "중복 호출"
     ]
+  },
+  {
+    "scene": 5,
+    "marker": "raw_opcode_rescue",
+    "speaker_pos": -1,
+    "speaker_ptr": -1,
+    "msg_positions": [
+      655,
+      658
+    ],
+    "msg_ptrs": [
+      843,
+      859
+    ],
+    "speaker": "",
+    "speaker_trans": "",
+    "lines": [
+      "ローズＭＡＸを",
+      "手に入れた！"
+    ],
+    "trans": [
+      "로즈 MAX를",
+      "손에 넣었다!"
+    ],
+    "line_notes": [
+      "raw opcode rescue: opcode=0x04 pos=0x028F ptr=0x034B",
+      "raw opcode rescue: opcode=0x04 pos=0x0292 ptr=0x035B"
+    ],
+    "ptr_positions": [
+      655,
+      658
+    ]
   }
 ]
